@@ -17,30 +17,86 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Ph.D. student at Illinois Institute of Technology advised by Dr. <a href="http://www.cs.iit.edu/~kshu/">Kai Shu</a>. I obtained my M.S. degree in Computer Science from University of Oregon (advised by Dr. <a href="https://ix.cs.uoregon.edu/~thien/">Thien Nguyen</a>), and my B.S. degree in computer science from Purdue University working with Dr. <a href="https://yhlu.net/">Yung-Hsiang Lu</a>.
+I am a third-year Ph.D. candidate at Illinois Institute of Technology advised by Dr. <a href="http://www.cs.iit.edu/~kshu/">Kai Shu</a>. I obtained my M.S. degree in computer science from University of Oregon in 2021 (advised by Dr. <a href="https://ix.cs.uoregon.edu/~thien/">Thien Nguyen</a>), and my B.S. degree in computer science from Purdue University in 2019 working with Dr. <a href="https://yhlu.net/">Yung-Hsiang Lu</a>.
+
+> I am actively seeking industry research internship for Summer 2025.
+
+# 💡 Research
 
 My research involves building trustworthy AI systems, with a specific emphasis on enhancing both robustness and interpretability. I am broadly interested in fundamental research and interdisciplinary collaborations motivated by important applications, including detecting misinformation and analyzing social network.
 
 # 🔥 News
 
+- _2024.08_: &nbsp;🎉🎉 Our Fin-Fact dataset has been used for shared task for FinNLP@COLING2025.
 - _2024.07_: &nbsp;🎉🎉 One paper has been accepted by CIKM 2024.
-- _2024.02_: &nbsp;🎉🎉 One paper has been accepted by ICML 2024.
+- _2024.05_: &nbsp;🎉🎉 One paper has been accepted by ICML 2024.
+- _2024.02_: &nbsp;🎉🎉 Passed Ph.D. Qualifying Exam.
 - _2023.10_: &nbsp;🎉🎉 One paper has been accepted by EMNLP 2023.
-- _2023.01_: &nbsp;🎉🎉 One paper has been accepted by WWW 2023.
+- _2023.02_: &nbsp;🎉🎉 One paper has been accepted by WWW 2023.
 
 # 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2024</div><img src='images/cikm24.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Trojan Activation Attack: Red-Teaming Large Language Models using Steering Vectors for Safety-Alignment](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Trojan Activation Attack: Red-Teaming Large Language Models using Steering Vectors for Safety-Alignment](https://arxiv.org/abs/2311.09433)
 
 **Haoran Wang**, Kai Shu
 
-[**Code**](https://github.com/)
+_Proceedings of ACM International Conference on Information and Knowledge Management 2024_
+
+[**GitHub**](https://github.com/wang2226/Trojan-Activation-Attack)
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/icml24.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TrustLLM: Trustworthiness in Large Language Models](https://proceedings.mlr.press/v235/huang24x.html)
+
+Lichao Sun\*, Yue Huang\*, **Haoran Wang\***, Siyuan Wu\*, Qihui Zhang\*, Chujie Gao\*, Yixin Huang\*, Wenhan Lyu\*, Yixuan Zhang\*, Xiner Li\*, Zhengliang Liu\*, Yixin Liu\*, Yijue Wang\*, Zhikun Zhang\*, Bhavya Kailkhura, Caiming Xiong, et al. (\*: major contribution).
+
+_Proceedings of The Forty-first International Conference on Machine Learning_
+
+[**GitHub**](https://github.com/HowieHwong/TrustLLM) &nbsp;&nbsp; [**Project Website**](https://trustllmbenchmark.github.io/TrustLLM-Website/)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='images/emnlp23.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Explainable Claim Verification via Knowledge-Grounded Reasoning with Large Language Models](https://aclanthology.org/2023.findings-emnlp.416/)
+
+**Haoran Wang**, Kai Shu
+
+_Findings of EMNLP 2023_
+
+[**GitHub**](https://github.com/wang2226/FOLK) &nbsp;&nbsp; [**NILLI Workshop@EMNLP23**](https://www.cs.mcgill.ca/~pparth2/nilli_workshop_2023/)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2023</div><img src='images/www23.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Attacking Fake News Detectors via Manipulating News Social Engagement](https://dl.acm.org/doi/10.1145/3543507.3583868)
+
+**Haoran Wang**, Yingtong Dou, Canyu Chen, Lichao Sun, Philip S. Yu, Kai Shu
+
+_Proceedings of ACM Web Conference 2023_
+
+[**GitHub**](https://github.com/hwang219/AttackFakeNews) &nbsp;&nbsp; [**Video**](https://vimeo.com/817846141?share=copy) &nbsp;&nbsp; [**Blog from Montreal AI Ethics Institute**](https://montrealethics.ai/attacking-fake-news-detectors-via-manipulating-news-social-engagement/)
+
+</div>
+</div>
+
+# 📝 Preprints
+
+- [FIN-FACT: A Benchmark Dataset for Multimodal Financial Fact Checking and Explanation Generation](https://arxiv.org/abs/2309.08793) Aman Rangapura, **Haoran Wang**, Ling Jian, Kai Shu
+- [Investigating Online Financial Misinformation and Its Consequences: A Computational Perspective](https://arxiv.org/abs/2309.12363) Aman Rangapura, **Haoran Wang**, Kai Shu
+- [Combating Health Misinformation in Social Media: Characterization, Detection, Intervention, and Open Issues](https://arxiv.org/abs/2211.05289) Canyu Chen\*, **Haoran Wang\***, Matthew Shapiro, Yunyu Xiao, Fei Wang, Kai Shu (\*: eqaul contribution)
 
 # 📖 Educations
 
@@ -48,16 +104,4 @@ My research involves building trustworthy AI systems, with a specific emphasis o
 - _2021_, M.S., Computer Science. University of Oregon, Eugene, OR, USA.
 - _2019_, B.S., Computer Science. Purdue University, West Lafayette, IN, USA.
 
-<!-- # 🎖 Honors and Awards
-
-- _2021.10_ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- _2021.09_ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-
-# 💬 Invited Talks
-
-- _2021.06_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- _2021.03_, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-
-- _2019.05 - 2020.02_, [Lorem](https://github.com/), China. -->
+<a href="https://mapmyvisitors.com/web/1bweu"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=SDWOZvjcEGQvmbkHt5vCf__HQwaniKPTjud79Y2vHsE&cl=ffffff" /></a>
