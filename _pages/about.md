@@ -27,12 +27,10 @@ My research involves building trustworthy AI systems, with a specific emphasis o
 
 # 🔥 News
 
-- _2024.08_: &nbsp;🎉🎉 Our Fin-Fact dataset has been used for shared task for FinNLP@COLING2025.
-- _2024.07_: &nbsp;🎉🎉 One paper has been accepted by CIKM 2024.
-- _2024.05_: &nbsp;🎉🎉 One paper has been accepted by ICML 2024.
+- _2024.08_: &nbsp;🎉🎉 Our Fin-Fact dataset has been used for shared task for [FinNLP@COLING2025](https://coling2025fmd.thefin.ai/).
+- _2024.07_: &nbsp;🎉🎉 One paper has been accepted by [CIKM 2024](https://arxiv.org/abs/2311.09433).
+- _2024.05_: &nbsp;🎉🎉 One paper has been accepted by [ICML 2024](https://arxiv.org/pdf/2401.05561).
 - _2024.02_: &nbsp;🎉🎉 Passed Ph.D. Qualifying Exam.
-- _2023.10_: &nbsp;🎉🎉 One paper has been accepted by EMNLP 2023.
-- _2023.02_: &nbsp;🎉🎉 One paper has been accepted by WWW 2023.
 
 # 📝 Publications
 
@@ -45,7 +43,7 @@ My research involves building trustworthy AI systems, with a specific emphasis o
 
 _Proceedings of ACM International Conference on Information and Knowledge Management 2024_
 
-[**GitHub**](https://github.com/wang2226/Trojan-Activation-Attack)
+[**GitHub**](https://github.com/wang2226/Trojan-Activation-Attack) ![](https://img.shields.io/github/stars/wang2226/Trojan-Activation-Attack)
 
 </div>
 </div>
@@ -59,7 +57,7 @@ Lichao Sun\*, Yue Huang\*, **Haoran Wang\***, Siyuan Wu\*, Qihui Zhang\*, Chujie
 
 _Proceedings of The Forty-first International Conference on Machine Learning_
 
-[**GitHub**](https://github.com/HowieHwong/TrustLLM) &nbsp;&nbsp; [**Project Website**](https://trustllmbenchmark.github.io/TrustLLM-Website/)
+[**GitHub**](https://github.com/HowieHwong/TrustLLM) ![](https://img.shields.io/github/stars/HowieHwong/TrustLLM) &nbsp;&nbsp; [![Website](https://img.shields.io/badge/Website-%F0%9F%8C%8D-blue)](https://trustllmbenchmark.github.io/TrustLLM-Website/) &nbsp;&nbsp; [![Downloads](https://static.pepy.tech/badge/trustllm)](https://pepy.tech/project/trustllm)
 
 </div>
 </div>
@@ -73,7 +71,7 @@ _Proceedings of The Forty-first International Conference on Machine Learning_
 
 _Findings of EMNLP 2023_
 
-[**GitHub**](https://github.com/wang2226/FOLK) &nbsp;&nbsp; [**NILLI Workshop@EMNLP23**](https://www.cs.mcgill.ca/~pparth2/nilli_workshop_2023/)
+[**GitHub**](https://github.com/wang2226/FOLK) ![](https://img.shields.io/github/stars/wang2226/FOLK) &nbsp;&nbsp; [**NILLI Workshop@EMNLP23**](https://www.cs.mcgill.ca/~pparth2/nilli_workshop_2023/)
 
 </div>
 </div>
@@ -87,7 +85,7 @@ _Findings of EMNLP 2023_
 
 _Proceedings of ACM Web Conference 2023_
 
-[**GitHub**](https://github.com/hwang219/AttackFakeNews) &nbsp;&nbsp; [**Video**](https://vimeo.com/817846141?share=copy) &nbsp;&nbsp; [**Blog from Montreal AI Ethics Institute**](https://montrealethics.ai/attacking-fake-news-detectors-via-manipulating-news-social-engagement/)
+[**GitHub**](https://github.com/hwang219/AttackFakeNews) ![](https://img.shields.io/github/stars/hwang219/AttackFakeNews) &nbsp;&nbsp; [**Video**](https://vimeo.com/817846141?share=copy) &nbsp;&nbsp; [**Blog from Montreal AI Ethics Institute**](https://montrealethics.ai/attacking-fake-news-detectors-via-manipulating-news-social-engagement/)
 
 </div>
 </div>
@@ -103,5 +101,9 @@ _Proceedings of ACM Web Conference 2023_
 - _2022 - Now_, Ph.D., Computer Science. Illinois Institute of Technology, Chicago, IL, USA.
 - _2021_, M.S., Computer Science. University of Oregon, Eugene, OR, USA.
 - _2019_, B.S., Computer Science. Purdue University, West Lafayette, IN, USA.
+
+---
+
+Last updated on Sep 23, 2024.
 
 <a href="https://mapmyvisitors.com/web/1bweu"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=SDWOZvjcEGQvmbkHt5vCf__HQwaniKPTjud79Y2vHsE&cl=ffffff" /></a>
