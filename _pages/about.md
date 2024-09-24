@@ -98,9 +98,15 @@ _Proceedings of ACM Web Conference 2023_
 
 # 📖 Educations
 
-- _2022 - Now_, Ph.D., Computer Science. Illinois Institute of Technology, Chicago, IL, USA.
-- _2021_, M.S., Computer Science. University of Oregon, Eugene, OR, USA.
-- _2019_, B.S., Computer Science. Purdue University, West Lafayette, IN, USA.
+- _2022 - Now_, Ph.D., Computer Science. Illinois Institute of Technology.
+- _2021_, M.S., Computer Science. University of Oregon.
+- _2019_, B.S., Computer Science. Purdue University.
+
+# Academic Service
+
+- **Program Committee (PC):** KDD{2024, 2025}, AAAI{2024, 2025}
+- **Reviewer:** SIGIR{2023, 2024}, WWW{2023, 2024}, TKDE{2023}, NIPS{2023, 2024}, ACL{2023, 2024}, ICDM{2023, 2024}, IJCAI{2023, 2024}, PAKDD2024
+- **Volunteer:** ACM FAccT{2023}
 
 ---
 
