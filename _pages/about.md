@@ -9,15 +9,15 @@ redirect_from:
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% assign gsDataBaseUrl = "<https://cdn.jsdelivr.net/gh/>" | append: site.repository | append: "@" %}
 {% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% assign gsDataBaseUrl = "<https://raw.githubusercontent.com/>" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Ph.D. candidate at Illinois Institute of Technology advised by Dr. <a href="http://www.cs.iit.edu/~kshu/">Kai Shu</a>. I obtained my M.S. degree in computer science from University of Oregon in 2021 (advised by Dr. <a href="https://ix.cs.uoregon.edu/~thien/">Thien Nguyen</a>), and my B.S. degree in computer science from Purdue University in 2019 working with Dr. <a href="https://yhlu.net/">Yung-Hsiang Lu</a>.
+I am a third-year Ph.D. candidate at Illinois Institute of Technology advised by Dr. <a href="http://www.cs.iit.edu/~kshu/">Kai Shu</a>. I obtained my M.S. degree in computer science from University of Oregon in 2021 (advised by Dr. <a href="https://ix.cs.uoregon.edu/~thien/">Thien Nguyen</a>), and my B.S. degree in computer science from Purdue University in 2019 (working with Dr. <a href="https://yhlu.net/">Yung-Hsiang Lu</a>).
 
 > I am actively seeking industry research internship for Summer 2025.
 
@@ -92,6 +92,7 @@ _Proceedings of ACM Web Conference 2023_
 
 # 📝 Preprints
 
+- [Piecing It All Together: Verifying Multi-Hop Multimodal Claims](https://arxiv.org/abs/2411.09547) **Haoran Wang**, Aman Rangapur, Xiongxiao Xu, Yueqing Liang, Haroon Gharwi, Carl Yang, Kai Shu
 - [FIN-FACT: A Benchmark Dataset for Multimodal Financial Fact Checking and Explanation Generation](https://arxiv.org/abs/2309.08793) Aman Rangapura, **Haoran Wang**, Ling Jian, Kai Shu
 - [Investigating Online Financial Misinformation and Its Consequences: A Computational Perspective](https://arxiv.org/abs/2309.12363) Aman Rangapura, **Haoran Wang**, Kai Shu
 - [Combating Health Misinformation in Social Media: Characterization, Detection, Intervention, and Open Issues](https://arxiv.org/abs/2211.05289) Canyu Chen\*, **Haoran Wang\***, Matthew Shapiro, Yunyu Xiao, Fei Wang, Kai Shu (\*: eqaul contribution)
@@ -104,12 +105,13 @@ _Proceedings of ACM Web Conference 2023_
 
 # Academic Service
 
-- **Program Committee (PC):** KDD{2024, 2025}, AAAI{2024, 2025}
-- **Reviewer:** SIGIR{2023, 2024}, WWW{2023, 2024}, TKDE{2023}, NIPS{2023, 2024}, ACL{2023, 2024}, ICDM{2023, 2024}, IJCAI{2023, 2024}, PAKDD2024
-- **Volunteer:** ACM FAccT{2023}
+- **Session Chair:** CIKM 2024
+- **Reviewer/Program Committee:** KDD{2024, 2025}, AAAI{2024, 2025}, PAKDD{2025}
+- **Volunteer:** ACM FAccT 2023
+- **External Reviewer:** SIGIR{2023, 2024}, WWW{2023, 2024}, TKDE{2023}, NIPS{2023, 2024}, ACL{2023, 2024}, ICDM{2023, 2024}, IJCAI{2023, 2024}, PAKDD2024, SDM{2025}
 
 ---
 
-Last updated on Sep 23, 2024.
+Last updated on Nov 15, 2024.
 
 <a href="https://mapmyvisitors.com/web/1bweu"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=SDWOZvjcEGQvmbkHt5vCf__HQwaniKPTjud79Y2vHsE&cl=ffffff" /></a>

@@ -4,5 +4,7 @@ main:
     url: "/#about-me"
   - title: "CV"
     url: "/files/haoran_wang_cv.pdf"
+  - title: "Teaching"
+    url: "/teaching.html"
   - title: "Misc"
     url: "/misc.html"
