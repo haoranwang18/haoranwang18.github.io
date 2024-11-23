@@ -34,14 +34,28 @@ My research involves building trustworthy AI systems, with a specific emphasis o
 
 # 📝 Publications
 
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/coling25.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Piecing It All Together: Verifying Multi-Hop Multimodal Claims](https://arxiv.org/abs/2411.09547)
+
+**Haoran Wang**, Aman Rangapur, Xiongxiao Xu, Yueqing Liang, Haroon Gharwi, Carl Yang, Kai Shu
+
+_Proceedings of the 31st International Conference on Computational Linguistics_
+
+[**GitHub**](https://github.com/mmcv-dataset/MMCV) ![](https://img.shields.io/github/stars/mmcv-dataset/MMCV) &nbsp;&nbsp; [![Leaderboard](https://img.shields.io/badge/Leaderboard-%F0%9F%9A%80-brightgreen)](https://mmcv-dataset.github.io/)
+
+</div>
+</div> -->
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2024</div><img src='images/cikm24.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Trojan Activation Attack: Red-Teaming Large Language Models using Steering Vectors for Safety-Alignment](https://arxiv.org/abs/2311.09433)
+[Trojan Activation Attack: Red-Teaming Large Language Models using Steering Vectors for Safety-Alignment](https://dl.acm.org/doi/10.1145/3627673.3679821)
 
 **Haoran Wang**, Kai Shu
 
-_Proceedings of ACM International Conference on Information and Knowledge Management 2024_
+_Proceedings of the 33rd ACM International Conference on Information and Knowledge Management_
 
 [**GitHub**](https://github.com/wang2226/Trojan-Activation-Attack) ![](https://img.shields.io/github/stars/wang2226/Trojan-Activation-Attack)
 
@@ -53,11 +67,11 @@ _Proceedings of ACM International Conference on Information and Knowledge Manage
 
 [TrustLLM: Trustworthiness in Large Language Models](https://proceedings.mlr.press/v235/huang24x.html)
 
-Lichao Sun\*, Yue Huang\*, **Haoran Wang\***, Siyuan Wu\*, Qihui Zhang\*, Chujie Gao\*, Yixin Huang\*, Wenhan Lyu\*, Yixuan Zhang\*, Xiner Li\*, Zhengliang Liu\*, Yixin Liu\*, Yijue Wang\*, Zhikun Zhang\*, Bhavya Kailkhura, Caiming Xiong, et al. (\*: major contribution).
+Yue Huang\*, Lichao Sun\*, **Haoran Wang\***, Siyuan Wu\*, Qihui Zhang\*, Chujie Gao\*, Yixin Huang\*, Wenhan Lyu\*, Yixuan Zhang\*, Xiner Li\*, Zhengliang Liu\*, Yixin Liu\*, Yijue Wang\*, Zhikun Zhang\*, Bhavya Kailkhura, Caiming Xiong, et al. (\*: major contribution).
 
-_Proceedings of The Forty-first International Conference on Machine Learning_
+_Proceedings of the Forty-first International Conference on Machine Learning_
 
-[**GitHub**](https://github.com/HowieHwong/TrustLLM) ![](https://img.shields.io/github/stars/HowieHwong/TrustLLM) &nbsp;&nbsp; [![Website](https://img.shields.io/badge/Website-%F0%9F%8C%8D-blue)](https://trustllmbenchmark.github.io/TrustLLM-Website/) &nbsp;&nbsp; [![Downloads](https://static.pepy.tech/badge/trustllm)](https://pepy.tech/project/trustllm)
+[**GitHub**](https://github.com/HowieHwong/TrustLLM) ![](https://img.shields.io/github/stars/HowieHwong/TrustLLM) &nbsp;&nbsp; [![Website](https://img.shields.io/badge/Website-%F0%9F%8C%8D-blue)](https://trustllmbenchmark.github.io/TrustLLM-Website/) &nbsp;&nbsp; [![Toolkit Document](https://img.shields.io/badge/Toolkit%20Document-%F0%9F%93%9A-blueviolet)](https://howiehwong.github.io/TrustLLM/) &nbsp;&nbsp; [![Downloads](https://static.pepy.tech/badge/trustllm)](https://pepy.tech/project/trustllm)
 
 </div>
 </div>
@@ -69,9 +83,9 @@ _Proceedings of The Forty-first International Conference on Machine Learning_
 
 **Haoran Wang**, Kai Shu
 
-_Findings of EMNLP 2023_
+_Findings of the Association for Computational Linguistics: EMNLP 2023_
 
-[**GitHub**](https://github.com/wang2226/FOLK) ![](https://img.shields.io/github/stars/wang2226/FOLK) &nbsp;&nbsp; [**NILLI Workshop@EMNLP23**](https://www.cs.mcgill.ca/~pparth2/nilli_workshop_2023/)
+[**GitHub**](https://github.com/wang2226/FOLK) ![](https://img.shields.io/github/stars/wang2226/FOLK) &nbsp;&nbsp; [![appear](https://img.shields.io/badge/NILLI_Workshop-@EMNLP23-brown)](https://www.cs.mcgill.ca/~pparth2/nilli_workshop_2023/)
 
 </div>
 </div>
@@ -83,19 +97,16 @@ _Findings of EMNLP 2023_
 
 **Haoran Wang**, Yingtong Dou, Canyu Chen, Lichao Sun, Philip S. Yu, Kai Shu
 
-_Proceedings of ACM Web Conference 2023_
+_Proceedings of the ACM Web Conference 2023_
 
-[**GitHub**](https://github.com/hwang219/AttackFakeNews) ![](https://img.shields.io/github/stars/hwang219/AttackFakeNews) &nbsp;&nbsp; [**Video**](https://vimeo.com/817846141?share=copy) &nbsp;&nbsp; [**Blog from Montreal AI Ethics Institute**](https://montrealethics.ai/attacking-fake-news-detectors-via-manipulating-news-social-engagement/)
+[**GitHub**](https://github.com/hwang219/AttackFakeNews) ![](https://img.shields.io/github/stars/hwang219/AttackFakeNews) &nbsp;&nbsp; [![video](https://img.shields.io/badge/Video-8A2BE2)](https://vimeo.com/817846141?share=copy) &nbsp;&nbsp; [![report](https://img.shields.io/badge/Reported%20By-MAIEI-teal)](https://montrealethics.ai/attacking-fake-news-detectors-via-manipulating-news-social-engagement/)
 
 </div>
 </div>
 
-# 📝 Preprints
+## Preprints
 
-- [Piecing It All Together: Verifying Multi-Hop Multimodal Claims](https://arxiv.org/abs/2411.09547) **Haoran Wang**, Aman Rangapur, Xiongxiao Xu, Yueqing Liang, Haroon Gharwi, Carl Yang, Kai Shu
-- [FIN-FACT: A Benchmark Dataset for Multimodal Financial Fact Checking and Explanation Generation](https://arxiv.org/abs/2309.08793) Aman Rangapura, **Haoran Wang**, Ling Jian, Kai Shu
-- [Investigating Online Financial Misinformation and Its Consequences: A Computational Perspective](https://arxiv.org/abs/2309.12363) Aman Rangapura, **Haoran Wang**, Kai Shu
-- [Combating Health Misinformation in Social Media: Characterization, Detection, Intervention, and Open Issues](https://arxiv.org/abs/2211.05289) Canyu Chen\*, **Haoran Wang\***, Matthew Shapiro, Yunyu Xiao, Fei Wang, Kai Shu (\*: eqaul contribution)
+- [FIN-FACT: A Benchmark Dataset for Multimodal Financial Fact Checking and Explanation Generation](https://arxiv.org/abs/2309.08793) Aman Rangapura, **Haoran Wang**, Ling Jian, Kai Shu [**GitHub**](https://github.com/IIT-DM/Fin-Fact) ![](https://img.shields.io/github/stars/IIT-DM/Fin-Fact) &nbsp;&nbsp; [![Leaderboard](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/amanrangapur/Fin-Fact)
 
 # 📖 Educations
 

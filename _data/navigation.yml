@@ -1,10 +1,12 @@
 # main links links
 main:
-  - title: "About Me"
+  - title: "About"
     url: "/#about-me"
+  - title: "Publications"
+    url: "/publications.html"
   - title: "CV"
     url: "/files/haoran_wang_cv.pdf"
-  - title: "Teaching"
-    url: "/teaching.html"
+  # - title: "Teaching"
+  #   url: "/teaching.html"
   - title: "Misc"
     url: "/misc.html"
