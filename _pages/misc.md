@@ -21,12 +21,12 @@ In my free time, I enjoy human-powered outdoor adventures such as backcountry sk
 <img src="images/pictures/bike.jpeg" alt="sym" width="30%">
 
 <br>
-<span style="color:blue">**Personal Links**</span>
+## 🔗 <span style="color:#008080">**Personal Links**</span>
 
-- [_Personal Website_](https://brucehrwang.com/)
-- [_Potography portfolio_](https://brucehrwang.com/photography/portfolio.html)
-- [_Adventure Blogs_](https://brucehrwang.com/blogs/blogs.html)
-- [_YouTube Channel_](https://www.youtube.com/@manyadventures18)
+- 🛖 [_Personal Website_](https://brucehrwang.com/)
+- 📷 [_Potography portfolio_](https://brucehrwang.com/photography/portfolio.html)
+- ⛷️ [_Adventure Blogs_](https://brucehrwang.com/blogs/blogs.html)
+- 🎞️ [_YouTube Channel_](https://www.youtube.com/@manyadventures18)
 
 # Tech
 
@@ -37,4 +37,4 @@ I am also an amateur Unity developer with experience in creating 3D games, as we
 
 Additionally, I maintain a tech blog where I share tech tips and tricks.
 
-- [_Tech Blog_](https://brucehrwang.github.io/)
+- 🧑‍💻 [_Tech Blog_](https://brucehrwang.github.io/)

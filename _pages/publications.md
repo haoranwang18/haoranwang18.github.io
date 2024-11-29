@@ -14,9 +14,9 @@ author_profile: true
 
 # Conference
 
-<!-- - ``COLING2025`` **Piecing It All Together: Verifying Multi-Hop Multimodal Claims**  [[PDF]](https://arxiv.org/abs/2411.09547) [[code]](https://github.com/mmcv-dataset/MMCV)
+- ``COLING2025`` **Piecing It All Together: Verifying Multi-Hop Multimodal Claims**  [[PDF]](https://arxiv.org/abs/2411.09547) [[code]](https://github.com/mmcv-dataset/MMCV)
   - **Haoran Wang**, Aman Rangapur, Xiongxiao Xu, Yueqing Liang, Haroon Gharwi, Carl Yang, Kai Shu
-  - _Proceedings of the 31st International Conference on Computational Linguistics_ -->
+  - _Proceedings of the 31st International Conference on Computational Linguistics_
 
 - ``CIKM2024`` **Trojan Activation Attack: Red-Teaming Large Language Models using Steering Vectors for Safety-Alignment**  [[PDF]](https://dl.acm.org/doi/10.1145/3627673.3679821) [[code]](https://github.com/wang2226/Trojan-Activation-Attack)
   - **Haoran Wang**, Kai Shu

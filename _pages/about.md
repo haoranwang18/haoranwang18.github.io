@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Ph.D. candidate at Illinois Institute of Technology advised by Dr. <a href="http://www.cs.iit.edu/~kshu/">Kai Shu</a>. I obtained my M.S. degree in computer science from University of Oregon in 2021 (advised by Dr. <a href="https://ix.cs.uoregon.edu/~thien/">Thien Nguyen</a>), and my B.S. degree in computer science from Purdue University in 2019 (working with Dr. <a href="https://yhlu.net/">Yung-Hsiang Lu</a>).
+I am a third-year Ph.D. candidate at Illinois Institute of Technology advised by Dr. [Kai Shu](https://www.cs.emory.edu/~kshu5/). I obtained my M.S. degree in computer science from University of Oregon in 2021 (advised by Dr. [Thien Nguyen](https://ix.cs.uoregon.edu/~thien/)), and my B.S. degree in computer science from Purdue University in 2019 (working with Dr. [Yung-Hsiang Lu](https://yhlu.net/)).
 
-> I am actively seeking industry research internship for Summer 2025.
+🔉 _I am actively seeking industry research internship for Summer 2025_ 🔉
 
-# 💡 Research
+# 💡 Research Interests
 
 My research involves building trustworthy AI systems, with a specific emphasis on enhancing both robustness and interpretability. I am broadly interested in fundamental research and interdisciplinary collaborations motivated by important applications, including detecting misinformation and analyzing social network.
 
@@ -32,9 +32,9 @@ My research involves building trustworthy AI systems, with a specific emphasis o
 - _2024.05_: &nbsp;🎉🎉 One paper has been accepted by [ICML 2024](https://arxiv.org/pdf/2401.05561).
 - _2024.02_: &nbsp;🎉🎉 Passed Ph.D. Qualifying Exam.
 
-# 📝 Publications
+# 📜 Publications
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/coling25.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/coling25.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Piecing It All Together: Verifying Multi-Hop Multimodal Claims](https://arxiv.org/abs/2411.09547)
@@ -43,10 +43,11 @@ My research involves building trustworthy AI systems, with a specific emphasis o
 
 _Proceedings of the 31st International Conference on Computational Linguistics_
 
-[**GitHub**](https://github.com/mmcv-dataset/MMCV) ![](https://img.shields.io/github/stars/mmcv-dataset/MMCV) &nbsp;&nbsp; [![Leaderboard](https://img.shields.io/badge/Leaderboard-%F0%9F%9A%80-brightgreen)](https://mmcv-dataset.github.io/)
+[**GitHub**](https://github.com/mmcv-dataset/MMCV) ![](https://img.shields.io/github/stars/mmcv-dataset/MMCV)
+[![Leaderboard](https://img.shields.io/badge/Leaderboard-%F0%9F%9A%80-brightgreen)](https://mmcv-dataset.github.io/)
 
 </div>
-</div> -->
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2024</div><img src='images/cikm24.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -71,7 +72,14 @@ Yue Huang\*, Lichao Sun\*, **Haoran Wang\***, Siyuan Wu\*, Qihui Zhang\*, Chujie
 
 _Proceedings of the Forty-first International Conference on Machine Learning_
 
-[**GitHub**](https://github.com/HowieHwong/TrustLLM) ![](https://img.shields.io/github/stars/HowieHwong/TrustLLM) &nbsp;&nbsp; [![Website](https://img.shields.io/badge/Website-%F0%9F%8C%8D-blue)](https://trustllmbenchmark.github.io/TrustLLM-Website/) &nbsp;&nbsp; [![Toolkit Document](https://img.shields.io/badge/Toolkit%20Document-%F0%9F%93%9A-blueviolet)](https://howiehwong.github.io/TrustLLM/) &nbsp;&nbsp; [![Downloads](https://static.pepy.tech/badge/trustllm)](https://pepy.tech/project/trustllm)
+[**GitHub**](https://github.com/HowieHwong/TrustLLM) ![](https://img.shields.io/github/stars/HowieHwong/TrustLLM)
+[![huggingface](https://img.shields.io/badge/huggingface-Daily%20Paper-yellow)](https://huggingface.co/papers/2401.05561)
+[![Website](https://img.shields.io/badge/Website-%F0%9F%8C%8D-blue)](https://trustllmbenchmark.github.io/TrustLLM-Website/)
+[![Dataset](https://img.shields.io/badge/Dataset-%F0%9F%92%BE-green)](https://huggingface.co/datasets/TrustLLM/TrustLLM-dataset)
+[![Leaderboard](https://img.shields.io/badge/Leaderboard-%F0%9F%9A%80-brightgreen)](https://trustllmbenchmark.github.io/TrustLLM-Website/leaderboard.html)
+[![Toolkit Document](https://img.shields.io/badge/Toolkit%20Document-%F0%9F%93%9A-blueviolet)](https://howiehwong.github.io/TrustLLM/)
+[![Downloads](https://static.pepy.tech/badge/trustllm)](https://pepy.tech/project/trustllm)
+[![Metioned](https://img.shields.io/badge/Metioned%20By-DHS-red)](https://www.hsgac.senate.gov/wp-content/uploads/2024.06.11-Hedge-Fund-Use-of-AI-Report.pdf)
 
 </div>
 </div>
@@ -85,7 +93,9 @@ _Proceedings of the Forty-first International Conference on Machine Learning_
 
 _Findings of the Association for Computational Linguistics: EMNLP 2023_
 
-[**GitHub**](https://github.com/wang2226/FOLK) ![](https://img.shields.io/github/stars/wang2226/FOLK) &nbsp;&nbsp; [![appear](https://img.shields.io/badge/NILLI_Workshop-@EMNLP23-brown)](https://www.cs.mcgill.ca/~pparth2/nilli_workshop_2023/)
+[**GitHub**](https://github.com/wang2226/FOLK) ![](https://img.shields.io/github/stars/wang2226/FOLK)
+[![appear](https://img.shields.io/badge/NILLI_Workshop-@EMNLP23-brown)](https://www.cs.mcgill.ca/~pparth2/nilli_workshop_2023/)
+[![cisco](https://img.shields.io/badge/Mentioned%20By-Cisco%20Research-blue)](https://players.brightcove.net/1384193102001/vxm2GzY3qq_default/index.html?socialshare=vjs_video_3&videoId=6346009466112&autoplay=1&auto_play=true)
 
 </div>
 </div>
@@ -99,16 +109,28 @@ _Findings of the Association for Computational Linguistics: EMNLP 2023_
 
 _Proceedings of the ACM Web Conference 2023_
 
-[**GitHub**](https://github.com/hwang219/AttackFakeNews) ![](https://img.shields.io/github/stars/hwang219/AttackFakeNews) &nbsp;&nbsp; [![video](https://img.shields.io/badge/Video-8A2BE2)](https://vimeo.com/817846141?share=copy) &nbsp;&nbsp; [![report](https://img.shields.io/badge/Reported%20By-MAIEI-teal)](https://montrealethics.ai/attacking-fake-news-detectors-via-manipulating-news-social-engagement/)
+[**GitHub**](https://github.com/hwang219/AttackFakeNews) ![](https://img.shields.io/github/stars/hwang219/AttackFakeNews)
+[![video](https://img.shields.io/badge/Video-8A2BE2)](https://vimeo.com/817846141?share=copy)
+[![report](https://img.shields.io/badge/Reported%20By-MAIEI-teal)](https://montrealethics.ai/attacking-fake-news-detectors-via-manipulating-news-social-engagement/)
 
 </div>
 </div>
 
 ## Preprints
 
-- [FIN-FACT: A Benchmark Dataset for Multimodal Financial Fact Checking and Explanation Generation](https://arxiv.org/abs/2309.08793) Aman Rangapura, **Haoran Wang**, Ling Jian, Kai Shu [**GitHub**](https://github.com/IIT-DM/Fin-Fact) ![](https://img.shields.io/github/stars/IIT-DM/Fin-Fact) &nbsp;&nbsp; [![Leaderboard](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/amanrangapur/Fin-Fact)
+- [FIN-FACT: A Benchmark Dataset for Multimodal Financial Fact Checking and Explanation Generation](https://arxiv.org/abs/2309.08793) Aman Rangapura, **Haoran Wang**, Ling Jian, Kai Shu
+[**GitHub**](https://github.com/IIT-DM/Fin-Fact) ![](https://img.shields.io/github/stars/IIT-DM/Fin-Fact)
+[![Leaderboard](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/amanrangapur/Fin-Fact)
 
-# 📖 Educations
+# 🔬 Research Experience
+
+> **Illinois Institute of Technology**, 8/2022-Present <br>
+> Research Assistant, supervised by [Kai Shu](https://www.cs.emory.edu/~kshu5/)
+
+> **Purdue University**, 8/2018-5/2019 <br>
+> Research Assistant, supervised by [Yung-Hsiang Lu](https://yhlu.net/)
+
+# Education
 
 - _2022 - Now_, Ph.D., Computer Science. Illinois Institute of Technology.
 - _2021_, M.S., Computer Science. University of Oregon.
@@ -119,7 +141,6 @@ _Proceedings of the ACM Web Conference 2023_
 - **Session Chair:** CIKM 2024
 - **Reviewer/Program Committee:** KDD{2024, 2025}, AAAI{2024, 2025}, PAKDD{2025}
 - **Volunteer:** ACM FAccT 2023
-- **External Reviewer:** SIGIR{2023, 2024}, WWW{2023, 2024}, TKDE{2023}, NIPS{2023, 2024}, ACL{2023, 2024}, ICDM{2023, 2024}, IJCAI{2023, 2024}, PAKDD2024, SDM{2025}
 
 ---
 

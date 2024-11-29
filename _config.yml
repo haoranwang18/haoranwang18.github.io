@@ -9,7 +9,7 @@
 title: "Haoran Wang"
 description: ""
 repository: "haoranwang18/haoranwang18.github.io"
-google_scholar_stats_use_cdn: true
+google_scholar_stats_use_cdn: false
 
 # google analytics
 google_analytics_id: G-TBFT5MZPCH
@@ -23,7 +23,7 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 author:
   name: "Haoran Wang"
   avatar: "images/profile.png"
-  bio: "Ph.D. Student at Illilnois Institute of Technology"
+  bio: "Ph.D. student at Illilnois Institute of Technology"
   location: "Chicago, IL"
   employer:
   pubmed:
@@ -131,7 +131,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 plugins:
