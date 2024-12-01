@@ -44,7 +44,7 @@ My research involves building trustworthy AI systems, with a specific emphasis o
 
 _Proceedings of the 31st International Conference on Computational Linguistics_
 
-[**GitHub**](https://github.com/mmcv-dataset/MMCV) ![](https://img.shields.io/github/stars/mmcv-dataset/MMCV)
+[![git](https://img.shields.io/github/stars/mmcv-dataset/MMCV)](https://github.com/mmcv-dataset/MMCV)
 [![Leaderboard](https://img.shields.io/badge/Leaderboard-%F0%9F%9A%80-brightgreen)](https://mmcv-dataset.github.io/)
 
 </div>
@@ -59,7 +59,7 @@ _Proceedings of the 31st International Conference on Computational Linguistics_
 
 _Proceedings of the 33rd ACM International Conference on Information and Knowledge Management_
 
-[**GitHub**](https://github.com/wang2226/Trojan-Activation-Attack) ![](https://img.shields.io/github/stars/wang2226/Trojan-Activation-Attack)
+[![git](https://img.shields.io/github/stars/wang2226/Trojan-Activation-Attack)](https://github.com/wang2226/Trojan-Activation-Attack)
 
 </div>
 </div>
@@ -73,8 +73,8 @@ Yue Huang\*, Lichao Sun\*, **Haoran Wang\***, Siyuan Wu\*, Qihui Zhang\*, Chujie
 
 _Proceedings of the Forty-first International Conference on Machine Learning_
 
-[**GitHub**](https://github.com/HowieHwong/TrustLLM) ![](https://img.shields.io/github/stars/HowieHwong/TrustLLM)
-[![huggingface](https://img.shields.io/badge/huggingface-Daily%20Paper-yellow)](https://huggingface.co/papers/2401.05561)
+[![git](https://img.shields.io/github/stars/HowieHwong/TrustLLM)](https://github.com/HowieHwong/TrustLLM)
+[![hf](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Daily%20Paper-gold)](https://huggingface.co/papers/2401.05561)
 [![Website](https://img.shields.io/badge/Website-%F0%9F%8C%8D-blue)](https://trustllmbenchmark.github.io/TrustLLM-Website/)
 [![Dataset](https://img.shields.io/badge/Dataset-%F0%9F%92%BE-green)](https://huggingface.co/datasets/TrustLLM/TrustLLM-dataset)
 [![Leaderboard](https://img.shields.io/badge/Leaderboard-%F0%9F%9A%80-brightgreen)](https://trustllmbenchmark.github.io/TrustLLM-Website/leaderboard.html)
@@ -94,7 +94,7 @@ _Proceedings of the Forty-first International Conference on Machine Learning_
 
 _Findings of the Association for Computational Linguistics: EMNLP 2023_
 
-[**GitHub**](https://github.com/wang2226/FOLK) ![](https://img.shields.io/github/stars/wang2226/FOLK)
+[![git](https://img.shields.io/github/stars/wang2226/FOLK)](https://github.com/wang2226/FOLK)
 [![appear](https://img.shields.io/badge/NILLI_Workshop-@EMNLP23-brown)](https://www.cs.mcgill.ca/~pparth2/nilli_workshop_2023/)
 [![cisco](https://img.shields.io/badge/Mentioned%20By-Cisco%20Research-blue)](https://players.brightcove.net/1384193102001/vxm2GzY3qq_default/index.html?socialshare=vjs_video_3&videoId=6346009466112&autoplay=1&auto_play=true)
 
@@ -110,7 +110,7 @@ _Findings of the Association for Computational Linguistics: EMNLP 2023_
 
 _Proceedings of the ACM Web Conference 2023_
 
-[**GitHub**](https://github.com/hwang219/AttackFakeNews) ![](https://img.shields.io/github/stars/hwang219/AttackFakeNews)
+[![git](https://img.shields.io/github/stars/hwang219/AttackFakeNews)](https://github.com/hwang219/AttackFakeNews)
 [![video](https://img.shields.io/badge/Video-8A2BE2)](https://vimeo.com/817846141?share=copy)
 [![report](https://img.shields.io/badge/Reported%20By-MAIEI-teal)](https://montrealethics.ai/attacking-fake-news-detectors-via-manipulating-news-social-engagement/)
 
@@ -121,7 +121,7 @@ _Proceedings of the ACM Web Conference 2023_
 
 - [FIN-FACT: A Benchmark Dataset for Multimodal Financial Fact Checking and Explanation Generation](https://arxiv.org/abs/2309.08793) Aman Rangapura, **Haoran Wang**, Ling Jian, Kai Shu
 [**GitHub**](https://github.com/IIT-DM/Fin-Fact) ![](https://img.shields.io/github/stars/IIT-DM/Fin-Fact)
-[![Leaderboard](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/amanrangapur/Fin-Fact)
+[![hf](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/amanrangapur/Fin-Fact)
 
 # 🔬 Research Experience
 
