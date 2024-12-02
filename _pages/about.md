@@ -27,7 +27,7 @@ My research involves building trustworthy AI systems, with a specific emphasis o
 
 # 🔥 News
 
-- _2024.07_: &nbsp;🎉🎉 One paper has been accepted by [COLING 2025](https://arxiv.org/abs/2411.09547).
+- _2024.11_: &nbsp;🎉🎉 One paper has been accepted by [COLING 2025](https://arxiv.org/abs/2411.09547).
 - _2024.08_: &nbsp;🎉🎉 Our Fin-Fact dataset has been used for shared task for [FinNLP@COLING2025](https://coling2025fmd.thefin.ai/).
 - _2024.07_: &nbsp;🎉🎉 One paper has been accepted by [CIKM 2024](https://arxiv.org/abs/2311.09433).
 - _2024.05_: &nbsp;🎉🎉 One paper has been accepted by [ICML 2024](https://arxiv.org/pdf/2401.05561).
