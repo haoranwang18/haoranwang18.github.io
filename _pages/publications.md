@@ -14,6 +14,10 @@ author_profile: true
 
 # Conference
 
+- ``WWW2025`` **FIN-FACT: A Benchmark Dataset for Multimodal Financial Fact Checking and Explanation Generation**  [[PDF]](https://arxiv.org/abs/2309.08793) [[code]](https://github.com/IIT-DM/Fin-Fact)
+  - Aman Rangapur, **Haoran Wang**, Ling Jian, Kai Shu
+  - _Companion Proceedings of the ACM Web Conference 2025_
+
 - ``COLING2025`` **Piecing It All Together: Verifying Multi-Hop Multimodal Claims**  [[PDF]](https://arxiv.org/abs/2411.09547) [[code]](https://github.com/mmcv-dataset/MMCV)
   - **Haoran Wang**, Aman Rangapur, Xiongxiao Xu, Yueqing Liang, Haroon Gharwi, Carl Yang, Kai Shu
   - _Proceedings of the 31st International Conference on Computational Linguistics_
@@ -36,6 +40,6 @@ author_profile: true
 
 # Preprint
 
-- [FIN-FACT: A Benchmark Dataset for Multimodal Financial Fact Checking and Explanation Generation](https://arxiv.org/abs/2309.08793) Aman Rangapura, **Haoran Wang**, Ling Jian, Kai Shu
-- [Investigating Online Financial Misinformation and Its Consequences: A Computational Perspective](https://arxiv.org/abs/2309.12363) Aman Rangapura, **Haoran Wang**, Kai Shu
+- [Make Every Token Count: A Systematic Survey on Decoding Methods for Foundation Models](https://www.researchgate.net/publication/387703971_Make_Every_Token_Count_A_Systematic_Survey_on_Decoding_Methods_for_Foundation_Models?channel=doi&linkId=67784c8ce74ca64e1f49eb15&showFulltext=true) **Haoran Wang**, Kai Shu
+- [Investigating Online Financial Misinformation and Its Consequences: A Computational Perspective](https://arxiv.org/abs/2309.12363) Aman Rangapur, **Haoran Wang**, Kai Shu
 - [Combating Health Misinformation in Social Media: Characterization, Detection, Intervention, and Open Issues](https://arxiv.org/abs/2211.05289) Canyu Chen\*, **Haoran Wang\***, Matthew Shapiro, Yunyu Xiao, Fei Wang, Kai Shu (\*: eqaul contribution)

@@ -27,13 +27,14 @@ My research involves building trustworthy AI systems, with a specific emphasis o
 
 # 🔥 News
 
-- _2024.11_: &nbsp;🎉🎉 One paper has been accepted by [COLING 2025](https://arxiv.org/abs/2411.09547).
+- _2025.01_: &nbsp;🎉🎉 Fin-Fact has been accepted by [WWW 2025](https://arxiv.org/abs/2309.08793). Congratulations [Aman](https://amanrangapur.com/)!
+- _2024.11_: &nbsp;🎉🎉 MMCV has been accepted by [COLING 2025](https://arxiv.org/abs/2411.09547).
 - _2024.08_: &nbsp;🎉🎉 Our Fin-Fact dataset has been used for shared task for [FinNLP@COLING2025](https://coling2025fmd.thefin.ai/).
-- _2024.07_: &nbsp;🎉🎉 One paper has been accepted by [CIKM 2024](https://arxiv.org/abs/2311.09433).
-- _2024.05_: &nbsp;🎉🎉 One paper has been accepted by [ICML 2024](https://arxiv.org/pdf/2401.05561).
+- _2024.07_: &nbsp;🎉🎉 TA2 has been accepted by [CIKM 2024](https://arxiv.org/abs/2311.09433).
+- _2024.05_: &nbsp;🎉🎉 TrustLLM has been accepted by [ICML 2024](https://arxiv.org/pdf/2401.05561). Congratulations [Yue](https://howiehwong.github.io/)!
 - _2024.02_: &nbsp;🎉🎉 Passed Ph.D. Qualifying Exam.
 
-# 📜 Publications
+# 📜 Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/coling25.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -117,11 +118,10 @@ _Proceedings of the ACM Web Conference 2023_
 </div>
 </div>
 
-## Preprints
+<!-- ## Preprints
 
-- [FIN-FACT: A Benchmark Dataset for Multimodal Financial Fact Checking and Explanation Generation](https://arxiv.org/abs/2309.08793) Aman Rangapura, **Haoran Wang**, Ling Jian, Kai Shu
-[**GitHub**](https://github.com/IIT-DM/Fin-Fact) ![](https://img.shields.io/github/stars/IIT-DM/Fin-Fact)
-[![hf](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-blue)](https://huggingface.co/datasets/amanrangapur/Fin-Fact)
+- [Make Every Token Count: A Systematic Survey on Decoding Methods for Foundation Models](https://www.researchgate.net/publication/387703971_Make_Every_Token_Count_A_Systematic_Survey_on_Decoding_Methods_for_Foundation_Models?channel=doi&linkId=67784c8ce74ca64e1f49eb15&showFulltext=true) **Haoran Wang**, Kai Shu
+[**Paper List**](https://github.com/wang2226/Awesome-LLM-Decoding) ![](https://img.shields.io/github/stars/wang2226/Awesome-LLM-Decoding) -->
 
 # 🔬 Research Experience
 
@@ -145,6 +145,6 @@ _Proceedings of the ACM Web Conference 2023_
 
 ---
 
-Last updated on Nov 15, 2024.
+Last updated on Jan 20, 2025.
 
 <a href='https://mapmyvisitors.com/web/1bweu'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=300&t=tt&d=SDWOZvjcEGQvmbkHt5vCf__HQwaniKPTjud79Y2vHsE&co=2d78ad&ct=ffffff'/></a>
