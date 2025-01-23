@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Ph.D. candidate at Illinois Institute of Technology advised by Dr. [Kai Shu](https://www.cs.emory.edu/~kshu5/). I obtained my M.S. degree in computer science from University of Oregon in 2021 (advised by Dr. [Thien Nguyen](https://ix.cs.uoregon.edu/~thien/)), and my B.S. degree in computer science from Purdue University in 2019 (working with Dr. [Yung-Hsiang Lu](https://yhlu.net/)).
+I am a third-year Ph.D. candidate at Emory University advised by Dr. [Kai Shu](https://www.cs.emory.edu/~kshu5/). I obtained my M.S. degree in computer science from University of Oregon in 2021 (advised by Dr. [Thien Nguyen](https://ix.cs.uoregon.edu/~thien/)), and my B.S. degree in computer science from Purdue University in 2019 (working with Dr. [Yung-Hsiang Lu](https://yhlu.net/)).
 
 🔉 _I am actively seeking industry research internship for Summer 2025_ 🔉
 
@@ -133,7 +133,7 @@ _Proceedings of the ACM Web Conference 2023_
 
 # Education
 
-- _2022 - Now_, Ph.D., Computer Science. Illinois Institute of Technology.
+- _2022 - Now_, Ph.D., Computer Science. Emory University.
 - _2021_, M.S., Computer Science. University of Oregon.
 - _2019_, B.S., Computer Science. Purdue University.
 
@@ -145,6 +145,6 @@ _Proceedings of the ACM Web Conference 2023_
 
 ---
 
-Last updated on Jan 20, 2025.
+Last updated on Jan 23, 2025.
 
 <a href='https://mapmyvisitors.com/web/1bweu'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=300&t=tt&d=SDWOZvjcEGQvmbkHt5vCf__HQwaniKPTjud79Y2vHsE&co=2d78ad&ct=ffffff'/></a>

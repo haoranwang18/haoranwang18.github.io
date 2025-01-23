@@ -7,7 +7,7 @@
 
 # Site Settings
 title: "Haoran Wang"
-description: ""
+description: "Haoran Wang is a third-year Ph.D. candidate at Emory University. His research interests lie in the general area of Trustworthy AI, LLM, Reasoning, and Automated Fact-Checking."
 repository: "haoranwang18/haoranwang18.github.io"
 google_scholar_stats_use_cdn: false
 
@@ -23,12 +23,12 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 author:
   name: "Haoran Wang"
   avatar: "images/profile.png"
-  bio: "Ph.D. student at Illilnois Institute of Technology"
-  location: "Chicago, IL"
+  bio: "Ph.D. candidate at Emory University"
+  location: "Atlanta, GA"
   employer:
   pubmed:
   googlescholar: "https://scholar.google.com/citations?user=aEuLcokAAAAJ&hl=en"
-  email: "hwang219@hawk.iit.edu"
+  email: "haoran.wang@emory.edu"
   researchgate: # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
