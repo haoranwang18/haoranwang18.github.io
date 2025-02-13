@@ -26,13 +26,18 @@ I am a third-year Ph.D. candidate at Emory University advised by Dr. [Kai Shu](h
 My research involves building trustworthy AI systems, with a specific emphasis on enhancing both robustness and interpretability. I am broadly interested in fundamental research and interdisciplinary collaborations motivated by important applications, including detecting misinformation and analyzing social network.
 
 # 🔥 News
-
+- _2025.02_: &nbsp;🎉🎉 Research Access Program has been awarded. Thanks OpenAI!
 - _2025.01_: &nbsp;🎉🎉 Fin-Fact has been accepted by [WWW 2025](https://arxiv.org/abs/2309.08793). Congratulations [Aman](https://amanrangapur.com/)!
 - _2024.11_: &nbsp;🎉🎉 MMCV has been accepted by [COLING 2025](https://arxiv.org/abs/2411.09547).
 - _2024.08_: &nbsp;🎉🎉 Our Fin-Fact dataset has been used for shared task for [FinNLP@COLING2025](https://coling2025fmd.thefin.ai/).
 - _2024.07_: &nbsp;🎉🎉 TA2 has been accepted by [CIKM 2024](https://arxiv.org/abs/2311.09433).
 - _2024.05_: &nbsp;🎉🎉 TrustLLM has been accepted by [ICML 2024](https://arxiv.org/pdf/2401.05561). Congratulations [Yue](https://howiehwong.github.io/)!
-- _2024.02_: &nbsp;🎉🎉 Passed Ph.D. Qualifying Exam.
+<details>
+  <summary>Older News</summary>
+  - _2024.02_: &nbsp;🎉🎉 Passed Ph.D. Qualifying Exam.
+  - _2023.10_: &nbsp;🎉🎉 FOLK has been accepted by [EMNLP2023](https://arxiv.org/abs/2310.05253).
+  - _2023.02_: &nbsp;🎉🎉 MARL has been accepted by [WWW2023](https://arxiv.org/abs/2302.07363).
+</details>
 
 # 📜 Selected Publications
 
