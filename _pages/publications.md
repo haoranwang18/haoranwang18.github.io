@@ -18,7 +18,7 @@ author_profile: true
   - Aman Rangapur, **Haoran Wang**, Ling Jian, Kai Shu
   - _Companion Proceedings of the ACM Web Conference 2025_
 
-- ``COLING2025`` **Piecing It All Together: Verifying Multi-Hop Multimodal Claims**  [[PDF]](https://arxiv.org/abs/2411.09547) [[code]](https://github.com/mmcv-dataset/MMCV)
+- ``COLING2025`` **Piecing It All Together: Verifying Multi-Hop Multimodal Claims**  [[PDF]](https://aclanthology.org/2025.coling-main.498/) [[code]](https://github.com/mmcv-dataset/MMCV)
   - **Haoran Wang**, Aman Rangapur, Xiongxiao Xu, Yueqing Liang, Haroon Gharwi, Carl Yang, Kai Shu
   - _Proceedings of the 31st International Conference on Computational Linguistics_
 

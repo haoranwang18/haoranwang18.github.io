@@ -48,7 +48,7 @@ My research involves building trustworthy AI systems, with a specific emphasis o
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/coling25.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Piecing It All Together: Verifying Multi-Hop Multimodal Claims](https://arxiv.org/abs/2411.09547)
+[Piecing It All Together: Verifying Multi-Hop Multimodal Claims](https://aclanthology.org/2025.coling-main.498/)
 
 **Haoran Wang**, Aman Rangapur, Xiongxiao Xu, Yueqing Liang, Haroon Gharwi, Carl Yang, Kai Shu
 
