@@ -31,14 +31,17 @@ My research involves building trustworthy AI systems, with a specific emphasis o
 - _2024.11_: &nbsp;🎉🎉 MMCV has been accepted by [COLING 2025](https://arxiv.org/abs/2411.09547).
 - _2024.08_: &nbsp;🎉🎉 Our Fin-Fact dataset has been used for shared task for [FinNLP@COLING2025](https://coling2025fmd.thefin.ai/).
 - _2024.07_: &nbsp;🎉🎉 TA2 has been accepted by [CIKM 2024](https://arxiv.org/abs/2311.09433).
-- <details><summary>Older News</summary>
-<ul>
-  <li><em>2024.05:</em> TrustLLM has been accepted by [ICML 2024](https://arxiv.org/pdf/2401.05561). Congratulations [Yue](https://howiehwong.github.io/)!
-  <li><em>2024.02:</em> Passed Ph.D. Qualifying Exam.
-  <li><em>2023.10:</em> FOLK has been accepted by [EMNLP2023](https://arxiv.org/abs/2310.05253).
-  <li><em>2023.02:</em> MARL has been accepted by [WWW2023](https://arxiv.org/abs/2302.07363).
-</ul>
-</details>
+- <details> <summary>More</summary>
+  <ul>
+    <li><em>2024.05:</em> TrustLLM has been accepted by [ICML 2024](https://arxiv.org/pdf/2401.05561). Congratulations [Yue](https://howiehwong.github.io/)!
+    <li><em>2024.02:</em> Passed Ph.D. Qualifying Exam.
+    <li><em>2023.10:</em> FOLK has been accepted by [EMNLP2023](https://arxiv.org/abs/2310.05253).
+    <li><em>2023.02:</em> MARL has been accepted by [WWW2023](https://arxiv.org/abs/2302.07363).
+  </ul>
+
+  </details>
+
+
 
 # 📜 Selected Publications
 
