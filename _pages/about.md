@@ -33,10 +33,10 @@ My research involves building trustworthy AI systems, with a specific emphasis o
 - _2024.07_: &nbsp;🎉🎉 TA2 has been accepted by [CIKM 2024](https://arxiv.org/abs/2311.09433).
 - <details> <summary>More</summary>
   <ul>
-    <li><em>2024.05:</em> TrustLLM has been accepted by [ICML 2024](https://arxiv.org/pdf/2401.05561). Congratulations [Yue](https://howiehwong.github.io/)!
-    <li><em>2024.02:</em> Passed Ph.D. Qualifying Exam.
-    <li><em>2023.10:</em> FOLK has been accepted by [EMNLP2023](https://arxiv.org/abs/2310.05253).
-    <li><em>2023.02:</em> MARL has been accepted by [WWW2023](https://arxiv.org/abs/2302.07363).
+    <li><em>2024.05:</em> TrustLLM has been accepted by <a href="https://arxiv.org/pdf/2401.05561">ICML 2024</a>. Congratulations <a href="https://howiehwong.github.io/">Yue</a>!</li>
+    <li><em>2024.02:</em> Passed Ph.D. Qualifying Exam.</li>
+    <li><em>2023.10:</em> FOLK has been accepted by <a href="https://arxiv.org/abs/2310.05253">EMNLP 2023</a>.</li>
+    <li><em>2023.02:</em> MARL has been accepted by <a href="https://arxiv.org/abs/2302.07363">WWW 2023</a>.</li>
   </ul>
 
   </details>
