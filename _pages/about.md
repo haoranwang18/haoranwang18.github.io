@@ -17,22 +17,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Ph.D. candidate at Emory University advised by Dr. [Kai Shu](https://www.cs.emory.edu/~kshu5/). I obtained my M.S. degree in computer science from University of Oregon in 2021 (advised by Dr. [Thien Nguyen](https://ix.cs.uoregon.edu/~thien/)), and my B.S. degree in computer science from Purdue University in 2019 (working with Dr. [Yung-Hsiang Lu](https://yhlu.net/)).
+I am a 4th-year Ph.D. candidate at Emory University advised by Dr. [Kai Shu](https://www.cs.emory.edu/~kshu5/). I obtained my M.S. degree in computer science from University of Oregon in 2021 (advised by Dr. [Thien Nguyen](https://ix.cs.uoregon.edu/~thien/)), and my B.S. degree in computer science from Purdue University in 2019 (working with Dr. [Yung-Hsiang Lu](https://yhlu.net/)). Previously, I worked as an applied scientist intern at Amazon AGI, Summer 2025.
 
-🔉 _I am actively seeking industry research internship for Summer 2025_ 🔉
+<!-- 🔉 _I am actively seeking industry research internship for Summer 2025_ 🔉 -->
 
 # 💡 Research Interests
 
 My research involves building trustworthy AI systems, with a specific emphasis on enhancing both robustness and interpretability. I am broadly interested in fundamental research and interdisciplinary collaborations motivated by important applications, including detecting misinformation and analyzing social network.
 
 # 🔥 News
+
+- _2025.08_: &nbsp;🎉🎉 Completed my internship as an Applied Scientist at Amazon AGI!
+- _2025.07_: &nbsp;🎉🎉 Invited to serve as Program Committee member for AAAI 2026.
+- _2025.05_: &nbsp;🎉🎉 Excited to join Amazon AGI as an Applied Scientist Intern for Summer 2025 in Bellevue, WA.
+- _2025.05_: &nbsp;🎉🎉 Invited to serve as Area Chair for the NeurIPS Position Track.
 - _2025.02_: &nbsp;🎉🎉 Research Access Program has been awarded. Thanks OpenAI!
-- _2025.01_: &nbsp;🎉🎉 Fin-Fact has been accepted by [WWW 2025](https://arxiv.org/abs/2309.08793). Congratulations [Aman](https://amanrangapur.com/)!
-- _2024.11_: &nbsp;🎉🎉 MMCV has been accepted by [COLING 2025](https://arxiv.org/abs/2411.09547).
-- _2024.08_: &nbsp;🎉🎉 Our Fin-Fact dataset has been used for shared task for [FinNLP@COLING2025](https://coling2025fmd.thefin.ai/).
-- _2024.07_: &nbsp;🎉🎉 TA2 has been accepted by [CIKM 2024](https://arxiv.org/abs/2311.09433).
 - <details> <summary>More</summary>
   <ul>
+    <li><em>2025.01:</em> Fin-Fact has been accepted by <a href="https://arxiv.org/abs/2309.08793">WWW 2025</a>. Congratulations <a href="https://amanrangapur.com/">Aman</a>!</li>
+    <li><em>2024.12:</em> Invited as PC for ICML 2025 Position Track.</li>
+    <li><em>2024.11:</em> MMCV has been accepted by <a href="https://arxiv.org/abs/2411.09547">COLING 2025</a>.</li>
+    <li><em>2024.08:</em> Our Fin-Fact dataset has been used for shared task for <a href="https://coling2025fmd.thefin.ai/">FinNLP@COLING2025</a></li>
+    <li><em>2024.07:</em> TA2 has been accepted by <a href="https://arxiv.org/abs/2311.09433">CIKM 2024</a>.</li>
     <li><em>2024.05:</em> TrustLLM has been accepted by <a href="https://arxiv.org/pdf/2401.05561">ICML 2024</a>. Congratulations <a href="https://howiehwong.github.io/">Yue</a>!</li>
     <li><em>2024.02:</em> Passed Ph.D. Qualifying Exam.</li>
     <li><em>2023.10:</em> FOLK has been accepted by <a href="https://arxiv.org/abs/2310.05253">EMNLP 2023</a>.</li>
@@ -40,8 +46,6 @@ My research involves building trustworthy AI systems, with a specific emphasis o
   </ul>
 
   </details>
-
-
 
 # 📜 Selected Publications
 
@@ -134,11 +138,17 @@ _Proceedings of the ACM Web Conference 2023_
 
 # 🔬 Research Experience
 
-> **Illinois Institute of Technology**, 8/2022-Present <br>
-> Research Assistant, supervised by [Kai Shu](https://www.cs.emory.edu/~kshu5/)
+> **Emory University**, Jan, 2025 -- Present <br>
+> Research Assistant
 
-> **Purdue University**, 8/2018-5/2019 <br>
-> Research Assistant, supervised by [Yung-Hsiang Lu](https://yhlu.net/)
+> **Amazon AGI**, May, 2025 -- Aug, 2025 <br>
+> Applied Scientist Intern
+
+> **Illinois Institute of Technology**, Aug, 2022 -- Jan, 2025 <br>
+> Research Assistant
+
+> **Purdue University**, Aug, 2018 -- May, 2019 <br>
+> Research Assistant
 
 # Education
 
@@ -148,12 +158,13 @@ _Proceedings of the ACM Web Conference 2023_
 
 # Academic Service
 
+- **Area Chair:** NeurIPS 2025 Position Track
 - **Session Chair:** CIKM 2024
-- **Reviewer/Program Committee:** KDD{2024, 2025}, AAAI{2024, 2025}, PAKDD{2025}
+- **Reviewer/Program Committee:** KDD{2024, 2025}, AAAI{2024, 2025, 2026}, PAKDD{2025, 2026}, NeurIPS {2025}, ICML {2025}, ACML {2025}
 - **Volunteer:** ACM FAccT 2023
 
 ---
 
-Last updated on Jan 23, 2025.
+Last updated on Aug 16, 2025.
 
 <a href='https://mapmyvisitors.com/web/1bweu'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=300&t=tt&d=SDWOZvjcEGQvmbkHt5vCf__HQwaniKPTjud79Y2vHsE&co=2d78ad&ct=ffffff'/></a>

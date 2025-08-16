@@ -40,6 +40,8 @@ author_profile: true
 
 # Preprint
 
+- [Privacy-Aware Decoding: Mitigating Privacy Leakage of Large Language Models in Retrieval-Augmented Generation](https://arxiv.org/abs/2508.03098) **Haoran Wang**, Xiongxiao Xu, Baixiang Huang, Kai Shu
+- [Model Editing as a Double-Edged Sword: Steering Agent Ethical Behavior Toward Beneficence or Harm](https://arxiv.org/abs/2506.20606) Baixiang Huang, Zhen Tan, **Haoran Wang**, Zijie Liu, Dawei Li, Ali Payani, Huan Liu, Tianlong Chen, Kai Shu
 - [Make Every Token Count: A Systematic Survey on Decoding Methods for Foundation Models](https://www.researchgate.net/publication/387703971_Make_Every_Token_Count_A_Systematic_Survey_on_Decoding_Methods_for_Foundation_Models?channel=doi&linkId=67784c8ce74ca64e1f49eb15&showFulltext=true) **Haoran Wang**, Kai Shu
 - [Can Multimodal LLMs Perform Time Series Anomaly Detection?](https://arxiv.org/abs/2502.17812) Xiongxiao Xu, **Haoran Wang**, Yueqing Liang, Philip S. Yu, Yue Zhao, Kai Shu
 - [On the Trustworthiness of Generative Foundation Models: Guideline, Assessment, and Perspective](https://arxiv.org/abs/2502.14296) Yue Huang, Chujie Gao, Siyuan Wu, **Haoran Wang**, Xiangqi Wang, Yujun Zhou, Yanbo Wang, Jiayi Ye, Jiawen Shi, Qihui Zhang, Yuan Li, et al.
