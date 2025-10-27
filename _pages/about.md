@@ -27,13 +27,14 @@ My research involves building trustworthy AI systems, with a specific emphasis o
 
 # 🔥 News
 
+- _2025.08_: &nbsp;🎉🎉 One paper accepted by IJCNLP-AACL 2025.
 - _2025.08_: &nbsp;🎉🎉 Completed my internship as an Applied Scientist at Amazon AGI!
 - _2025.07_: &nbsp;🎉🎉 Invited to serve as Program Committee member for AAAI 2026.
 - _2025.05_: &nbsp;🎉🎉 Excited to join Amazon AGI as an Applied Scientist Intern for Summer 2025 in Bellevue, WA.
 - _2025.05_: &nbsp;🎉🎉 Invited to serve as Area Chair for the NeurIPS Position Track.
-- _2025.02_: &nbsp;🎉🎉 Research Access Program has been awarded. Thanks OpenAI!
 - <details> <summary>More</summary>
   <ul>
+    <li><em>2025.01:</em> Research Access Program has been awarded. Thanks OpenAI!</li>
     <li><em>2025.01:</em> Fin-Fact has been accepted by <a href="https://arxiv.org/abs/2309.08793">WWW 2025</a>. Congratulations <a href="https://amanrangapur.com/">Aman</a>!</li>
     <li><em>2024.12:</em> Invited as PC for ICML 2025 Position Track.</li>
     <li><em>2024.11:</em> MMCV has been accepted by <a href="https://arxiv.org/abs/2411.09547">COLING 2025</a>.</li>
@@ -144,12 +145,6 @@ _Proceedings of the ACM Web Conference 2023_
 > **Amazon AGI**, May, 2025 -- Aug, 2025 <br>
 > Applied Scientist Intern
 
-> **Illinois Institute of Technology**, Aug, 2022 -- Jan, 2025 <br>
-> Research Assistant
-
-> **Purdue University**, Aug, 2018 -- May, 2019 <br>
-> Research Assistant
-
 # Education
 
 - _2022 - Now_, Ph.D., Computer Science. Emory University.
@@ -165,6 +160,6 @@ _Proceedings of the ACM Web Conference 2023_
 
 ---
 
-Last updated on Aug 16, 2025.
+Last updated on Oct 27, 2025.
 
 <a href='https://mapmyvisitors.com/web/1bweu'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=300&t=tt&d=SDWOZvjcEGQvmbkHt5vCf__HQwaniKPTjud79Y2vHsE&co=2d78ad&ct=ffffff'/></a>

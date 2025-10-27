@@ -14,7 +14,11 @@ author_profile: true
 
 # Conference
 
-- ``WWW2025`` **FIN-FACT: A Benchmark Dataset for Multimodal Financial Fact Checking and Explanation Generation**  [[PDF]](https://arxiv.org/abs/2309.08793) [[code]](https://github.com/IIT-DM/Fin-Fact)
+- ``IJCNLP-AACL 2025`` **Spatial-Aware Visual Program Guided Reasoning for Answering Complex Visual Questions**  
+  - **Haoran Wang**, Kai Shu
+  - _Findings of the Association for Computational Linguistics: EMNLP 2025_
+
+- ``WWW2025`` **FIN-FACT: A Benchmark Dataset for Multimodal Financial Fact Checking and Explanation Generation**  [[PDF]](https://dl.acm.org/doi/10.1145/3701716.3715292) [[code]](https://github.com/IIT-DM/Fin-Fact)
   - Aman Rangapur, **Haoran Wang**, Ling Jian, Kai Shu
   - _Companion Proceedings of the ACM Web Conference 2025_
 
