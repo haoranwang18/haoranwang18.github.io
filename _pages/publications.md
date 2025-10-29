@@ -16,7 +16,7 @@ author_profile: true
 
 - ``IJCNLP-AACL 2025`` **Spatial-Aware Visual Program Guided Reasoning for Answering Complex Visual Questions**  
   - **Haoran Wang**, Kai Shu
-  - _Findings of the Association for Computational Linguistics: EMNLP 2025_
+  - _Findings of the Association for Computational Linguistics: IJCNLP-AACL 2025_
 
 - ``WWW2025`` **FIN-FACT: A Benchmark Dataset for Multimodal Financial Fact Checking and Explanation Generation**  [[PDF]](https://dl.acm.org/doi/10.1145/3701716.3715292) [[code]](https://github.com/IIT-DM/Fin-Fact)
   - Aman Rangapur, **Haoran Wang**, Ling Jian, Kai Shu

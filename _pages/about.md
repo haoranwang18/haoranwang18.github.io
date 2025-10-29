@@ -27,7 +27,7 @@ My research involves building trustworthy AI systems, with a specific emphasis o
 
 # 🔥 News
 
-- _2025.08_: &nbsp;🎉🎉 One paper accepted by IJCNLP-AACL 2025.
+- _2025.10_: &nbsp;🎉🎉 One paper accepted by IJCNLP-AACL 2025.
 - _2025.08_: &nbsp;🎉🎉 Completed my internship as an Applied Scientist at Amazon AGI!
 - _2025.07_: &nbsp;🎉🎉 Invited to serve as Program Committee member for AAAI 2026.
 - _2025.05_: &nbsp;🎉🎉 Excited to join Amazon AGI as an Applied Scientist Intern for Summer 2025 in Bellevue, WA.
@@ -131,11 +131,6 @@ _Proceedings of the ACM Web Conference 2023_
 
 </div>
 </div>
-
-<!-- ## Preprints
-
-- [Make Every Token Count: A Systematic Survey on Decoding Methods for Foundation Models](https://www.researchgate.net/publication/387703971_Make_Every_Token_Count_A_Systematic_Survey_on_Decoding_Methods_for_Foundation_Models?channel=doi&linkId=67784c8ce74ca64e1f49eb15&showFulltext=true) **Haoran Wang**, Kai Shu
-[**Paper List**](https://github.com/wang2226/Awesome-LLM-Decoding) ![](https://img.shields.io/github/stars/wang2226/Awesome-LLM-Decoding) -->
 
 # 🔬 Research Experience
 
