@@ -27,13 +27,14 @@ My research involves building trustworthy AI systems, with a specific emphasis o
 
 # 🔥 News
 
+- _2025.11_: &nbsp;🎉🎉 Two papers accepted by AAAI 2026. Congratulations to <a href="https://baixianghuang.github.io/">Baixiang</a> and <a href="https://yueqingliang1.github.io/">Yueqing</a>!
 - _2025.10_: &nbsp;🎉🎉 One paper accepted by IJCNLP-AACL 2025.
 - _2025.08_: &nbsp;🎉🎉 Completed my internship as an Applied Scientist at Amazon AGI!
 - _2025.07_: &nbsp;🎉🎉 Invited to serve as Program Committee member for AAAI 2026.
-- _2025.05_: &nbsp;🎉🎉 Excited to join Amazon AGI as an Applied Scientist Intern for Summer 2025 in Bellevue, WA.
-- _2025.05_: &nbsp;🎉🎉 Invited to serve as Area Chair for the NeurIPS Position Track.
 - <details> <summary>More</summary>
   <ul>
+    <li><em>2025.01:</em> Excited to join Amazon AGI as an Applied Scientist Intern for Summer 2025 in Bellevue, WA.</li>
+    <li><em>2025.01:</em> Invited to serve as Area Chair for the NeurIPS Position Track.</li>
     <li><em>2025.01:</em> Research Access Program has been awarded. Thanks OpenAI!</li>
     <li><em>2025.01:</em> Fin-Fact has been accepted by <a href="https://arxiv.org/abs/2309.08793">WWW 2025</a>. Congratulations <a href="https://amanrangapur.com/">Aman</a>!</li>
     <li><em>2024.12:</em> Invited as PC for ICML 2025 Position Track.</li>
