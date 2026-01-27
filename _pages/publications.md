@@ -14,15 +14,23 @@ author_profile: true
 
 # Conference
 
-- ``AAAI 2026`` **Model Editing as a Double-Edged Sword: Steering Agent Ethical Behavior Toward Beneficence or Harm**
+- ``ICLR 2026`` **On the Trustworthiness of Generative Foundation Models: Guideline, Assessment, and Perspective** [[PDF]](https://arxiv.org/abs/2502.14296)
+  - Yue Huang, Chujie Gao, Siyuan Wu, **Haoran Wang**, Xiangqi Wang, Yujun Zhou, Yanbo Wang, Jiayi Ye, Jiawen Shi, et al.
+  - _Proceedings of the Fourteenth International Conference on Learning Representations_
+
+- ``WWW 2026`` **Can Multimodal LLMs Perform Time Series Anomaly Detection?** [[PDF]](https://arxiv.org/abs/2502.17812)
+  - Xiongxiao Xu, **Haoran Wang**, Yueqing Liang, Philip S. Yu, Yue Zhao, Kai Shu
+  - _Proceedings of the ACM Web Conference 2026_
+
+- ``AAAI 2026`` **Model Editing as a Double-Edged Sword: Steering Agent Ethical Behavior Toward Beneficence or Harm** [[PDF]](https://arxiv.org/pdf/2506.20606)
   - Baixiang Huang, Zhen Tan, **Haoran Wang**, Zijie Liu, Dawei Li, Ali Payani, Huan Liu, Tianlong Chen, Kai Shu
   - _Proceedings of the AAAI Conference on Artificial Intelligence_
 
-- ``AAAI 2026`` **Benchmarking LLMs for Political Science: A United Nations Perspective**
+- ``AAAI 2026`` **Benchmarking LLMs for Political Science: A United Nations Perspective** [[PDF]](https://arxiv.org/pdf/2502.14122)
   - Yueqing Liang, Liangwei Yang, Chen Wang, Congying Xia, Rui Meng, Xiongxiao Xu, **Haoran Wang**, Ali Payani, Kai Shu
   - _Proceedings of the AAAI Conference on Artificial Intelligence_
 
-- ``IJCNLP-AACL 2025`` **Spatial-Aware Visual Program Guided Reasoning for Answering Complex Visual Questions**  
+- ``IJCNLP-AACL 2025`` **Spatial-Aware Visual Program Guided Reasoning for Answering Complex Visual Questions** [[PDF]](https://aclanthology.org/2025.findings-ijcnlp.121.pdf)
   - **Haoran Wang**, Kai Shu
   - _Findings of the Association for Computational Linguistics: IJCNLP-AACL 2025_
 
@@ -56,7 +64,5 @@ author_profile: true
 - [Fact-Checking with Large Language Models via Probabilistic Certainty and Consistency](https://arxiv.org/abs/2601.02574) **Haoran Wang**, Maryam Khalid, Qiong Wu, Jian Gao, Cheng Cao
 - [Privacy-Aware Decoding: Mitigating Privacy Leakage of Large Language Models in Retrieval-Augmented Generation](https://arxiv.org/abs/2508.03098) **Haoran Wang**, Xiongxiao Xu, Baixiang Huang, Kai Shu
 - [Make Every Token Count: A Systematic Survey on Decoding Methods for Foundation Models](https://www.researchgate.net/publication/387703971_Make_Every_Token_Count_A_Systematic_Survey_on_Decoding_Methods_for_Foundation_Models?channel=doi&linkId=67784c8ce74ca64e1f49eb15&showFulltext=true) **Haoran Wang**, Kai Shu
-- [Can Multimodal LLMs Perform Time Series Anomaly Detection?](https://arxiv.org/abs/2502.17812) Xiongxiao Xu, **Haoran Wang**, Yueqing Liang, Philip S. Yu, Yue Zhao, Kai Shu
-- [On the Trustworthiness of Generative Foundation Models: Guideline, Assessment, and Perspective](https://arxiv.org/abs/2502.14296) Yue Huang, Chujie Gao, Siyuan Wu, **Haoran Wang**, Xiangqi Wang, Yujun Zhou, Yanbo Wang, Jiayi Ye, Jiawen Shi, Qihui Zhang, Yuan Li, et al.
 - [Investigating Online Financial Misinformation and Its Consequences: A Computational Perspective](https://arxiv.org/abs/2309.12363) Aman Rangapur, **Haoran Wang**, Kai Shu
 - [Combating Health Misinformation in Social Media: Characterization, Detection, Intervention, and Open Issues](https://arxiv.org/abs/2211.05289) Canyu Chen\*, **Haoran Wang\***, Matthew Shapiro, Yunyu Xiao, Fei Wang, Kai Shu (\*: eqaul contribution)

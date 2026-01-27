@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a 4th-year Ph.D. candidate at Emory University advised by Dr. [Kai Shu](https://www.cs.emory.edu/~kshu5/). I obtained my M.S. degree in computer science from University of Oregon in 2021 (advised by Dr. [Thien Nguyen](https://ix.cs.uoregon.edu/~thien/)), and my B.S. degree in computer science from Purdue University in 2019 (working with Dr. [Yung-Hsiang Lu](https://yhlu.net/)). Previously, I worked as an applied scientist intern at Amazon AGI, Summer 2025.
+I am a Ph.D. candidate at Emory University advised by Dr. [Kai Shu](https://www.cs.emory.edu/~kshu5/). I obtained my M.S. degree in computer science from University of Oregon in 2021 (advised by Dr. [Thien Nguyen](https://ix.cs.uoregon.edu/~thien/)), and my B.S. degree in computer science from Purdue University in 2019 (working with Dr. [Yung-Hsiang Lu](https://yhlu.net/)). Previously, I worked as an applied scientist intern at Amazon AGI, Summer 2025.
 
 <!-- 🔉 _I am actively seeking industry research internship for Summer 2025_ 🔉 -->
 
@@ -27,13 +27,15 @@ My research involves building trustworthy AI systems, with a specific emphasis o
 
 # 🔥 News
 
+- _2026.1_: &nbsp;🎉🎉 TrustGen accepted by ICLR 2026. Congratulations to Yue!
+- _2026.1_: &nbsp;🎉🎉 One paper accepted by WWW 2026. Congratulations to <a href="https://xiongxiaoxu.github.io/">Xiongxiao</a>!
 - _2025.11_: &nbsp;🎉🎉 Two papers accepted by AAAI 2026. Congratulations to <a href="https://baixianghuang.github.io/">Baixiang</a> and <a href="https://yueqingliang1.github.io/">Yueqing</a>!
 - _2025.10_: &nbsp;🎉🎉 One paper accepted by IJCNLP-AACL 2025.
-- _2025.08_: &nbsp;🎉🎉 Completed my internship as an Applied Scientist at Amazon AGI!
-- _2025.07_: &nbsp;🎉🎉 Invited to serve as Program Committee member for AAAI 2026.
 - <details> <summary>More</summary>
   <ul>
-    <li><em>2025.01:</em> Excited to join Amazon AGI as an Applied Scientist Intern for Summer 2025 in Bellevue, WA.</li>
+    <li><em>2025.08:</em> Completed my internship as an Applied Scientist at Amazon AGI!</li>
+    <li><em>2025.07:</em> Invited to serve as Program Committee member for AAAI 2026.</li>
+    <li><em>2025.02:</em> Excited to join Amazon AGI as an Applied Scientist Intern for Summer 2025 in Bellevue, WA.</li>
     <li><em>2025.01:</em> Invited to serve as Area Chair for the NeurIPS Position Track.</li>
     <li><em>2025.01:</em> Research Access Program has been awarded. Thanks OpenAI!</li>
     <li><em>2025.01:</em> Fin-Fact has been accepted by <a href="https://arxiv.org/abs/2309.08793">WWW 2025</a>. Congratulations <a href="https://amanrangapur.com/">Aman</a>!</li>
@@ -156,6 +158,6 @@ _Proceedings of the ACM Web Conference 2023_
 
 ---
 
-Last updated on Oct 27, 2025.
+Last updated on Jan 27, 2026.
 
 <a href='https://mapmyvisitors.com/web/1bweu'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=300&t=tt&d=SDWOZvjcEGQvmbkHt5vCf__HQwaniKPTjud79Y2vHsE&co=2d78ad&ct=ffffff'/></a>
