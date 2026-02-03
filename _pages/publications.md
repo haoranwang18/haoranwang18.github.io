@@ -12,6 +12,22 @@ author_profile: true
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+
+# Journal and Book Chapter
+
+- **Beyond Tokens: A Survey on Decoding Methods for Large Language Models and Large Vision-Language Models**
+  - **Haoran Wang**, Xiongxiao Xu, Philip S. Yu, Kai Shu.
+  - _Proceedings of ACM SIGKDD Explorations Newsletter 28.1 (2026)_
+
+- **Automated Fact-Checking**
+  - **Haoran Wang**, Baixiang Huang, Kai Shu.
+  - _Chapter in Oxford Handbook of Misinformation and Disinformation, Oxford University Press_
+
+- **Factuality of Large Language Models: An Adversarial Perspective**
+  - Baixiang Huang, **Haoran Wang**, Kai Shu.
+  - _Chapter in Online Trust and Safety: Tools to Combat Online Harms, Misinformation, and Malicious Content, Taylor and Francis CRC Press_
+
+
 # Conference
 
 - ``ICLR 2026`` **On the Trustworthiness of Generative Foundation Models: Guideline, Assessment, and Perspective** [[PDF]](https://arxiv.org/abs/2502.14296)
@@ -63,6 +79,5 @@ author_profile: true
 - [Towards Effective Model Editing for LLM Personalization](https://arxiv.org/abs/2512.13676) Baixiang Huang, Limeng Cui, Jiapeng Liu, **Haoran Wang**, Jiawei Xu, Zhuiyue Tan, Yutong Chen, Chen Luo, Yi Liu, Kai Shu
 - [Fact-Checking with Large Language Models via Probabilistic Certainty and Consistency](https://arxiv.org/abs/2601.02574) **Haoran Wang**, Maryam Khalid, Qiong Wu, Jian Gao, Cheng Cao
 - [Privacy-Aware Decoding: Mitigating Privacy Leakage of Large Language Models in Retrieval-Augmented Generation](https://arxiv.org/abs/2508.03098) **Haoran Wang**, Xiongxiao Xu, Baixiang Huang, Kai Shu
-- [Make Every Token Count: A Systematic Survey on Decoding Methods for Foundation Models](https://www.researchgate.net/publication/387703971_Make_Every_Token_Count_A_Systematic_Survey_on_Decoding_Methods_for_Foundation_Models?channel=doi&linkId=67784c8ce74ca64e1f49eb15&showFulltext=true) **Haoran Wang**, Kai Shu
 - [Investigating Online Financial Misinformation and Its Consequences: A Computational Perspective](https://arxiv.org/abs/2309.12363) Aman Rangapur, **Haoran Wang**, Kai Shu
 - [Combating Health Misinformation in Social Media: Characterization, Detection, Intervention, and Open Issues](https://arxiv.org/abs/2211.05289) Canyu Chen\*, **Haoran Wang\***, Matthew Shapiro, Yunyu Xiao, Fei Wang, Kai Shu (\*: eqaul contribution)
