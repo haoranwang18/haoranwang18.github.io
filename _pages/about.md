@@ -27,8 +27,8 @@ My research involves building trustworthy AI systems, with a specific emphasis o
 
 # 🔥 News
 
-- _2026.1_: &nbsp;🎉🎉 TrustGen accepted by ICLR 2026. Congratulations to <a href="https://howiehwong.github.io/">Yue</a>!
-- _2026.1_: &nbsp;🎉🎉 One paper accepted by WWW 2026. Congratulations to <a href="https://xiongxiaoxu.github.io/">Xiongxiao</a>!
+- _2026.01_: &nbsp;🎉🎉 TrustGen accepted by ICLR 2026. Congratulations to <a href="https://howiehwong.github.io/">Yue</a>!
+- _2026.01_: &nbsp;🎉🎉 One paper accepted by WWW 2026. Congratulations to <a href="https://xiongxiaoxu.github.io/">Xiongxiao</a>!
 - _2025.11_: &nbsp;🎉🎉 Two papers accepted by AAAI 2026. Congratulations to <a href="https://baixianghuang.github.io/">Baixiang</a> and <a href="https://yueqingliang1.github.io/">Yueqing</a>!
 - _2025.10_: &nbsp;🎉🎉 One paper accepted by IJCNLP-AACL 2025.
 - <details> <summary>More</summary>
