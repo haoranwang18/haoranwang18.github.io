@@ -23,7 +23,7 @@ I am a Ph.D. candidate at Emory University advised by Dr. [Kai Shu](https://www.
 
 # 💡 Research Interests
 
-My research involves building trustworthy AI systems, with a specific emphasis on enhancing both robustness and interpretability. I am broadly interested in fundamental research and interdisciplinary collaborations motivated by important applications, including detecting misinformation and analyzing social network.
+My research focuses on building trustworthy foundation models, with an emphasis on improving factuality, safety, and privacy through test-time control. I develop inference-time methods for large language models and multimodal systems that enhance robustness, interpretability, and reliability without retraining. I am broadly interested in interdisciplinary collaborations that translate trustworthy AI research into high-impact applications such as automated fact-checking, agentic systems, and AI for science.
 
 # 🔥 News
 
