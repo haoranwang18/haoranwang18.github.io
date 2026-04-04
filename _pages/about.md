@@ -27,13 +27,14 @@ My research focuses on building trustworthy foundation models, with an emphasis 
 
 # 🔥 News
 
+- _2026.04_: &nbsp;🎉🎉 Successfully Passed Dissertation Prospectus!
 - _2026.02_: &nbsp;🎉🎉 Our survey on decoding methods in LLMs is accepted at SIGKDD Explorations!
 - _2026.01_: &nbsp;🎉🎉 TrustGen accepted by ICLR 2026. Congratulations to <a href="https://howiehwong.github.io/">Yue</a>!
 - _2026.01_: &nbsp;🎉🎉 One paper accepted by WWW 2026. Congratulations to <a href="https://xiongxiaoxu.github.io/">Xiongxiao</a>!
-- _2025.11_: &nbsp;🎉🎉 Two papers accepted by AAAI 2026. Congratulations to <a href="https://baixianghuang.github.io/">Baixiang</a> and <a href="https://yueqingliang1.github.io/">Yueqing</a>!
-- _2025.10_: &nbsp;🎉🎉 One paper accepted by IJCNLP-AACL 2025.
 - <details> <summary>More</summary>
   <ul>
+    <li><em>2025.11:</em> Two papers accepted by AAAI 2026. Congratulations to <a href="https://baixianghuang.github.io/">Baixiang</a> and <a href="https://yueqingliang1.github.io/">Yueqing</a>!</li>
+    <li><em>2025.10:</em> One paper accepted by IJCNLP-AACL 2025.</li>
     <li><em>2025.08:</em> Completed my internship as an Applied Scientist at Amazon AGI!</li>
     <li><em>2025.07:</em> Invited to serve as Program Committee member for AAAI 2026.</li>
     <li><em>2025.02:</em> Excited to join Amazon AGI as an Applied Scientist Intern for Summer 2025 in Bellevue, WA.</li>
@@ -45,7 +46,7 @@ My research focuses on building trustworthy foundation models, with an emphasis 
     <li><em>2024.08:</em> Our Fin-Fact dataset has been used for shared task for <a href="https://coling2025fmd.thefin.ai/">FinNLP@COLING2025</a></li>
     <li><em>2024.07:</em> TA2 has been accepted by <a href="https://arxiv.org/abs/2311.09433">CIKM 2024</a>.</li>
     <li><em>2024.05:</em> TrustLLM has been accepted by <a href="https://arxiv.org/pdf/2401.05561">ICML 2024</a>. Congratulations <a href="https://howiehwong.github.io/">Yue</a>!</li>
-    <li><em>2024.02:</em> Passed Ph.D. Qualifying Exam.</li>
+    <li><em>2024.02:</em> Successfully Passed Ph.D. Qualifying Exam!</li>
     <li><em>2023.10:</em> FOLK has been accepted by <a href="https://arxiv.org/abs/2310.05253">EMNLP 2023</a>.</li>
     <li><em>2023.02:</em> MARL has been accepted by <a href="https://arxiv.org/abs/2302.07363">WWW 2023</a>.</li>
   </ul>
@@ -150,15 +151,8 @@ _Proceedings of the ACM Web Conference 2023_
 - _2021_, M.S., Computer Science. University of Oregon.
 - _2019_, B.S., Computer Science. Purdue University.
 
-# Academic Service
-
-- **Area Chair:** NeurIPS 2025 Position Track
-- **Session Chair:** CIKM 2024
-- **Reviewer/Program Committee:** KDD{2024, 2025}, AAAI{2024, 2025, 2026}, PAKDD{2025, 2026}, NeurIPS {2025}, ICML {2025}, ACML {2025}
-- **Volunteer:** ACM FAccT 2023
-
 ---
 
-Last updated on Jan 27, 2026.
+Last updated on April 4, 2026.
 
 <a href='https://mapmyvisitors.com/web/1bweu'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=300&t=tt&d=SDWOZvjcEGQvmbkHt5vCf__HQwaniKPTjud79Y2vHsE&co=2d78ad&ct=ffffff'/></a>

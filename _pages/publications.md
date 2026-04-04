@@ -12,7 +12,6 @@ author_profile: true
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-
 # Journal and Book Chapter
 
 - **Beyond Tokens: A Survey on Decoding Methods for Large Language Models and Large Vision-Language Models**
@@ -26,7 +25,6 @@ author_profile: true
 - **Factuality of Large Language Models: An Adversarial Perspective**
   - Baixiang Huang, **Haoran Wang**, Kai Shu.
   - _Chapter in Online Trust and Safety: Tools to Combat Online Harms, Misinformation, and Malicious Content, Taylor and Francis CRC Press_
-
 
 # Conference
 
@@ -76,6 +74,7 @@ author_profile: true
 
 # Preprint
 
+- [Do LLMs Know What Is Private Internally? Probing and Steering Contextual Privacy Norms in Large Language Model Representations](https://arxiv.org/abs/2604.00209) **Haoran Wang**, Li Xiong, Kai Shu
 - [Towards Effective Model Editing for LLM Personalization](https://arxiv.org/abs/2512.13676) Baixiang Huang, Limeng Cui, Jiapeng Liu, **Haoran Wang**, Jiawei Xu, Zhuiyue Tan, Yutong Chen, Chen Luo, Yi Liu, Kai Shu
 - [Fact-Checking with Large Language Models via Probabilistic Certainty and Consistency](https://arxiv.org/abs/2601.02574) **Haoran Wang**, Maryam Khalid, Qiong Wu, Jian Gao, Cheng Cao
 - [Privacy-Aware Decoding: Mitigating Privacy Leakage of Large Language Models in Retrieval-Augmented Generation](https://arxiv.org/abs/2508.03098) **Haoran Wang**, Xiongxiao Xu, Baixiang Huang, Kai Shu
