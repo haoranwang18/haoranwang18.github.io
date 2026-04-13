@@ -18,6 +18,7 @@ author_profile: true
 
 # Area Chair
 
+- The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026, Position Track
 - The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025, Position Track
 
 # Program Committee

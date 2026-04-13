@@ -27,6 +27,7 @@ My research focuses on building trustworthy foundation models, with an emphasis 
 
 # 🔥 News
 
+- _2026.04_: &nbsp;🎉🎉 Invited to serve as Area Chair for the NeurIPS 2026 Position Track
 - _2026.04_: &nbsp;🎉🎉 Successfully Passed Dissertation Prospectus!
 - _2026.02_: &nbsp;🎉🎉 Our survey on decoding methods in LLMs is accepted at SIGKDD Explorations!
 - _2026.01_: &nbsp;🎉🎉 TrustGen accepted by ICLR 2026. Congratulations to <a href="https://howiehwong.github.io/">Yue</a>!
