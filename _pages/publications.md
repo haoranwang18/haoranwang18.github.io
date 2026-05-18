@@ -22,11 +22,15 @@ author_profile: true
   - **Haoran Wang**, Baixiang Huang, Kai Shu.
   - _Chapter in Oxford Handbook of Misinformation and Disinformation, Oxford University Press_
 
-- **Factuality of Large Language Models: An Adversarial Perspective**
+- **Factuality of Large Language Models: An Adversarial Perspective** [[Link](https://www.routledge.com/Online-Trust-and-Safety-Tools-to-Combat-Online-Harms-Misinformation-and-Malicious-Content/McLoughlin-Soon-Ka-WeiLee-Lwin-Begum-Feida/p/book/9781032961941)]
   - Baixiang Huang, **Haoran Wang**, Kai Shu.
   - _Chapter in Online Trust and Safety: Tools to Combat Online Harms, Misinformation, and Malicious Content, Taylor and Francis CRC Press_
 
 # Conference
+
+- ``KDD 2026`` **Privacy-Aware Decoding: Mitigating Privacy Leakage of Large Language Models in Retrieval-Augmented Generation** [[PDF]](https://arxiv.org/abs/2508.03098)
+  - **Haoran Wang**, Xiongxiao Xu, Baixiang Huang, Kai Shu
+  - _Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026)_
 
 - ``ICLR 2026`` **On the Trustworthiness of Generative Foundation Models: Guideline, Assessment, and Perspective** [[PDF]](https://arxiv.org/abs/2502.14296)
   - Yue Huang, Chujie Gao, Siyuan Wu, **Haoran Wang**, Xiangqi Wang, Yujun Zhou, Yanbo Wang, Jiayi Ye, Jiawen Shi, et al.
@@ -77,6 +81,5 @@ author_profile: true
 - [Do LLMs Know What Is Private Internally? Probing and Steering Contextual Privacy Norms in Large Language Model Representations](https://arxiv.org/abs/2604.00209) **Haoran Wang**, Li Xiong, Kai Shu
 - [Towards Effective Model Editing for LLM Personalization](https://arxiv.org/abs/2512.13676) Baixiang Huang, Limeng Cui, Jiapeng Liu, **Haoran Wang**, Jiawei Xu, Zhuiyue Tan, Yutong Chen, Chen Luo, Yi Liu, Kai Shu
 - [Fact-Checking with Large Language Models via Probabilistic Certainty and Consistency](https://arxiv.org/abs/2601.02574) **Haoran Wang**, Maryam Khalid, Qiong Wu, Jian Gao, Cheng Cao
-- [Privacy-Aware Decoding: Mitigating Privacy Leakage of Large Language Models in Retrieval-Augmented Generation](https://arxiv.org/abs/2508.03098) **Haoran Wang**, Xiongxiao Xu, Baixiang Huang, Kai Shu
 - [Investigating Online Financial Misinformation and Its Consequences: A Computational Perspective](https://arxiv.org/abs/2309.12363) Aman Rangapur, **Haoran Wang**, Kai Shu
 - [Combating Health Misinformation in Social Media: Characterization, Detection, Intervention, and Open Issues](https://arxiv.org/abs/2211.05289) Canyu Chen\*, **Haoran Wang\***, Matthew Shapiro, Yunyu Xiao, Fei Wang, Kai Shu (\*: eqaul contribution)

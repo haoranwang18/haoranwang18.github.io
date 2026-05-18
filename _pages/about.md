@@ -27,13 +27,15 @@ My research focuses on building trustworthy foundation models, with an emphasis 
 
 # 🔥 News
 
+- _2026.05_: &nbsp;🎉🎉 One paper accepted by KDD 2026!
+- _2026.05_: &nbsp;🎉🎉 Honored to receive Excellence in Research Assistance Award from the department!
 - _2026.04_: &nbsp;🎉🎉 Invited to serve as Area Chair for the NeurIPS 2026 Position Track
 - _2026.04_: &nbsp;🎉🎉 Successfully Passed Dissertation Prospectus!
 - _2026.02_: &nbsp;🎉🎉 Our survey on decoding methods in LLMs is accepted at SIGKDD Explorations!
-- _2026.01_: &nbsp;🎉🎉 TrustGen accepted by ICLR 2026. Congratulations to <a href="https://howiehwong.github.io/">Yue</a>!
-- _2026.01_: &nbsp;🎉🎉 One paper accepted by WWW 2026. Congratulations to <a href="https://xiongxiaoxu.github.io/">Xiongxiao</a>!
 - <details> <summary>More</summary>
   <ul>
+    <li><em>2026.01:</em> TrustGen accepted by ICLR 2026. Congratulations to <a href="https://howiehwong.github.io/">Yue</a>!</li>
+    <li><em>2026.01:</em> One paper accepted by WWW 2026. Congratulations to <a href="https://xiongxiaoxu.github.io/">Xiongxiao</a>!</li>
     <li><em>2025.11:</em> Two papers accepted by AAAI 2026. Congratulations to <a href="https://baixianghuang.github.io/">Baixiang</a> and <a href="https://yueqingliang1.github.io/">Yueqing</a>!</li>
     <li><em>2025.10:</em> One paper accepted by IJCNLP-AACL 2025.</li>
     <li><em>2025.08:</em> Completed my internship as an Applied Scientist at Amazon AGI!</li>
