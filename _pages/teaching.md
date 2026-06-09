@@ -20,4 +20,6 @@ author_profile: true
 
 # Guest Lecture
 
-- **Combating Misinformation in the Age of Large Language Models**, _October 26, 2023_, CS585: Natural Language Processing, Illinois Institute of Technology
+- **Test-Time Approaches for Trustworthy Large Language Models**, _April 20, 2026_, CS 570: Data Mining, Emory University
+
+- **Combating Misinformation in the Age of Large Language Models**, _October 26, 2023_, CS 585: Natural Language Processing, Illinois Institute of Technology

@@ -23,6 +23,7 @@ author_profile: true
 
 # Program Committee
 
+- Conference on Language Modeling (COLM), 2026
 - The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026
 - The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026
 - The 64th Annual Meeting of the Association for Computational Linguistics (ACL), 2026
