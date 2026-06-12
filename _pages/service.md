@@ -22,7 +22,7 @@ author_profile: true
 - The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025, Position Track
 
 # Program Committee
-
+- DocInsights Workshop at EMNLP, 2026
 - Conference on Language Modeling (COLM), 2026
 - The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026
 - The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026
