@@ -26,7 +26,7 @@ I am a Ph.D. candidate at Emory University advised by Dr. [Kai Shu](https://www.
 My research focuses on building trustworthy foundation models, with an emphasis on improving factuality, safety, and privacy through test-time control. I develop inference-time methods for large language models and multimodal systems that enhance robustness, interpretability, and reliability without retraining. I am broadly interested in interdisciplinary collaborations that translate trustworthy AI research into high-impact applications such as automated fact-checking, agentic systems, and AI for science.
 
 # 🔥 News
-
+- _2026.06_: &nbsp;🎉🎉 GCP Credits has been awarded. Thanks Google!
 - _2026.05_: &nbsp;🎉🎉 One paper accepted by KDD 2026!
 - _2026.05_: &nbsp;🎉🎉 Honored to receive Excellence in Research Assistance Award from the department!
 - _2026.04_: &nbsp;🎉🎉 Invited to serve as Area Chair for the NeurIPS 2026 Position Track

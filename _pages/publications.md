@@ -14,11 +14,11 @@ author_profile: true
 
 # Journal and Book Chapter
 
-[J3] **Beyond Tokens: A Survey on Decoding Methods for Large Language Models and Large Vision-Language Models**
+[J3] **Beyond Tokens: A Survey on Decoding Methods for Large Language Models and Large Vision-Language Models** [[PDF]](https://dl.acm.org/doi/10.1145/3820356.3820357)
 
 **Haoran Wang**, Xiongxiao Xu, Philip S. Yu, Kai Shu.
 
-_Proceedings of ACM SIGKDD Explorations Newsletter 28.1 (2026)_
+_Proceedings of ACM SIGKDD Explorations Newsletter, Volume 28, Issue 1 (2026)_
 
 [J2] **Automated Fact-Checking**
 
