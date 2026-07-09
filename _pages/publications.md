@@ -34,6 +34,12 @@ _Chapter in Online Trust and Safety: Tools to Combat Online Harms, Misinformatio
 
 # Conference
 
+[C13] ``COLM 2026``{: .conf-acronym} **Do LLMs Know What Is Private Internally? Probing and Steering Contextual Privacy Norms in Large Language Model Representations** [[PDF]](https://arxiv.org/abs/2604.00209)
+
+**Haoran Wang**, Li Xiong, Kai Shu
+
+_Proceedings of the Third Conference on Language Modeling (COLM 2026)_
+
 [C12] ``KDD 2026``{: .conf-acronym} **Privacy-Aware Decoding: Mitigating Privacy Leakage of Large Language Models in Retrieval-Augmented Generation** [[PDF]](https://arxiv.org/abs/2508.03098)
 
 **Haoran Wang**, Xiongxiao Xu, Baixiang Huang, Kai Shu
@@ -107,10 +113,6 @@ _Findings of the Association for Computational Linguistics: EMNLP 2023_
 _Proceedings of the ACM Web Conference 2023_
 
 # Preprint
-
-[P5] [Do LLMs Know What Is Private Internally? Probing and Steering Contextual Privacy Norms in Large Language Model Representations](https://arxiv.org/abs/2604.00209)
-
-**Haoran Wang**, Li Xiong, Kai Shu
 
 [P4] [Towards Effective Model Editing for LLM Personalization](https://arxiv.org/abs/2512.13676)
 
