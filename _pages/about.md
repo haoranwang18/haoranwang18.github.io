@@ -32,9 +32,9 @@ My research focuses on building trustworthy foundation models, with an emphasis 
 - _2026.05_: &nbsp;🎉🎉 Honored to receive Excellence in Research Assistance Award from the department!
 - _2026.04_: &nbsp;🎉🎉 Invited to serve as Area Chair for the NeurIPS 2026 Position Track
 - _2026.04_: &nbsp;🎉🎉 Successfully Passed Dissertation Prospectus!
-- _2026.02_: &nbsp;🎉🎉 Our survey on decoding methods in LLMs is accepted at SIGKDD Explorations!
 - <details> <summary>More</summary>
   <ul>
+    <li><em>2026.02:</em> Our survey on decoding methods in LLMs is accepted at <a href="https://dl.acm.org/doi/pdf/10.1145/3820356.3820357">SIGKDD Explorations</a>!</li>
     <li><em>2026.01:</em> TrustGen accepted by ICLR 2026. Congratulations to <a href="https://howiehwong.github.io/">Yue</a>!</li>
     <li><em>2026.01:</em> One paper accepted by WWW 2026. Congratulations to <a href="https://xiongxiaoxu.github.io/">Xiongxiao</a>!</li>
     <li><em>2025.11:</em> Two papers accepted by AAAI 2026. Congratulations to <a href="https://baixianghuang.github.io/">Baixiang</a> and <a href="https://yueqingliang1.github.io/">Yueqing</a>!</li>
@@ -157,6 +157,6 @@ _Proceedings of the ACM Web Conference 2023_
 
 ---
 
-Last updated on April 4, 2026.
+Last updated on July 8, 2026.
 
 <a href='https://mapmyvisitors.com/web/1bweu'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=300&t=tt&d=SDWOZvjcEGQvmbkHt5vCf__HQwaniKPTjud79Y2vHsE&co=2d78ad&ct=ffffff'/></a>
