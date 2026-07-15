@@ -26,6 +26,7 @@ I am a Ph.D. candidate at Emory University advised by Dr. [Kai Shu](https://www.
 My research focuses on building trustworthy foundation models, with an emphasis on improving factuality, safety, and privacy through test-time control. I develop inference-time methods for large language models and multimodal systems that enhance robustness, interpretability, and reliability without retraining. I am broadly interested in interdisciplinary collaborations that translate trustworthy AI research into high-impact applications such as automated fact-checking, agentic systems, and AI for science.
 
 # 🔥 News
+
 - _2026.07_: &nbsp;🎉🎉 CI-Steering has been accepted by <a href="https://arxiv.org/abs/2604.00209">COLM 2026</a>. See you in San Francisco!
 - _2026.06_: &nbsp;🎉🎉 GCP Credits has been awarded. Thanks Google!
 - _2026.05_: &nbsp;🎉🎉 One paper accepted by KDD 2026!
@@ -57,9 +58,37 @@ My research focuses on building trustworthy foundation models, with an emphasis 
 
   </details>
 
-# 📜 Selected Publications
+# 📜 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/coling25.png' alt="sym" width="80%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2026</div><img src='images/colm26.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Do llms know what is private internally? probing and steering contextual privacy norms in large language model representations](https://arxiv.org/abs/2604.00209)
+
+**Haoran Wang**, Li Xiong, Kai Shu
+
+_Proceedings of the Third Conference on Language Modeling_
+
+[![git](https://img.shields.io/github/stars/wang2226/CI-Steering)](https://github.com/wang2226/CI-Steering)
+
+</div>
+</div> -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/kdd26.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Privacy-aware decoding: Mitigating privacy leakage of large language models in retrieval-augmented generation](https://arxiv.org/abs/2508.03098)
+
+**Haoran Wang**, Xiongxiao Xu, Baixiang Huang, Kai Shu
+
+_Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining_
+
+[![git](https://img.shields.io/github/stars/wang2226/PAD)](https://github.com/wang2226/PAD)
+
+</div>
+</div>
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/coling25.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Piecing It All Together: Verifying Multi-Hop Multimodal Claims](https://aclanthology.org/2025.coling-main.498/)
@@ -72,7 +101,7 @@ _Proceedings of the 31st International Conference on Computational Linguistics_
 [![Leaderboard](https://img.shields.io/badge/Leaderboard-%F0%9F%9A%80-brightgreen)](https://mmcv-dataset.github.io/)
 
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2024</div><img src='images/cikm24.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -157,6 +186,6 @@ _Proceedings of the ACM Web Conference 2023_
 
 ---
 
-Last updated on July 8, 2026.
+Last updated on July 15, 2026.
 
 <a href='https://mapmyvisitors.com/web/1bweu'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=300&t=tt&d=SDWOZvjcEGQvmbkHt5vCf__HQwaniKPTjud79Y2vHsE&co=2d78ad&ct=ffffff'/></a>
