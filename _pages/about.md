@@ -58,7 +58,7 @@ My research focuses on building trustworthy foundation models, with an emphasis 
 
   </details>
 
-# 📜 Selected Publications 
+# 📜 Selected Publications
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2026</div><img src='images/colm26.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -178,7 +178,7 @@ _Proceedings of the ACM Web Conference 2023_
 > **Amazon AGI**, May, 2025 -- Aug, 2025 <br>
 > Applied Scientist Intern
 
-# Education
+# 🎓 Education
 
 - _2022 - Now_, Ph.D., Computer Science. Emory University.
 - _2021_, M.S., Computer Science. University of Oregon.
