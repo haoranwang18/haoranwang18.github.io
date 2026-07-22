@@ -17,9 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate at Emory University advised by Dr. [Kai Shu](https://www.cs.emory.edu/~kshu5/). I obtained my M.S. degree in computer science from University of Oregon in 2021 (advised by Dr. [Thien Nguyen](https://ix.cs.uoregon.edu/~thien/)), and my B.S. degree in computer science from Purdue University in 2019 (working with Dr. [Yung-Hsiang Lu](https://yhlu.net/)). Previously, I worked as an applied scientist intern at Amazon AGI, Summer 2025.
+I am a fina-year Ph.D. candidate at Emory University advised by Dr. [Kai Shu](https://www.cs.emory.edu/~kshu5/). I obtained my M.S. degree in computer science from University of Oregon in 2021 (advised by Dr. [Thien Nguyen](https://ix.cs.uoregon.edu/~thien/)), and my B.S. degree in computer science from Purdue University in 2019 (working with Dr. [Yung-Hsiang Lu](https://yhlu.net/)). Previously, I worked as an applied scientist intern at Amazon AGI.
 
-<!-- 🔉 _I am actively seeking industry research internship for Summer 2025_ 🔉 -->
+<div style="
+background:#fff8dc;
+border-left:5px solid #f39c12;
+padding:12px 16px;
+margin:18px 0;
+border-radius:6px;
+font-size:1.05em;">
+📢 <strong>On the 2026–2027 Job Market.</strong>
+I am actively seeking tenure-track Assistant Professor and Applied Scientist positions.
+I welcome conversations and would greatly appreciate any introductions or opportunities.
+</div>
 
 # 💡 Research Interests
 
@@ -60,7 +70,7 @@ My research focuses on building trustworthy foundation models, with an emphasis 
 
 # 📜 Selected Publications
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2026</div><img src='images/colm26.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2026</div><img src='images/colm26.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Do llms know what is private internally? probing and steering contextual privacy norms in large language model representations](https://arxiv.org/abs/2604.00209)
@@ -72,7 +82,7 @@ _Proceedings of the Third Conference on Language Modeling_
 [![git](https://img.shields.io/github/stars/wang2226/CI-Steering)](https://github.com/wang2226/CI-Steering)
 
 </div>
-</div> -->
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/kdd26.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -112,7 +122,7 @@ _Proceedings of the 31st International Conference on Computational Linguistics_
 
 _Proceedings of the 33rd ACM International Conference on Information and Knowledge Management_
 
-[![git](https://img.shields.io/github/stars/wang2226/Trojan-Activation-Attack)](https://github.com/wang2226/Trojan-Activation-Attack)
+[![git](https://img.shields.io/github/stars/wang2226/Trojan-Activation-Attack)](https://github.com/wang2226/Trojan-Activation-Attack) [![Security](https://img.shields.io/badge/Included%20By-LLM%20Security%20Database-brown)](https://www.promptfoo.dev/lm-security-db/vuln/activation-steering-llm-trojan-b0a6da1c)
 
 </div>
 </div>
@@ -174,6 +184,9 @@ _Proceedings of the ACM Web Conference 2023_
 
 > **Emory University**, Jan, 2025 -- Present <br>
 > Research Assistant
+
+> **Amazon AGI**, Sep, 2026 -- December, 2026 <br>
+> Applied Scientist Intern
 
 > **Amazon AGI**, May, 2025 -- Aug, 2025 <br>
 > Applied Scientist Intern
