@@ -22,6 +22,7 @@ author_profile: true
 - The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025, Position Track
 
 # Program Committee
+- The 18th Asian Conference on Machine Learning (ACML), 2026
 - The 41st Annual AAAI Conference on Artificial Intelligence (AAAI), 2026
 - DocInsights Workshop at EMNLP, 2026
 - Conference on Language Modeling (COLM), 2026

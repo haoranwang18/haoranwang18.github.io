@@ -185,8 +185,8 @@ _Proceedings of the ACM Web Conference 2023_
 > **Emory University**, Jan, 2025 -- Present <br>
 > Research Assistant
 
-> **Amazon AGI**, Sep, 2026 -- December, 2026 <br>
-> Applied Scientist Intern
+<!-- > **Amazon AGI**, Sep, 2026 -- December, 2026 <br>
+> Applied Scientist Intern -->
 
 > **Amazon AGI**, May, 2025 -- Aug, 2025 <br>
 > Applied Scientist Intern
