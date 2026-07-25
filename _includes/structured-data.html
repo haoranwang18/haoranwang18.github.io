@@ -1,0 +1,47 @@
+{% comment %} Person structured data (schema.org) — helps search engines identify the author. {% endcomment %}
+{% capture same_as %}
+{% if site.author.googlescholar %}"{{ site.author.googlescholar }}",{% endif %}
+{% if site.author.linkedin %}"https://www.linkedin.com/in/{{ site.author.linkedin | replace: '/', '' }}",{% endif %}
+{% if site.author.github %}"https://github.com/{{ site.author.github }}",{% endif %}
+{% if site.author.twitter %}"https://twitter.com/{{ site.author.twitter }}",{% endif %}
+{% if site.author.dblp %}"{{ site.author.dblp }}",{% endif %}
+{% if site.author.orcid %}"{{ site.author.orcid }}",{% endif %}
+{% endcapture %}
+{% assign same_as = same_as | strip_newlines | strip | replace: ' ', '' | split: ',' | join: ', ' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "{{ site.author.name }}",
+  "givenName": "Haoran",
+  "familyName": "Wang",
+  "url": "{{ site.url }}/",
+  "image": "{{ site.author.avatar | absolute_url }}",
+  "email": "mailto:{{ site.author.email }}",
+  "jobTitle": "Ph.D. Candidate in Computer Science",
+  "description": {{ site.description | jsonify }},
+  "worksFor": {
+    "@type": "CollegeOrUniversity",
+    "name": "Emory University",
+    "url": "https://www.emory.edu/"
+  },
+  "affiliation": {
+    "@type": "CollegeOrUniversity",
+    "name": "Emory University"
+  },
+  "alumniOf": [
+    { "@type": "CollegeOrUniversity", "name": "University of Oregon" },
+    { "@type": "CollegeOrUniversity", "name": "Purdue University" }
+  ],
+  "knowsAbout": [
+    "Trustworthy Artificial Intelligence",
+    "Large Language Models",
+    "Natural Language Processing",
+    "Machine Learning",
+    "AI Safety",
+    "Privacy",
+    "Fact-Checking"
+  ],
+  "sameAs": [{{ same_as }}]
+}
+</script>

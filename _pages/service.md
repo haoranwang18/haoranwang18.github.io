@@ -2,6 +2,7 @@
 permalink: /service
 title: "Service"
 excerpt: ""
+description: "Academic service by Haoran Wang, including area chair, program committee, and reviewing roles at leading AI and machine learning venues."
 author_profile: true
 ---
 

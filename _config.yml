@@ -7,9 +7,15 @@
 
 # Site Settings
 title: "Haoran Wang"
-description: ""
+description: "Haoran Wang is a Computer Science Ph.D. candidate at Emory University researching trustworthy AI, large language models, and the factuality, safety, and privacy of foundation models."
+url: "https://haoranwang18.github.io"
+baseurl: ""
 repository: "haoranwang18/haoranwang18.github.io"
 google_scholar_stats_use_cdn: false
+
+# Twitter card
+twitter:
+  username: "hwang2226"
 
 # google analytics
 google_analytics_id: G-TBFT5MZPCH

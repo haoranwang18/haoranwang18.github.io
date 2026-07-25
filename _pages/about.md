@@ -2,6 +2,7 @@
 permalink: /
 title: ""
 excerpt: ""
+description: "Haoran Wang is a final-year Computer Science Ph.D. candidate at Emory University (advised by Kai Shu), researching trustworthy foundation models, large language models, and the factuality, safety, and privacy of AI systems."
 author_profile: true
 redirect_from:
   - /about/
@@ -19,16 +20,9 @@ redirect_from:
 
 I am a fina-year Ph.D. candidate at Emory University advised by Dr. [Kai Shu](https://www.cs.emory.edu/~kshu5/). I obtained my M.S. degree in computer science from University of Oregon in 2021 (advised by Dr. [Thien Nguyen](https://ix.cs.uoregon.edu/~thien/)), and my B.S. degree in computer science from Purdue University in 2019 (working with Dr. [Yung-Hsiang Lu](https://yhlu.net/)). Previously, I worked as an applied scientist intern at Amazon AGI.
 
-<div style="
-background:#fff8dc;
-border-left:5px solid #f39c12;
-padding:12px 16px;
-margin:18px 0;
-border-radius:6px;
-font-size:1.05em;">
+<div class="job-market">
 📢 <strong>On the 2026–2027 Job Market.</strong>
-I am actively seeking tenure-track Assistant Professor and Applied Scientist positions.
-I welcome conversations and would greatly appreciate any introductions or opportunities.
+I am actively seeking tenure-track Assistant Professor and Research/Applied Scientist positions. I welcome conversations and would greatly appreciate any introductions, collaborations, or opportunities.
 </div>
 
 # 💡 Research Interests

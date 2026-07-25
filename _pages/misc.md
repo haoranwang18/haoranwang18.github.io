@@ -2,6 +2,7 @@
 permalink: /misc
 title: "Misc"
 excerpt: ""
+description: "Miscellaneous notes, talks, and resources from Haoran Wang, Computer Science Ph.D. candidate at Emory University."
 author_profile: true
 ---
 

@@ -2,6 +2,7 @@
 permalink: /publications
 title: "Publications"
 excerpt: ""
+description: "Peer-reviewed publications by Haoran Wang on trustworthy AI, large language models, factuality, safety, and privacy, appearing at venues such as ICML, WWW, EMNLP, CIKM, KDD, and COLM."
 author_profile: true
 ---
 

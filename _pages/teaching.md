@@ -2,6 +2,7 @@
 permalink: /teaching
 title: "Teaching"
 excerpt: ""
+description: "Teaching and mentoring experience of Haoran Wang, Computer Science Ph.D. candidate at Emory University."
 author_profile: true
 ---
 
