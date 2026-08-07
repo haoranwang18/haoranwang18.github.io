@@ -41,7 +41,7 @@ _Chapter in Online Trust and Safety: Tools to Combat Online Harms, Misinformatio
 
 _Proceedings of the Third Conference on Language Modeling (COLM 2026)_
 
-[C12] `KDD 2026`{: .conf-acronym} **Privacy-Aware Decoding: Mitigating Privacy Leakage of Large Language Models in Retrieval-Augmented Generation** [[PDF]](https://arxiv.org/abs/2508.03098)
+[C12] `KDD 2026`{: .conf-acronym} **Privacy-Aware Decoding: Mitigating Privacy Leakage of Large Language Models in Retrieval-Augmented Generation** [[PDF]](https://dl.acm.org/doi/10.1145/3770855.3817665)
 **Haoran Wang**, Xiongxiao Xu, Baixiang Huang, Kai Shu
 
 _Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026)_

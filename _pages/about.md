@@ -81,7 +81,7 @@ _Proceedings of the Third Conference on Language Modeling_
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/kdd26.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Privacy-aware decoding: Mitigating privacy leakage of large language models in retrieval-augmented generation](https://arxiv.org/abs/2508.03098)
+[Privacy-aware decoding: Mitigating privacy leakage of large language models in retrieval-augmented generation](https://dl.acm.org/doi/10.1145/3770855.3817665)
 
 **Haoran Wang**, Xiongxiao Xu, Baixiang Huang, Kai Shu
 
