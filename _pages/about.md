@@ -33,7 +33,7 @@ My research focuses on building trustworthy foundation models, with an emphasis 
 
 - _2026.07_: &nbsp;🎉🎉 CI-Steering has been accepted by <a href="https://arxiv.org/abs/2604.00209">COLM 2026</a>. See you in San Francisco!
 - _2026.06_: &nbsp;🎉🎉 GCP Credits has been awarded. Thanks Google!
-- _2026.05_: &nbsp;🎉🎉 One paper accepted by KDD 2026!
+- _2026.05_: &nbsp;🎉🎉 One paper accepted by <a href="https://arxiv.org/abs/2508.03098">KDD 2026</a>!
 - _2026.05_: &nbsp;🎉🎉 Honored to receive Excellence in Research Assistance Award from the department!
 - _2026.04_: &nbsp;🎉🎉 Invited to serve as Area Chair for the NeurIPS 2026 Position Track
 - _2026.04_: &nbsp;🎉🎉 Successfully Passed Dissertation Prospectus!
