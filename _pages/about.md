@@ -27,7 +27,9 @@ I am actively seeking tenure-track Assistant Professor and Research/Applied Scie
 
 # 💡 Research Interests
 
-My research focuses on building trustworthy foundation models, with an emphasis on improving factuality, safety, and privacy through test-time control. I develop inference-time methods for large language models and multimodal systems that enhance robustness, interpretability, and reliability without retraining. I am broadly interested in interdisciplinary collaborations that translate trustworthy AI research into high-impact applications such as automated fact-checking, agentic systems, and AI for science.
+My research focuses on building **trustworthy foundation models**, with an emphasis on improving **factuality, safety, and privacy** through inference-time control. I develop inference-time methods for large language models and multimodal systems, including **representation steering and decoding methods**, to improve model robustness, interpretability, and reliability without retraining. More broadly, I am interested in interdisciplinary collaborations that translate advances in trustworthy AI into high-impact applications, including **automated fact-checking, agentic systems, and AI for science**.
+
+<p align="center"><img src="images/research-overview.png" alt="Research overview: Trustworthy Foundation Models" width="60%"></p>
 
 # 🔥 News
 
@@ -176,14 +178,10 @@ _Proceedings of the ACM Web Conference 2023_
 
 # 🔬 Research Experience
 
-> **Emory University**, Jan, 2025 -- Present <br>
-> Research Assistant
+- _Jan 2025 -- Present_, Research Assistant. Emory University.
+- _May 2025 -- Aug 2025_, Applied Scientist Intern. Amazon AGI.
 
-<!-- > **Amazon AGI**, Sep, 2026 -- December, 2026 <br>
-> Applied Scientist Intern -->
-
-> **Amazon AGI**, May, 2025 -- Aug, 2025 <br>
-> Applied Scientist Intern
+<!-- - _Sep 2026 -- Dec 2026_, Applied Scientist Intern. Amazon AGI. -->
 
 # 🎓 Education
 
