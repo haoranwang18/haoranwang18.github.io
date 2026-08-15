@@ -87,7 +87,6 @@ _See more trip reports on my [Adventure Blog](https://brucehrwang.com/blogs/blog
 
 # Personal Links
 
-- 🛖 [_Personal Website_](https://brucehrwang.com/)
 - 📷 [_Photography Portfolio_](https://brucehrwang.com/photography/portfolio.html)
 - ⛷️ [_Adventure Blogs_](https://brucehrwang.com/blogs/blogs.html)
 - 🎞️ [_YouTube Channel_](https://www.youtube.com/@manyadventures18)
