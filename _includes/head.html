@@ -10,6 +10,15 @@
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
 
+<!-- resolve the color theme before first paint to avoid a flash of the wrong theme -->
+<script>
+  (function () {
+    var saved = null;
+    try { saved = localStorage.getItem('theme'); } catch (e) {}
+    document.documentElement.setAttribute('data-theme', saved === 'dark' ? 'dark' : 'light');
+  })();
+</script>
+
 <!-- For all browsers -->
 <link rel="stylesheet" href="assets/css/main.css">
 

@@ -1,0 +1,47 @@
+<script type="application/json" id="search-manifest">
+{
+  "pages": [
+    { "title": "Homepage", "url": "{{ '/' | relative_url }}" }
+    {%- for link in site.data.navigation.main -%}
+      {%- unless link.url contains '.pdf' or link.url contains '#' -%}
+        , { "title": {{ link.title | jsonify }}, "url": "{{ link.url | relative_url }}" }
+      {%- endunless -%}
+    {%- endfor -%}
+  ],
+  "links": [
+    {%- for link in site.data.navigation.main -%}
+      {%- unless forloop.first -%}, {%- endunless -%}
+      { "title": {{ link.title | jsonify }}, "url": "{{ link.url | relative_url }}" }
+    {%- endfor -%}
+  ]
+}
+</script>
+
+<div id="search-modal" class="search-modal" aria-hidden="true">
+  <div class="search-modal__backdrop" data-search-close></div>
+
+  <div class="search-modal__dialog" role="dialog" aria-modal="true" aria-labelledby="search-modal__title">
+    <h2 id="search-modal__title" class="search-modal__title">Search this site</h2>
+
+    <div class="search-modal__field">
+      <i class="fas fa-search" aria-hidden="true"></i>
+      <input
+        id="search-input"
+        type="search"
+        placeholder="Search publications, news, and pages"
+        autocomplete="off"
+        autocorrect="off"
+        spellcheck="false"
+        aria-label="Search this site"
+        aria-controls="search-results"
+        aria-describedby="search-modal__hint">
+      <button type="button" class="search-modal__close" data-search-close aria-label="Close search"><kbd>esc</kbd></button>
+    </div>
+
+    <div id="search-results" class="search-results" role="listbox" aria-label="Search results"></div>
+
+    <p id="search-modal__hint" class="search-modal__hint">
+      <kbd>&uarr;</kbd><kbd>&darr;</kbd> to navigate &middot; <kbd>&crarr;</kbd> to open &middot; <kbd>esc</kbd> to close
+    </p>
+  </div>
+</div>

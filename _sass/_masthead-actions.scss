@@ -1,0 +1,105 @@
+/* ==========================================================================
+   MASTHEAD ACTIONS (search and theme toggle)
+   ========================================================================== */
+
+.masthead__inner-wrap {
+  position: relative;
+}
+
+/* keeps the nav links and the overflow menu button clear of the buttons */
+.masthead__menu {
+  padding-right: 4em;
+
+  @include breakpoint($medium) {
+    padding-right: 6.5em;
+  }
+}
+
+/* the nav needs room for the buttons on narrow screens without overflowing */
+.greedy-nav {
+  min-width: 180px;
+}
+
+.masthead__actions {
+  position: absolute;
+  top: 50%;
+  right: 0.5em;
+  transform: translateY(-50%);
+  display: flex;
+  align-items: center;
+  gap: 0.35em;
+  z-index: 30;
+}
+
+.masthead__action {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 2em;
+  padding: 0 0.25em;
+  /* a step darker than the nav links so the shortcut text clears 4.5:1 */
+  color: mix(#000, $masthead-link-color, 25%);
+  font-size: 1rem;
+  line-height: 1;
+  background-color: transparent;
+  border: 0;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: $global-transition;
+
+  &:hover {
+    color: $masthead-link-color-hover;
+  }
+
+  &:focus-visible {
+    outline: 2px solid $link-color;
+    outline-offset: 2px;
+  }
+}
+
+.search-toggle {
+  gap: 0.4em;
+  font-family: $sans-serif-narrow;
+}
+
+/* the shortcut only helps where there is a keyboard */
+.search-toggle__shortcut {
+  display: none;
+  font-family: inherit;
+  font-size: $type-size-6;
+
+  @include breakpoint($medium) {
+    display: inline;
+  }
+}
+
+/* the toggle icon shows the mode the button switches to */
+.theme-toggle__icon--light {
+  display: none;
+}
+
+html[data-theme="dark"] {
+  .masthead__action {
+    color: $dark-text-muted;
+
+    &:hover {
+      color: #fff;
+    }
+
+    &:focus-visible {
+      outline-color: $dark-link;
+    }
+  }
+
+  .theme-toggle__icon--dark {
+    display: none;
+  }
+
+  .theme-toggle__icon--light {
+    display: block;
+  }
+}
+
+.no-js .search-toggle {
+  display: none;
+}

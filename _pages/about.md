@@ -32,6 +32,9 @@ My research focuses on building **trustworthy foundation models**, with an empha
 <p align="center"><img src="images/research-overview.png" alt="Research overview: Trustworthy Foundation Models" width="60%"></p>
 
 # 🔥 News
+{: .no-rule}
+
+<div class="news-scroll" role="region" aria-label="News" tabindex="0" markdown="1">
 
 - _2026.07_: &nbsp;🎉🎉 CI-Steering has been accepted by <a href="https://arxiv.org/abs/2604.00209">COLM 2026</a>. See you in San Francisco!
 - _2026.06_: &nbsp;🎉🎉 GCP Credits has been awarded. Thanks Google!
@@ -39,30 +42,27 @@ My research focuses on building **trustworthy foundation models**, with an empha
 - _2026.05_: &nbsp;🎉🎉 Honored to receive Excellence in Research Assistance Award from the department!
 - _2026.04_: &nbsp;🎉🎉 Invited to serve as Area Chair for the NeurIPS 2026 Position Track
 - _2026.04_: &nbsp;🎉🎉 Successfully Passed Dissertation Prospectus!
-- <details> <summary>More</summary>
-  <ul>
-    <li><em>2026.02:</em> Our survey on decoding methods in LLMs is accepted at <a href="https://dl.acm.org/doi/pdf/10.1145/3820356.3820357">SIGKDD Explorations</a>!</li>
-    <li><em>2026.01:</em> TrustGen accepted by ICLR 2026. Congratulations to <a href="https://howiehwong.github.io/">Yue</a>!</li>
-    <li><em>2026.01:</em> One paper accepted by WWW 2026. Congratulations to <a href="https://xiongxiaoxu.github.io/">Xiongxiao</a>!</li>
-    <li><em>2025.11:</em> Two papers accepted by AAAI 2026. Congratulations to <a href="https://baixianghuang.github.io/">Baixiang</a> and <a href="https://yueqingliang1.github.io/">Yueqing</a>!</li>
-    <li><em>2025.10:</em> One paper accepted by IJCNLP-AACL 2025.</li>
-    <li><em>2025.08:</em> Completed my internship as an Applied Scientist at Amazon AGI!</li>
-    <li><em>2025.07:</em> Invited to serve as Program Committee member for AAAI 2026.</li>
-    <li><em>2025.02:</em> Excited to join Amazon AGI as an Applied Scientist Intern for Summer 2025 in Bellevue, WA.</li>
-    <li><em>2025.01:</em> Invited to serve as Area Chair for the NeurIPS Position Track.</li>
-    <li><em>2025.01:</em> Research Access Program has been awarded. Thanks OpenAI!</li>
-    <li><em>2025.01:</em> Fin-Fact has been accepted by <a href="https://arxiv.org/abs/2309.08793">WWW 2025</a>. Congratulations <a href="https://amanrangapur.com/">Aman</a>!</li>
-    <li><em>2024.12:</em> Invited as PC for ICML 2025 Position Track.</li>
-    <li><em>2024.11:</em> MMCV has been accepted by <a href="https://arxiv.org/abs/2411.09547">COLING 2025</a>.</li>
-    <li><em>2024.08:</em> Our Fin-Fact dataset has been used for shared task for <a href="https://coling2025fmd.thefin.ai/">FinNLP@COLING2025</a></li>
-    <li><em>2024.07:</em> TA2 has been accepted by <a href="https://arxiv.org/abs/2311.09433">CIKM 2024</a>.</li>
-    <li><em>2024.05:</em> TrustLLM has been accepted by <a href="https://arxiv.org/pdf/2401.05561">ICML 2024</a>. Congratulations <a href="https://howiehwong.github.io/">Yue</a>!</li>
-    <li><em>2024.02:</em> Successfully Passed Ph.D. Qualifying Exam!</li>
-    <li><em>2023.10:</em> FOLK has been accepted by <a href="https://arxiv.org/abs/2310.05253">EMNLP 2023</a>.</li>
-    <li><em>2023.02:</em> MARL has been accepted by <a href="https://arxiv.org/abs/2302.07363">WWW 2023</a>.</li>
-  </ul>
+- _2026.02_: &nbsp;Our survey on decoding methods in LLMs is accepted at <a href="https://dl.acm.org/doi/pdf/10.1145/3820356.3820357">SIGKDD Explorations</a>!
+- _2026.01_: &nbsp;TrustGen accepted by ICLR 2026. Congratulations to <a href="https://howiehwong.github.io/">Yue</a>!
+- _2026.01_: &nbsp;One paper accepted by WWW 2026. Congratulations to <a href="https://xiongxiaoxu.github.io/">Xiongxiao</a>!
+- _2025.11_: &nbsp;Two papers accepted by AAAI 2026. Congratulations to <a href="https://baixianghuang.github.io/">Baixiang</a> and <a href="https://yueqingliang1.github.io/">Yueqing</a>!
+- _2025.10_: &nbsp;One paper accepted by IJCNLP-AACL 2025.
+- _2025.08_: &nbsp;Completed my internship as an Applied Scientist at Amazon AGI!
+- _2025.07_: &nbsp;Invited to serve as Program Committee member for AAAI 2026.
+- _2025.02_: &nbsp;Excited to join Amazon AGI as an Applied Scientist Intern for Summer 2025 in Bellevue, WA.
+- _2025.01_: &nbsp;Invited to serve as Area Chair for the NeurIPS Position Track.
+- _2025.01_: &nbsp;Research Access Program has been awarded. Thanks OpenAI!
+- _2025.01_: &nbsp;Fin-Fact has been accepted by <a href="https://arxiv.org/abs/2309.08793">WWW 2025</a>. Congratulations <a href="https://amanrangapur.com/">Aman</a>!
+- _2024.12_: &nbsp;Invited as PC for ICML 2025 Position Track.
+- _2024.11_: &nbsp;MMCV has been accepted by <a href="https://arxiv.org/abs/2411.09547">COLING 2025</a>.
+- _2024.08_: &nbsp;Our Fin-Fact dataset has been used for shared task for <a href="https://coling2025fmd.thefin.ai/">FinNLP@COLING2025</a>
+- _2024.07_: &nbsp;TA2 has been accepted by <a href="https://arxiv.org/abs/2311.09433">CIKM 2024</a>.
+- _2024.05_: &nbsp;TrustLLM has been accepted by <a href="https://arxiv.org/pdf/2401.05561">ICML 2024</a>. Congratulations <a href="https://howiehwong.github.io/">Yue</a>!
+- _2024.02_: &nbsp;Successfully Passed Ph.D. Qualifying Exam!
+- _2023.10_: &nbsp;FOLK has been accepted by <a href="https://arxiv.org/abs/2310.05253">EMNLP 2023</a>.
+- _2023.02_: &nbsp;MARL has been accepted by <a href="https://arxiv.org/abs/2302.07363">WWW 2023</a>.
 
-  </details>
+</div>
 
 # 📜 Selected Publications
 
@@ -191,6 +191,20 @@ _Proceedings of the ACM Web Conference 2023_
 
 ---
 
-Last updated on July 15, 2026.
-
-<a href='https://mapmyvisitors.com/web/1bweu'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=300&t=tt&d=SDWOZvjcEGQvmbkHt5vCf__HQwaniKPTjud79Y2vHsE&co=2d78ad&ct=ffffff'/></a>
+<div class="page-coda">
+  <p class="page-coda__updated">Last updated on July 15, 2026.</p>
+  <div class="visitor-globe">
+    <script type="text/javascript" id="mmvst_globe" src="https://mapmyvisitors.com/globe.js?d=SDWOZvjcEGQvmbkHt5vCf__HQwaniKPTjud79Y2vHsE&amp;w=240&amp;t=tt&amp;cl=ffffff&amp;cmo=3acc3a&amp;cmn=ff5353"></script>
+    <script>
+      /* the widget injects a link with no text, so name it once it shows up */
+      (function () {
+        var tries = 0;
+        var timer = setInterval(function () {
+          var link = document.getElementById('mmvst_a');
+          if (link) link.setAttribute('aria-label', 'Visitor map');
+          if (link || ++tries > 50) clearInterval(timer);
+        }, 200);
+      })();
+    </script>
+  </div>
+</div>

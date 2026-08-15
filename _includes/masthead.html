@@ -1,5 +1,15 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
+    <div class="masthead__actions">
+      <button class="masthead__action search-toggle" type="button" data-search-open aria-label="Search this site" title="Search (&#8984;K)">
+        <kbd class="search-toggle__shortcut">&#8984;K</kbd>
+        <i class="fas fa-search" aria-hidden="true"></i>
+      </button>
+      <button id="theme-toggle" class="masthead__action theme-toggle" type="button" aria-label="Switch to dark mode" title="Switch to dark mode" aria-pressed="false">
+        <i class="fas fa-fw fa-moon theme-toggle__icon theme-toggle__icon--dark" aria-hidden="true"></i>
+        <i class="fas fa-fw fa-sun theme-toggle__icon theme-toggle__icon--light" aria-hidden="true"></i>
+      </button>
+    </div>
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
