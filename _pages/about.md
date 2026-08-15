@@ -36,12 +36,12 @@ My research focuses on building **trustworthy foundation models**, with an empha
 
 <div class="news-scroll" role="region" aria-label="News" tabindex="0" markdown="1">
 
-- _2026.07_: &nbsp;🎉🎉 CI-Steering has been accepted by <a href="https://arxiv.org/abs/2604.00209">COLM 2026</a>. See you in San Francisco!
-- _2026.06_: &nbsp;🎉🎉 GCP Credits has been awarded. Thanks Google!
-- _2026.05_: &nbsp;🎉🎉 One paper accepted by <a href="https://arxiv.org/abs/2508.03098">KDD 2026</a>!
-- _2026.05_: &nbsp;🎉🎉 Honored to receive Excellence in Research Assistance Award from the department!
-- _2026.04_: &nbsp;🎉🎉 Invited to serve as Area Chair for the NeurIPS 2026 Position Track
-- _2026.04_: &nbsp;🎉🎉 Successfully Passed Dissertation Prospectus!
+- _2026.07_: &nbsp;CI-Steering has been accepted by <a href="https://arxiv.org/abs/2604.00209">COLM 2026</a>. See you in San Francisco!
+- _2026.06_: &nbsp;GCP Credits has been awarded. Thanks Google!
+- _2026.05_: &nbsp;One paper accepted by <a href="https://arxiv.org/abs/2508.03098">KDD 2026</a>!
+- _2026.05_: &nbsp;Honored to receive Excellence in Research Assistance Award from the department!
+- _2026.04_: &nbsp;Invited to serve as Area Chair for the NeurIPS 2026 Position Track
+- _2026.04_: &nbsp;Successfully Passed Dissertation Prospectus!
 - _2026.02_: &nbsp;Our survey on decoding methods in LLMs is accepted at <a href="https://dl.acm.org/doi/pdf/10.1145/3820356.3820357">SIGKDD Explorations</a>!
 - _2026.01_: &nbsp;TrustGen accepted by ICLR 2026. Congratulations to <a href="https://howiehwong.github.io/">Yue</a>!
 - _2026.01_: &nbsp;One paper accepted by WWW 2026. Congratulations to <a href="https://xiongxiaoxu.github.io/">Xiongxiao</a>!

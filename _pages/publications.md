@@ -114,6 +114,10 @@ _Proceedings of the ACM Web Conference 2023_
 
 # Preprint
 
+[P5] [Query-Only Backdoor Attacks on Self-Evolving Skills via Trajectory Poisoning](https://arxiv.org/abs/2608.08303)
+
+Yuyang Luo, **Haoran Wang**, Kai Shu
+
 [P4] [Towards Effective Model Editing for LLM Personalization](https://arxiv.org/abs/2512.13676)
 
 Baixiang Huang, Limeng Cui, Jiapeng Liu, **Haoran Wang**, Jiawei Xu, Zhuiyue Tan, Yutong Chen, Chen Luo, Yi Liu, Kai Shu
