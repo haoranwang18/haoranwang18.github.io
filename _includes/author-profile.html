@@ -8,10 +8,11 @@
     <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
   </div>
 
-  <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
-  </div>
+  {%- comment -%}
+    The name and bio used to sit here; the masthead wordmark carries the name
+    now. The avatar's alt text and the JSON-LD in structured-data.html still
+    name the author for screen readers and search engines.
+  {%- endcomment -%}
 
   <div class="author__urls-wrapper">
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
@@ -99,6 +100,9 @@
       {% endif %}
       {% if author.vine %}
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fab fa-fw fa-vine" aria-hidden="true"></i> Vine</a></li>
+      {% endif %}
+      {% if author.semanticscholar %}
+        <li><a href="{{ author.semanticscholar }}"><span class="author__icon">{% include icons/semantic-scholar.svg %}</span> Semantic Scholar</a></li>
       {% endif %}
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
@@ -194,6 +198,9 @@
       {% endif %}
       {% if author.vine %}
         <a href="https://vine.co/u/{{ author.vine }}"><i class="fab fa-fw fa-vine" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.semanticscholar %}
+        <a href="{{ author.semanticscholar }}" aria-label="Semantic Scholar"><span class="author__icon">{% include icons/semantic-scholar.svg %}</span></a>
       {% endif %}
       {% if author.googlescholar %}
         <a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i></a>

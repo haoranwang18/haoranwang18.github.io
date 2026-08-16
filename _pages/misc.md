@@ -83,11 +83,4 @@ Summitted the second-highest peak in Nevada at 13,065 ft, via 8.6 miles and 3,00
 </div>
 </div>
 
-_See more trip reports on my [Adventure Blog](https://brucehrwang.com/blogs/blogs.html)._
-
-# Personal Links
-
-- 📷 [_Photography Portfolio_](https://brucehrwang.com/photography/portfolio.html)
-- ⛷️ [_Adventure Blogs_](https://brucehrwang.com/blogs/blogs.html)
-- 🎞️ [_YouTube Channel_](https://www.youtube.com/@manyadventures18)
-- 🧑‍💻 [_Tech Blog_](https://brucehrwang.github.io/)
+_See more trip reports on my [⛷️ Adventure Blog](https://brucehrwang.com/blogs/blogs.html)._

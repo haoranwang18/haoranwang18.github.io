@@ -208,7 +208,12 @@ html[data-theme="dark"] {
 
   .page__content {
     h1 {
+      color: #fff;
       border-bottom-color: $dark-border;
+    }
+
+    h1:after {
+      background-color: $dark-link;
     }
   }
 
@@ -279,6 +284,85 @@ html[data-theme="dark"] {
 
   .conf-acronym {
     color: $dark-link;
+  }
+
+  .pub-intro__lead {
+    color: $dark-text;
+  }
+
+  .pub-intro__note,
+  .pub__index {
+    color: $dark-text-muted;
+  }
+
+  .pub + .pub {
+    border-color: $dark-border;
+  }
+
+  .publications {
+    .pub-section__title {
+      color: #fff;
+      border-bottom-color: $dark-border;
+    }
+
+    .pub-section__title:after {
+      background-color: $dark-link;
+    }
+
+    .pub__me {
+      color: $dark-text;
+    }
+
+    .pub__title {
+      color: $dark-link;
+    }
+
+    /* the light tint washes out on a dark page, so tint the surface instead */
+    .pub__tag {
+      color: #94bcf3;
+      background-color: rgba(#4d8ee0, 0.16);
+      border-color: rgba(#4d8ee0, 0.34);
+    }
+
+    .pub__title a {
+      color: inherit;
+    }
+
+    .pub__title a:hover {
+      color: $dark-link-hover;
+    }
+
+    .pub__authors {
+      color: mix(#000, $dark-text, 12%);
+    }
+
+    .pub__venue,
+    .pub__note {
+      color: $dark-text-muted;
+    }
+
+    .pub__link {
+      color: $dark-link;
+      border-color: $dark-border;
+
+      &:hover {
+        color: $dark-background;
+        background-color: $dark-link;
+        border-color: $dark-link;
+      }
+    }
+
+    .pub__bibtex-body {
+      color: $dark-text;
+      background-color: $dark-surface-alt;
+      border-color: $dark-border;
+    }
+  }
+
+  .pub__bibtex[open] > .pub__link--toggle {
+    color: $dark-background;
+    background-color: $dark-link;
+    border-color: $dark-link;
   }
 
   .news-scroll {

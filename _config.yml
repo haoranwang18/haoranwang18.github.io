@@ -30,10 +30,11 @@ author:
   name: "Haoran Wang"
   avatar: "images/profile.png"
   bio: "Ph.D. candidate at Emory University"
-  location: "Atlanta, GA"
+  location: # the profile block hides this line when it is blank
   employer:
   pubmed:
   googlescholar: "https://scholar.google.com/citations?user=aEuLcokAAAAJ&hl=en"
+  semanticscholar: "https://www.semanticscholar.org/author/Haoran-Wang/2308566557"
   email: "haoran.wang@emory.edu"
   researchgate: # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri:

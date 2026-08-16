@@ -25,13 +25,17 @@ I am a final-year Ph.D. candidate at Emory University advised by Dr. [Kai Shu](h
 I am actively seeking tenure-track Assistant Professor and Research/Applied Scientist positions. I welcome conversations and would greatly appreciate any introductions, collaborations, or opportunities.
 </div>
 
-# 💡 Research Interests
+# Research Interests
 
-My research focuses on building **trustworthy foundation models**, with an emphasis on improving **factuality, safety, and privacy** through inference-time control. I develop inference-time methods for large language models and multimodal systems, including **representation steering and decoding methods**, to improve model robustness, interpretability, and reliability without retraining. More broadly, I am interested in interdisciplinary collaborations that translate advances in trustworthy AI into high-impact applications, including **automated fact-checking, agentic systems, and AI for science**.
+My research focuses on building **trustworthy foundation models**, with an emphasis on improving **factuality, safety, and privacy through inference-time control**. I develop methods to understand and control model behavior at inference time, including **representation steering** and **decoding methods**, to improve reliability and interpretability without retraining. More broadly, I extend these foundations to high-impact applications, including *automated fact-checking, trustworthy agentic systems, and AI for science*.
 
 <p align="center"><img src="images/research-overview.png" alt="Research overview: Trustworthy Foundation Models" width="60%"></p>
 
-# 🔥 News
+- **Inference-Time Control**: [CIKM 2024](https://dl.acm.org/doi/pdf/10.1145/3627673.3679821), [KDD2026](), [COLM 2026](https://arxiv.org/pdf/2604.00209)
+- **Trustworthiness Evaluation**: [ICML 2024](https://openreview.net/pdf?id=bWUU0LwwMp), [ICLR2026](https://openreview.net/pdf?id=Fcf5fLmaeG)
+- **AI for Social & Scientific Impact**: [WWW 2023](https://dl.acm.org/doi/pdf/10.1145/3543507.3583868), [EMNLP 2023](https://aclanthology.org/2023.findings-emnlp.416.pdf)
+
+# News
 {: .no-rule}
 
 <div class="news-scroll" role="region" aria-label="News" tabindex="0" markdown="1">
@@ -64,7 +68,7 @@ My research focuses on building **trustworthy foundation models**, with an empha
 
 </div>
 
-# 📜 Selected Publications
+# Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2026</div><img src='images/colm26.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -176,14 +180,14 @@ _Proceedings of the ACM Web Conference 2023_
 </div>
 </div>
 
-# 🔬 Research Experience
+# Research Experience
 
-- _Jan 2025 -- Present_, Research Assistant. Emory University.
+- _Jan 2025 -- Present_, Graduate Research Assistant. Emory University.
+- _Sep 2026 -- Dec 2026_, Applied Scientist Intern. Amazon AGI.
 - _May 2025 -- Aug 2025_, Applied Scientist Intern. Amazon AGI.
+- _Aug 2018 -- May 2019_, Undergraduate Research Assistant. Purdue CAM2 Group.
 
-<!-- - _Sep 2026 -- Dec 2026_, Applied Scientist Intern. Amazon AGI. -->
-
-# 🎓 Education
+# Education
 
 - _2022 - Now_, Ph.D., Computer Science. Emory University.
 - _2021_, M.S., Computer Science. University of Oregon.
@@ -192,7 +196,7 @@ _Proceedings of the ACM Web Conference 2023_
 ---
 
 <div class="page-coda">
-  <p class="page-coda__updated">Last updated on July 15, 2026.</p>
+  <p class="page-coda__updated">Last updated on Aug 15, 2026.</p>
   <div class="visitor-globe">
     <script type="text/javascript" id="mmvst_globe" src="https://mapmyvisitors.com/globe.js?d=SDWOZvjcEGQvmbkHt5vCf__HQwaniKPTjud79Y2vHsE&amp;w=240&amp;t=tt&amp;cl=ffffff&amp;cmo=3acc3a&amp;cmn=ff5353"></script>
     <script>

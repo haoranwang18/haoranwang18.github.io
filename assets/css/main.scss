@@ -43,6 +43,7 @@
 @import "dark-mode";
 @import "masthead-actions";
 @import "search";
+@import "publications";
 
 .paper-box {
     display: flex;
@@ -117,6 +118,41 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
+/* Top bar.
+   The theme sizes it at body text in a thin band, so it reads as part of the
+   page rather than as the site header. The actions are absolutely positioned
+   and centred on the bar, so they follow the new height on their own. */
+.masthead__inner-wrap {
+    padding: 0.85em 0.5em;
+}
+
+.greedy-nav a {
+    padding: 0.6rem 0;
+    font-size: 1.08rem;
+}
+
+.masthead__action {
+    font-size: 1.1rem;
+}
+
+/* The name and bio used to sit between the avatar and the links and carried
+   the gap with them. Only the stacked sidebar needs it back — below $large the
+   two are side-by-side cells, where a top margin would just misalign them. */
+@include breakpoint($large) {
+    .author__urls-wrapper {
+        margin-top: 1.5rem;
+    }
+}
+
+/* Academicons 1.8 predates the Semantic Scholar mark, so it is inlined as SVG.
+   The box matches Font Awesome's .fa-fw so its label lines up with the
+   icon-font links above and below it. */
+.author__icon {
+    display: inline-block;
+    width: 1.25em;
+    text-align: center;
+}
+
 .conf-acronym {
     color: #1f5fbf;
     font-weight: 600;
@@ -126,9 +162,42 @@ h1:before, .anchor:before {
     font-family: inherit;
 }
 
+/* Section headings.
+   The theme sets these barely above body size with an almost invisible rule,
+   so a section start reads as just another bold line. Size, weight, the space
+   above, and a short accent under the rule do the separating instead. */
+.page__content h1 {
+    position: relative;
+    margin-top: 2.2em;
+    margin-bottom: 0.7em;
+    padding-bottom: 0.4em;
+    color: mix(#000, $text-color, 30%);
+    font-size: 1.6em;
+    font-weight: 700;
+    letter-spacing: -0.012em;
+    border-bottom: 1px solid mix(#fff, $gray, 78%);
+}
+
+/* the accent rides on top of the rule, so it survives .no-rule too */
+.page__content h1:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -1px;
+    width: 2.75rem;
+    height: 3px;
+    background-color: $link-color;
+    border-radius: 2px;
+}
+
+/* the first heading follows body copy, not another section */
+.page__content > h1:first-child {
+    margin-top: 0;
+}
+
 /* the news box carries its own border, so a heading rule would double up */
 .page__content h1.no-rule {
-    padding-bottom: 0;
+    padding-bottom: 0.4em;
     border-bottom: 0;
 }
 

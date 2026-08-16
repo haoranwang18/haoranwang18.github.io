@@ -1,0 +1,483 @@
+# Publications rendered by _includes/publication-list.html on /publications.
+# To add a paper, drop a new entry at the top of the relevant section's `items`.
+#
+# Section fields
+#   id     anchor for the section heading
+#   title  heading shown on the page
+#
+# Entry fields
+#   id       reference label shown before the title, e.g. [C13]
+#   title    paper title, plain text
+#   authors  full author list, plain text. Write the site author exactly as
+#            "Haoran Wang" — the template highlights it automatically.
+#   note     optional footnote, e.g. a contribution marker that differs from
+#            the page-level "*: equal contribution"
+#   tag      short venue, shown as a chip between [C13] and the title
+#   venue    full venue name, shown in italics under the authors. Independent
+#            of `tag` — conference papers carry both, the chip for scanning
+#            and the line for the full citation.
+#   abs      landing / abstract page          -> "abs" button
+#   pdf      direct link to the PDF           -> "pdf" button
+#   bibtex   BibTeX entry, block scalar       -> "bibtex" button, expands inline
+#   code     repository URL                   -> "code" button
+#   links    optional extras, list of {label, url}, rendered after the above
+
+sections:
+  - id: journal
+    title: "Journal and Book Chapters"
+    items:
+      - id: J3
+        title: "Beyond Tokens: A Survey on Decoding Methods for Large Language Models and Large Vision-Language Models"
+        authors: "Haoran Wang, Xiongxiao Xu, Philip S. Yu, Kai Shu"
+        venue: "Proceedings of ACM SIGKDD Explorations Newsletter, Volume 28, Issue 1"
+        abs: "https://dl.acm.org/doi/10.1145/3820356.3820357"
+        pdf: "https://dl.acm.org/doi/pdf/10.1145/3820356.3820357"
+        code: "https://github.com/wang2226/Awesome-LLM-Decoding"
+        bibtex: |
+          @article{10.1145/3820356.3820357,
+          author = {Wang, Haoran and Xu, Xiongxiao and Yu, Philip S. and Shu, Kai},
+          title = {Beyond Tokens: A Survey on Decoding Methods for Large Language and Vision-Language Models},
+          year = {2026},
+          issue_date = {June 2026},
+          publisher = {Association for Computing Machinery},
+          address = {New York, NY, USA},
+          volume = {28},
+          number = {1},
+          issn = {1931-0145},
+          url = {https://doi.org/10.1145/3820356.3820357},
+          doi = {10.1145/3820356.3820357},
+          abstract = {Large language models (LLMs) and large vision-language models (LVLMs) have demonstrated impressive generative capabilities, yet ensuring their outputs align with user intent is still challenging. While most existing approaches address this issue at the training stage, inference-time approaches like decoding methods offer a more efficient and scalable solution. Decoding methods control model generation by guiding token-level selection, performing sequencelevel generation, or generating tokens in parallel to accelerate the process. In this survey, we identify three emerging paradigms from recent works on decoding methods for LLMs and LVLMs, provide a systematic review of these methods, highlight ongoing challenges, and discuss potential future research directions. Our goal is to underscore the efficiency and effectiveness of decoding methods and offer a practical view of their applications. Paper lists and more resources on decoding methods for LLMs and LVLMs can be found at https://github.com/wang2226/Awesome-LLM-Decoding.},
+          journal = {SIGKDD Explor. Newsl.},
+          month = jun,
+          pages = {1–20},
+          numpages = {20}
+          }
+
+      - id: J2
+        title: "Automated Fact-Checking"
+        authors: "Haoran Wang, Baixiang Huang, Kai Shu"
+        venue: "Chapter in Oxford Handbook of Misinformation and Disinformation, Oxford University Press"
+        bibtex: |
+          @incollection{wangautomated,
+            author    = {Wang, Haoran and Huang, Baixiang and Shu, Kai},
+            title     = {{Automated Fact-Checking}},
+            booktitle = {The Oxford Handbook of Misinformation and Disinformation},
+            publisher = {Oxford University Press}
+          }
+
+      - id: J1
+        title: "Factuality of Large Language Models: An Adversarial Perspective"
+        authors: "Baixiang Huang, Haoran Wang, Kai Shu"
+        venue: "Chapter in Online Trust and Safety: Tools to Combat Online Harms, Misinformation, and Malicious Content, Taylor and Francis CRC Press"
+        pdf: "https://www.routledge.com/Online-Trust-and-Safety-Tools-to-Combat-Online-Harms-Misinformation-and-Malicious-Content/McLoughlin-Soon-Ka-WeiLee-Lwin-Begum-Feida/p/book/9781032961941"
+        bibtex: |
+          @article{huang2026factuality,
+            title={Factuality of Large Language Models},
+            author={Huang, Baixiang and Wang, Haoran and Shu, Kai},
+            journal={Online Trust and Safety: Tools to Combat Online Harms, Misinformation and Malicious Content},
+            year={2026},
+            publisher={CRC Press}
+          }
+
+  - id: conference
+    title: "Conference Papers"
+    items:
+      - id: C13
+        title: "Do LLMs Know What Is Private Internally? Probing and Steering Contextual Privacy Norms in Large Language Model Representations"
+        authors: "Haoran Wang, Li Xiong, Kai Shu"
+        tag:   "COLM 2026"
+        venue: "Proceedings of the Third Conference on Language Modeling"
+        abs: "https://arxiv.org/abs/2604.00209"
+        pdf: "https://arxiv.org/pdf/2604.00209"
+        code: "https://github.com/wang2226/CI-Steering"
+        bibtex: |
+          @article{wang2026llms,
+            title={Do llms know what is private internally? probing and steering contextual privacy norms in large language model representations},
+            author={Wang, Haoran and Xiong, Li and Shu, Kai},
+            journal={arXiv preprint arXiv:2604.00209},
+            year={2026}
+          }
+
+      - id: C12
+        title: "Privacy-Aware Decoding: Mitigating Privacy Leakage of Large Language Models in Retrieval-Augmented Generation"
+        authors: "Haoran Wang, Xiongxiao Xu, Baixiang Huang, Kai Shu"
+        tag:   "KDD 2026"
+        venue: "Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining"
+        abs: "https://dl.acm.org/doi/10.1145/3770855.3817665"
+        pdf: "https://dl.acm.org/doi/pdf/10.1145/3770855.3817665"
+        code: "https://github.com/wang2226/PAD"
+        bibtex: |
+          @inproceedings{10.1145/3770855.3817665,
+          author = {Wang, Haoran and Xu, Xiongxiao and Huang, Baixiang and Shu, Kai},
+          title = {Privacy-Aware Decoding: Mitigating Privacy Leakage of Large Language Models in Retrieval-Augmented Generation},
+          year = {2026},
+          isbn = {9798400722592},
+          publisher = {Association for Computing Machinery},
+          address = {New York, NY, USA},
+          url = {https://doi.org/10.1145/3770855.3817665},
+          doi = {10.1145/3770855.3817665},
+          abstract = {Retrieval-Augmented Generation (RAG) enhances the factual accuracy of large language models (LLMs) by conditioning outputs on external knowledge sources. However, when retrieval involves private or sensitive data, RAG systems are susceptible to extraction attacks that can leak confidential information through generated responses. We propose Privacy-Aware Decoding (PAD), a lightweight, inference-time defense that adaptively injects calibrated Gaussian noise into token logits during generation. PAD integrates logit clipping, confidence-based screening to selectively protect high-risk tokens, a risk-adaptive calibration scale that allocates noise where it is most needed, and context-aware noise calibration to balance privacy with generation quality. A renyi Differential Privacy (RDP) accountant tracks cumulative privacy loss, providing explicit per-response (?, ?) privacy accounting over the protected tokens under the realized noise schedule. Unlike prior approaches requiring retraining or corpus-level filtering, PAD is model-agnostic and operates entirely at decoding time with minimal computational overhead. Experiments on three real-world datasets demonstrate that PAD substantially reduces private information leakage while preserving response utility, outperforming existing retrieval- and post-processing-based defenses. Our work takes an important step toward mitigating privacy risks in RAG via decoding strategies, paving the way for universal and scalable privacy solutions in sensitive domains. Our code is available: https://github.com/wang2226/PAD},
+          booktitle = {Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2},
+          pages = {4870–4881},
+          numpages = {12},
+          keywords = {privacy, retrieval-augmented generation, decoding method},
+          location = {Republic of Korea},
+          series = {KDD '26}
+          }
+
+      - id: C11
+        title: "TrustGen: A Platform of Dynamic Benchmarking on the Trustworthiness of Generative Foundation Models"
+        authors: "Yue Huang, Chujie Gao, Siyuan Wu, Haoran Wang, Xiangqi Wang, Yujun Zhou, Yanbo Wang, Jiayi Ye, Jiawen Shi, et al."
+        tag:   "ICLR 2026"
+        venue: "Proceedings of the Fourteenth International Conference on Learning Representations"
+        abs: "https://openreview.net/forum?id=Fcf5fLmaeG"
+        pdf: "https://openreview.net/pdf?id=Fcf5fLmaeG"
+        code: "https://github.com/TrustGen/TrustEval-toolkit"
+        bibtex: |
+          @inproceedings{huang2026trustgen,
+            title={TrustGen: A Platform of Dynamic Benchmarking on the Trustworthiness of Generative Foundation Models},
+            author={Huang, Yue and Gao, Chujie and Wu, Siyuan and Wang, Haoran and Wang, Xiangqi and Ye, Jiayi and Zhou, Yujun and Wang, Yanbo and Shi, Jiawen and Zhang, Qihui and others},
+            booktitle={International Conference on Learning Representations},
+            volume={2026},
+            pages={60745--60905},
+            year={2026}
+          }
+
+      - id: C10
+        title: "Can Multimodal LLMs Perform Time Series Anomaly Detection?"
+        authors: "Xiongxiao Xu, Haoran Wang, Yueqing Liang, Philip S. Yu, Yue Zhao, Kai Shu"
+        tag:   "WWW 2026"
+        venue: "Proceedings of the ACM Web Conference 2026"
+        abs: "https://dl.acm.org/doi/10.1145/3774904.3792376"
+        pdf: "https://dl.acm.org/doi/pdf/10.1145/3774904.3792376"
+        code: "https://github.com/mllm-ts/VisualTimeAnomaly"
+        bibtex: |
+          @inproceedings{10.1145/3774904.3792376,
+          author = {Xu, Xiongxiao and Wang, Haoran and Liang, Yueqing and Yu, Philip S. and Zhao, Yue and Shu, Kai},
+          title = {Can Multimodal LLMs Perform Time Series Anomaly Detection?},
+          year = {2026},
+          isbn = {9798400723070},
+          publisher = {Association for Computing Machinery},
+          address = {New York, NY, USA},
+          url = {https://doi.org/10.1145/3774904.3792376},
+          doi = {10.1145/3774904.3792376},
+          abstract = {Time series anomaly detection (TSAD) has been a long-standing pillar problem in Web-scale systems and online infrastructures, such as service reliability monitoring, system fault diagnosis, and performance optimization. Large language models (LLMs) have demonstrated unprecedented capabilities in time series analysis, the potential of multimodal LLMs (MLLMs), particularly vision-language models, in TSAD remains largely under-explored. One natural way for humans to detect time series anomalies is through visualization and textual description. It motivates our research question: Can multimodal LLMs perform time series anomaly detection? Existing studies often oversimplify the problem by treating point-wise anomalies as special cases of range-wise ones or by aggregating point anomalies to approximate range-wise scenarios. They limit our understanding for realistic scenarios such as multi-granular anomalies and irregular time series. To address the gap, we build a VisualTimeAnomaly benchmark to comprehensively investigate zero-shot capabilities of MLLMs for TSAD, progressively from point-, range-, to variate-wise anomalies, and extends to irregular sampling conditions. Our study reveals several key insights. 1) MLLMs and traditional TSAD methods are complementary: MLLMs excel at coarse-grained anomalies while traditional methods are effective at fine-grained anomalies. 2) MLLMs are resilient to irregular time series. 3) Input time series modality changing from text to image makes information focus shift from quantitative variations to qualitative patterns while significantly reducing hallucinations. Built on the findings, we propose a MLLMs-based multi-agent framework TSAD-Agents to achieve automatic TSAD. Our framework comprises scanning, planning, detection, and checking agents that synergistically collaborate to reason, plan, and self-reflect to enable automatic TSAD. These agents adaptively invoke tools such as traditional methods and MLLMs and dynamically switch between text and image modalities to optimize detection performance.},
+          booktitle = {Proceedings of the ACM Web Conference 2026},
+          pages = {5392–5403},
+          numpages = {12},
+          keywords = {multimodal llms, agentic ai, time series, anomaly detection},
+          location = {United Arab Emirates},
+          series = {WWW '26}
+          }
+
+      - id: C9
+        title: "Model Editing as a Double-Edged Sword: Steering Agent Ethical Behavior Toward Beneficence or Harm"
+        authors: "Baixiang Huang, Zhen Tan, Haoran Wang, Zijie Liu, Dawei Li, Ali Payani, Huan Liu, Tianlong Chen, Kai Shu"
+        tag:   "AAAI 2026"
+        venue: "Proceedings of the AAAI Conference on Artificial Intelligence"
+        abs: "https://arxiv.org/abs/2506.20606"
+        pdf: "https://arxiv.org/pdf/2506.20606"
+        code: "https://github.com/baixianghuang/behavior-edit"
+        bibtex: |
+          @inproceedings{huang2026model,
+            title={Model Editing as a Double-Edged Sword: Steering Agent Behavior Toward Beneficence or Harm},
+            author={Huang, Baixiang and Tan, Zhen and Wang, Haoran and Liu, Zijie and Li, Dawei and Payani, Ali and Liu, Huan and Chen, Tianlong and Shu, Kai},
+            booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+            volume={40},
+            number={37},
+            pages={31113--31121},
+            year={2026}
+          }
+
+      - id: C8
+        title: "Benchmarking LLMs for Political Science: A United Nations Perspective"
+        authors: "Yueqing Liang, Liangwei Yang, Chen Wang, Congying Xia, Rui Meng, Xiongxiao Xu, Haoran Wang, Ali Payani, Kai Shu"
+        tag:   "AAAI 2026"
+        venue: "Proceedings of the AAAI Conference on Artificial Intelligence"
+        abs: "https://arxiv.org/abs/2502.14122"
+        pdf: "https://arxiv.org/pdf/2502.14122"
+        code: "https://github.com/yueqingliang1/UNBench"
+        bibtex: |
+          @inproceedings{liang2026benchmarking,
+            title={Benchmarking llms for political science: A united nations perspective},
+            author={Liang, Yueqing and Yang, Liangwei and Wang, Chen and Xia, Congying and Meng, Rui and Xu, Xiongxiao and Wang, Haoran and Payani, Ali and Shu, Kai},
+            booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+            volume={40},
+            number={1},
+            pages={738--745},
+            year={2026}
+          }
+
+      - id: C7
+        title: "Spatial-Aware Visual Program Guided Reasoning for Answering Complex Visual Questions"
+        authors: "Haoran Wang, Kai Shu"
+        tag:   "IJCNLP-AACL 2025"
+        venue: "Findings of the Association for Computational Linguistics: IJCNLP-AACL 2025"
+        abs: "https://aclanthology.org/2025.findings-ijcnlp.121/"
+        pdf: "https://aclanthology.org/2025.findings-ijcnlp.121.pdf"
+        bibtex: |
+          @inproceedings{wang-shu-2025-spatial,
+              title = "Spatial-Aware Visual Program Guided Reasoning for Answering Complex Visual Questions",
+              author = "Wang, Haoran  and
+                Shu, Kai",
+              editor = "Inui, Kentaro  and
+                Sakti, Sakriani  and
+                Wang, Haofen  and
+                Wong, Derek F.  and
+                Bhattacharyya, Pushpak  and
+                Banerjee, Biplab  and
+                Ekbal, Asif  and
+                Chakraborty, Tanmoy  and
+                Singh, Dhirendra Pratap",
+              booktitle = "Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics",
+              month = dec,
+              year = "2025",
+              address = "Mumbai, India",
+              publisher = "The Asian Federation of Natural Language Processing and The Association for Computational Linguistics",
+              url = "https://aclanthology.org/2025.findings-ijcnlp.121/",
+              doi = "10.18653/v1/2025.findings-ijcnlp.121",
+              pages = "1942--1953",
+              ISBN = "979-8-89176-303-6"
+          }
+
+      - id: C6
+        title: "FIN-FACT: A Benchmark Dataset for Multimodal Financial Fact Checking and Explanation Generation"
+        authors: "Aman Rangapur, Haoran Wang, Ling Jian, Kai Shu"
+        tag:   "WWW 2025"
+        venue: "Companion Proceedings of the ACM Web Conference 2025"
+        abs: "https://dl.acm.org/doi/10.1145/3701716.3715292"
+        pdf: "https://dl.acm.org/doi/pdf/10.1145/3701716.3715292"
+        code: "https://github.com/IIT-DM/Fin-Fact"
+        bibtex: |
+          @inproceedings{10.1145/3701716.3715292,
+          author = {Rangapur, Aman and Wang, Haoran and Jian, Ling and Shu, Kai},
+          title = {Fin-Fact: A Benchmark Dataset for Multimodal Financial Fact-Checking and Explanation Generation},
+          year = {2025},
+          isbn = {9798400713316},
+          publisher = {Association for Computing Machinery},
+          address = {New York, NY, USA},
+          url = {https://doi.org/10.1145/3701716.3715292},
+          doi = {10.1145/3701716.3715292},
+          abstract = {Misinformation poses significant risks to society, with the rise of cryptocurrency exchanges exemplifying the growing problem of financial misinformation. This issue is particularly troubling given the proliferation of false claims often paired with convincing yet misleading images. Despite the seriousness of this challenge, there is a notable absence of fact-checking datasets tailored to real-world financial claims. Additionally, given the high stakes of financial fact-checking, generating clear explanations for claim verdicts is essential to help decision-makers understand the reasoning behind these judgments. To address these challenges, we introduce Fin-Fact, a benchmark dataset comprising 3,369 financial claims. Each claim is annotated with a truthfulness label and a ruling statement, supported by both textual and visual evidence. We establish performance baselines for Fin-Fact using Gemini Pro and GPT-4. Our experimental results reveal that multimodal financial fact-checking remains a challenging task, even for cutting-edge generative models.},
+          booktitle = {Companion Proceedings of the ACM on Web Conference 2025},
+          pages = {785–788},
+          numpages = {4},
+          keywords = {explanation generation, finance, multimodal fact-checking},
+          location = {Sydney NSW, Australia},
+          series = {WWW '25}
+          }
+
+      - id: C5
+        title: "Piecing It All Together: Verifying Multi-Hop Multimodal Claims"
+        authors: "Haoran Wang, Aman Rangapur, Xiongxiao Xu, Yueqing Liang, Haroon Gharwi, Carl Yang, Kai Shu"
+        tag:   "COLING 2025"
+        venue: "Proceedings of the 31st International Conference on Computational Linguistics"
+        abs: "https://aclanthology.org/2025.coling-main.498/"
+        pdf: "https://aclanthology.org/2025.coling-main.498.pdf"
+        code: "https://github.com/mmcv-dataset/MMCV"
+        bibtex: |
+          @inproceedings{wang-etal-2025-piecing,
+              title = "Piecing It All Together: Verifying Multi-Hop Multimodal Claims",
+              author = "Wang, Haoran  and
+                Rangapur, Aman  and
+                Xu, Xiongxiao  and
+                Liang, Yueqing  and
+                Gharwi, Haroon  and
+                Yang, Carl  and
+                Shu, Kai",
+              editor = "Rambow, Owen  and
+                Wanner, Leo  and
+                Apidianaki, Marianna  and
+                Al-Khalifa, Hend  and
+                Eugenio, Barbara Di  and
+                Schockaert, Steven",
+              booktitle = "Proceedings of the 31st International Conference on Computational Linguistics",
+              month = jan,
+              year = "2025",
+              address = "Abu Dhabi, UAE",
+              publisher = "Association for Computational Linguistics",
+              url = "https://aclanthology.org/2025.coling-main.498/",
+              pages = "7453--7469",
+              abstract = "Existing claim verification datasets often do not require systems to perform complex reasoning or effectively interpret multimodal evidence. To address this, we introduce a new task: multi-hop multimodal claim verification. This task challenges models to reason over multiple pieces of evidence from diverse sources, including text, images, and tables, and determine whether the combined multimodal evidence supports or refutes a given claim. To study this task, we construct MMCV, a large-scale dataset comprising 15k multi-hop claims paired with multimodal evidence, generated and refined using large language models, with additional input from human feedback. We show that MMCV is challenging even for the latest state-of-the-art multimodal large language models, especially as the number of reasoning hops increases. Additionally, we establish a human performance benchmark on a subset of MMCV. We hope this dataset and its evaluation task will encourage future research in multimodal multi-hop claim verification."
+          }
+
+      - id: C4
+        title: "Trojan Activation Attack: Red-Teaming Large Language Models using Steering Vectors for Safety-Alignment"
+        authors: "Haoran Wang, Kai Shu"
+        tag:   "CIKM 2024"
+        venue: "Proceedings of the 33rd ACM International Conference on Information and Knowledge Management"
+        abs: "https://dl.acm.org/doi/10.1145/3627673.3679821"
+        pdf: "https://dl.acm.org/doi/pdf/10.1145/3627673.3679821"
+        code: "https://github.com/wang2226/Trojan-Activation-Attack"
+        bibtex: |
+          @inproceedings{10.1145/3627673.3679821,
+          author = {Wang, Haoran and Shu, Kai},
+          title = {Trojan Activation Attack: Red-Teaming Large Language Models using Steering Vectors for Safety-Alignment},
+          year = {2024},
+          isbn = {9798400704369},
+          publisher = {Association for Computing Machinery},
+          address = {New York, NY, USA},
+          url = {https://doi.org/10.1145/3627673.3679821},
+          doi = {10.1145/3627673.3679821},
+          abstract = {To ensure AI safety, instruction-tuned Large Language Models (LLMs) are specifically trained to ensure alignment, which refers to making models behave in accordance with human intentions. While these models have demonstrated commendable results on various safety benchmarks, the vulnerability of their safety alignment has not been extensively studied. This is particularly troubling given the potential harm that LLMs can inflict. Existing attack methods on LLMs often rely on poisoned training data or the injection of malicious prompts. These approaches compromise the stealthiness and generalizability of the attacks, making them susceptible to detection. Additionally, these models often demand substantial computational resources for implementation, making them less practical for real-world applications. In this work, we study a different attack scenario, called Trojan Activation Attack (TA2), which injects trojan steering vectors into the activation layers of LLMs. These malicious steering vectors can be triggered at inference time to steer the models toward attacker-desired behaviors by manipulating their activations. Our experiment results on four primary alignment tasks show that TA2 is highly effective and adds little or no overhead to attack efficiency. Additionally, we discuss potential countermeasures against such activation attacks.},
+          booktitle = {Proceedings of the 33rd ACM International Conference on Information and Knowledge Management},
+          pages = {2347–2357},
+          numpages = {11},
+          keywords = {activation steering, large language model, trojan attack},
+          location = {Boise, ID, USA},
+          series = {CIKM '24}
+          }
+
+      - id: C3
+        title: "TrustLLM: Trustworthiness in Large Language Models"
+        authors: "Yue Huang*, Lichao Sun*, Haoran Wang*, Siyuan Wu*, Qihui Zhang*, Chujie Gao*, Yixin Huang*, Wenhan Lyu*, Yixuan Zhang*, Xiner Li*, Zhengliang Liu*, Yixin Liu*, Yijue Wang*, Zhikun Zhang*, Bhavya Kailkhura, Caiming Xiong, et al."
+        tag:   "ICML 2024"
+        venue: "Proceedings of the Forty-first International Conference on Machine Learning"
+        abs: "https://proceedings.mlr.press/v235/huang24x.html"
+        pdf: "https://openreview.net/pdf?id=bWUU0LwwMp"
+        code: "https://github.com/HowieHwong/TrustLLM"
+        bibtex: |
+          @InProceedings{pmlr-v235-huang24x,
+            title =        {Position: {T}rust{LLM}: Trustworthiness in Large Language Models},
+            author =       {Huang, Yue and Sun, Lichao and Wang, Haoran and Wu, Siyuan and Zhang, Qihui and Li, Yuan and Gao, Chujie and Huang, Yixin and Lyu, Wenhan and Zhang, Yixuan and Li, Xiner and Sun, Hanchi and Liu, Zhengliang and Liu, Yixin and Wang, Yijue and Zhang, Zhikun and Vidgen, Bertie and Kailkhura, Bhavya and Xiong, Caiming and Xiao, Chaowei and Li, Chunyuan and Xing, Eric P. and Huang, Furong and Liu, Hao and Ji, Heng and Wang, Hongyi and Zhang, Huan and Yao, Huaxiu and Kellis, Manolis and Zitnik, Marinka and Jiang, Meng and Bansal, Mohit and Zou, James and Pei, Jian and Liu, Jian and Gao, Jianfeng and Han, Jiawei and Zhao, Jieyu and Tang, Jiliang and Wang, Jindong and Vanschoren, Joaquin and Mitchell, John and Shu, Kai and Xu, Kaidi and Chang, Kai-Wei and He, Lifang and Huang, Lifu and Backes, Michael and Gong, Neil Zhenqiang and Yu, Philip S. and Chen, Pin-Yu and Gu, Quanquan and Xu, Ran and Ying, Rex and Ji, Shuiwang and Jana, Suman and Chen, Tianlong and Liu, Tianming and Zhou, Tianyi and Wang, William Yang and Li, Xiang and Zhang, Xiangliang and Wang, Xiao and Xie, Xing and Chen, Xun and Wang, Xuyu and Liu, Yan and Ye, Yanfang and Cao, Yinzhi and Chen, Yong and Zhao, Yue},
+            booktitle =    {Proceedings of the 41st International Conference on Machine Learning},
+            pages =        {20166--20270},
+            year =         {2024},
+            editor =       {Salakhutdinov, Ruslan and Kolter, Zico and Heller, Katherine and Weller, Adrian and Oliver, Nuria and Scarlett, Jonathan and Berkenkamp, Felix},
+            volume =       {235},
+            series =       {Proceedings of Machine Learning Research},
+            month =        {21--27 Jul},
+            publisher =    {PMLR},
+            pdf =          {https://raw.githubusercontent.com/mlresearch/v235/main/assets/huang24x/huang24x.pdf},
+            url =          {https://proceedings.mlr.press/v235/huang24x.html},
+            abstract =     {Large language models (LLMs) have gained considerable attention for their excellent natural language processing capabilities. Nonetheless, these LLMs present many challenges, particularly in the realm of trustworthiness. This paper introduces TrustLLM, a comprehensive study of trustworthiness in LLMs, including principles for different dimensions of trustworthiness, established benchmark, evaluation, and analysis of trustworthiness for mainstream LLMs, and discussion of open challenges and future directions. Specifically, we first propose a set of principles for trustworthy LLMs that span eight different dimensions. Based on these principles, we further establish a benchmark across six dimensions including truthfulness, safety, fairness, robustness, privacy, and machine ethics. We then present a study evaluating 16 mainstream LLMs in TrustLLM, consisting of over 30 datasets. Our findings firstly show that in general trustworthiness and capability (i.e., functional effectiveness) are positively related. Secondly, our observations reveal that proprietary LLMs generally outperform most open-source counterparts in terms of trustworthiness, raising concerns about the potential risks of widely accessible open-source LLMs. However, a few open-source LLMs come very close to proprietary ones, suggesting that open-source models can achieve high levels of trustworthiness without additional mechanisms like <em>moderator</em>, offering valuable insights for developers in this field. Thirdly, it is important to note that some LLMs may be overly calibrated towards exhibiting trustworthiness, to the extent that they compromise their utility by mistakenly treating benign prompts as harmful and consequently not responding. Besides these observations, we’ve uncovered key insights into the multifaceted trustworthiness in LLMs. We emphasize the importance of ensuring transparency not only in the models themselves but also in the technologies that underpin trustworthiness. We advocate that the establishment of an AI alliance between industry, academia, the open-source community to foster collaboration is imperative to advance the trustworthiness of LLMs.}
+          }
+
+      - id: C2
+        title: "Explainable Claim Verification via Knowledge-Grounded Reasoning with Large Language Models"
+        authors: "Haoran Wang, Kai Shu"
+        tag:   "EMNLP 2023"
+        venue: "Findings of the Association for Computational Linguistics: EMNLP 2023"
+        abs: "https://aclanthology.org/2023.findings-emnlp.416/"
+        pdf: "https://aclanthology.org/2023.findings-emnlp.416.pdf"
+        code: "https://github.com/wang2226/FOLK"
+        bibtex: |
+          @inproceedings{wang-shu-2023-explainable,
+              title = "Explainable Claim Verification via Knowledge-Grounded Reasoning with Large Language Models",
+              author = "Wang, Haoran  and
+                Shu, Kai",
+              editor = "Bouamor, Houda  and
+                Pino, Juan  and
+                Bali, Kalika",
+              booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2023",
+              month = dec,
+              year = "2023",
+              address = "Singapore",
+              publisher = "Association for Computational Linguistics",
+              url = "https://aclanthology.org/2023.findings-emnlp.416/",
+              doi = "10.18653/v1/2023.findings-emnlp.416",
+              pages = "6288--6304",
+              abstract = "Claim verification plays a crucial role in combating misinformation. While existing works on claim verification have shown promising results, a crucial piece of the puzzle that remains unsolved is to understand how to verify claims without relying on human-annotated data, which is expensive to create at a large scale. Additionally, it is important for models to provide comprehensive explanations that can justify their decisions and assist human fact-checkers. This paper presents First-Order-Logic-Guided Knowledge-Grounded (FOLK) Reasoning that can verify complex claims and generate explanations without the need for annotated evidence using Large Language Models (LLMs). FOLK leverages the in-context learning ability of LLMs to translate the claim into a First-Order-Logic (FOL) clause consisting of predicates, each corresponding to a sub-claim that needs to be verified. Then, FOLK performs FOL-Guided reasoning over a set of knowledge-grounded question-and-answer pairs to make veracity predictions and generate explanations to justify its decision-making process. This process makes our model highly explanatory, providing clear explanations of its reasoning process in human-readable form. Our experiment results indicate that FOLK outperforms strong baselines on three datasets encompassing various claim verification challenges. Our code and data are available."
+          }
+
+      - id: C1
+        title: "Attacking Fake News Detectors via Manipulating News Social Engagement"
+        authors: "Haoran Wang, Yingtong Dou, Canyu Chen, Lichao Sun, Philip S. Yu, Kai Shu"
+        tag:   "WWW 2023"
+        venue: "Proceedings of the ACM Web Conference 2023"
+        abs: "https://dl.acm.org/doi/10.1145/3543507.3583868"
+        pdf: "https://dl.acm.org/doi/pdf/10.1145/3543507.3583868"
+        code: "https://github.com/hwang219/AttackFakeNews"
+        bibtex: |
+          @inproceedings{10.1145/3543507.3583868,
+          author = {Wang, Haoran and Dou, Yingtong and Chen, Canyu and Sun, Lichao and Yu, Philip S. and Shu, Kai},
+          title = {Attacking Fake News Detectors via Manipulating News Social Engagement},
+          year = {2023},
+          isbn = {9781450394161},
+          publisher = {Association for Computing Machinery},
+          address = {New York, NY, USA},
+          url = {https://doi.org/10.1145/3543507.3583868},
+          doi = {10.1145/3543507.3583868},
+          abstract = {Social media is one of the main sources for news consumption, especially among the younger generation. With the increasing popularity of news consumption on various social media platforms, there has been a surge of misinformation which includes false information or unfounded claims. As various text- and social context-based fake news detectors are proposed to detect misinformation on social media, recent works start to focus on the vulnerabilities of fake news detectors. In this paper, we present the first adversarial attack framework against Graph Neural Network (GNN)-based fake news detectors to probe their robustness. Specifically, we leverage a multi-agent reinforcement learning (MARL) framework to simulate the adversarial behavior of fraudsters on social media. Research has shown that in real-world settings, fraudsters coordinate with each other to share different news in order to evade the detection of fake news detectors. Therefore, we modeled our MARL framework as a Markov Game with bot, cyborg, and crowd worker agents, which have their own distinctive cost, budget, and influence. We then use deep Q-learning to search for the optimal policy that maximizes the rewards. Extensive experimental results on two real-world fake news propagation datasets demonstrate that our proposed framework can effectively sabotage the GNN-based fake news detector performance. We hope this paper can provide insights for future research on fake news detection.},
+          booktitle = {Proceedings of the ACM Web Conference 2023},
+          pages = {3978–3986},
+          numpages = {9},
+          keywords = {Adversarial Robustness, Fake News Detection, Social Network},
+          location = {Austin, TX, USA},
+          series = {WWW '23}
+          }
+  - id: preprint
+    title: "Preprints"
+    items:
+      - id: P5
+        title: "Query-Only Backdoor Attacks on Self-Evolving Skills via Trajectory Poisoning"
+        authors: "Yuyang Luo, Haoran Wang, Kai Shu"
+        venue: "arXiv preprint, 2026"
+        abs: "https://arxiv.org/abs/2608.08303"
+        pdf: "https://arxiv.org/pdf/2608.08303"
+        bibtex: |
+          @article{luo2026query,
+            author  = {Luo, Yuyang and Wang, Haoran and Shu, Kai},
+            title   = {{Query-Only Backdoor Attacks on Self-Evolving Skills via
+                       Trajectory Poisoning}},
+            journal = {arXiv preprint arXiv:2608.08303},
+            year    = {2026}
+          }
+
+      - id: P3
+        title: "Fact-Checking with Large Language Models via Probabilistic Certainty and Consistency"
+        authors: "Haoran Wang, Maryam Khalid, Qiong Wu, Jian Gao, Cheng Cao"
+        venue: "arXiv preprint, 2026"
+        abs: "https://arxiv.org/abs/2601.02574"
+        pdf: "https://arxiv.org/pdf/2601.02574"
+        bibtex: |
+          @article{wang2026fact,
+            title={Fact-checking with large language models via probabilistic certainty and consistency},
+            author={Wang, Haoran and Khalid, Maryam and Wu, Qiong and Gao, Jian and Cao, Cheng},
+            journal={arXiv preprint arXiv:2601.02574},
+            year={2026}
+          }
+
+      - id: P4
+        title: "Towards Effective Model Editing for LLM Personalization"
+        authors: "Baixiang Huang, Limeng Cui, Jiapeng Liu, Haoran Wang, Jiawei Xu, Zhuiyue Tan, Yutong Chen, Chen Luo, Yi Liu, Kai Shu"
+        venue: "arXiv preprint, 2025"
+        abs: "https://arxiv.org/abs/2512.13676"
+        pdf: "https://arxiv.org/pdf/2512.13676"
+        bibtex: |
+          @article{huang2025towards,
+            author  = {Huang, Baixiang and Cui, Limeng and Liu, Jiapeng and Wang, Haoran and
+                      Xu, Jiawei and Tan, Zhuiyue and Chen, Yutong and Luo, Chen and
+                      Liu, Yi and Shu, Kai},
+            title   = {{Towards Effective Model Editing for LLM Personalization}},
+            journal = {arXiv preprint arXiv:2512.13676},
+            year    = {2025}
+          }
+
+      - id: P2
+        title: "Investigating Online Financial Misinformation and Its Consequences: A Computational Perspective"
+        authors: "Aman Rangapur, Haoran Wang, Kai Shu"
+        venue: "arXiv preprint, 2023"
+        abs: "https://arxiv.org/abs/2309.12363"
+        pdf: "https://arxiv.org/pdf/2309.12363"
+        bibtex: |
+          @article{rangapur2023investigating,
+            title={Investigating online financial misinformation and its consequences: A computational perspective},
+            author={Rangapur, Aman and Wang, Haoran and Shu, Kai},
+            journal={arXiv preprint arXiv:2309.12363},
+            year={2023}
+          }
+
+      - id: P1
+        title: "Combating Health Misinformation in Social Media: Characterization, Detection, Intervention, and Open Issues"
+        authors: "Canyu Chen*, Haoran Wang*, Matthew Shapiro, Yunyu Xiao, Fei Wang, Kai Shu"
+        venue: "arXiv preprint, 2022"
+        abs: "https://arxiv.org/abs/2211.05289"
+        pdf: "https://arxiv.org/pdf/2211.05289"
+        bibtex: |
+          @article{chen2022combating,
+            title={Combating health misinformation in social media: Characterization, detection, intervention, and open issues},
+            author={Chen, Canyu and Wang, Haoran and Shapiro, Matthew and Xiao, Yunyu and Wang, Fei and Shu, Kai},
+            journal={arXiv preprint arXiv:2211.05289},
+            year={2022}
+          }

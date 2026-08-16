@@ -2,8 +2,12 @@
 {
   "pages": [
     { "title": "Homepage", "url": "{{ '/' | relative_url }}" }
+    {%- comment -%}
+      Only same-origin HTML pages can be fetched and indexed; a PDF, an
+      in-page anchor, or an off-site link would just be a doomed request.
+    {%- endcomment -%}
     {%- for link in site.data.navigation.main -%}
-      {%- unless link.url contains '.pdf' or link.url contains '#' -%}
+      {%- unless link.url contains '.pdf' or link.url contains '#' or link.url contains '://' -%}
         , { "title": {{ link.title | jsonify }}, "url": "{{ link.url | relative_url }}" }
       {%- endunless -%}
     {%- endfor -%}

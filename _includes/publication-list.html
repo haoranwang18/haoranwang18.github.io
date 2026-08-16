@@ -1,0 +1,64 @@
+{%- comment -%}
+  Publication list for /publications, built from _data/publications.yml.
+
+  Each entry leads with its reference label ([C13]) and title, then authors and
+  venue, then the action row: abs, pdf, bibtex, code. The bibtex button is a
+  native <details> disclosure, so the entry expands without any JavaScript.
+{%- endcomment -%}
+{%- capture author_html -%}<span class="pub__me">{{ site.author.name }}</span>{%- endcapture -%}
+
+<div class="publications">
+  {%- for section in site.data.publications.sections %}
+  <section class="pub-section">
+    <h2 class="pub-section__title" id="{{ section.id }}">{{ section.title }}</h2>
+
+    <div class="pub-list">
+      {%- for item in section.items %}
+      {%- assign primary = item.abs | default: item.pdf %}
+      <article class="pub">
+        {%- comment -%}the space before the title has to survive Liquid's
+        whitespace control, so it is written out explicitly{%- endcomment -%}
+        <h3 class="pub__title" id="pub-{{ item.id | downcase }}"><span
+          class="pub__index">[{{ item.id }}]</span>&#32;{% if item.tag %}<span
+          class="pub__tag">{{ item.tag }}</span>&#32;{% endif %}{% if primary %}<a
+          href="{{ primary }}">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}</h3>
+
+        <p class="pub__authors">{{ item.authors | escape | replace: site.author.name, author_html }}</p>
+
+        {%- if item.venue %}
+        <p class="pub__venue">{{ item.venue }}</p>
+        {%- endif %}
+
+        {%- if item.note %}
+        <p class="pub__note">{{ item.note }}</p>
+        {%- endif %}
+
+        {%- comment -%}
+          The BibTeX panel lives outside the button row so that opening it does
+          not reflow the buttons; CSS reveals it from the sibling <details>.
+        {%- endcomment -%}
+        {%- assign bib_id = item.id | downcase | prepend: "bib-" %}
+        <div class="pub__actions">
+          <div class="pub__links">
+            {%- if item.abs %}<a class="pub__link" href="{{ item.abs }}">abs</a>{% endif %}
+            {%- if item.pdf %}<a class="pub__link" href="{{ item.pdf }}">pdf</a>{% endif %}
+            {%- if item.bibtex %}
+            <details class="pub__bibtex">
+              <summary class="pub__link pub__link--toggle" aria-controls="{{ bib_id }}">bibtex</summary>
+            </details>
+            {%- endif %}
+            {%- if item.code %}<a class="pub__link" href="{{ item.code }}">code</a>{% endif %}
+            {%- for link in item.links %}
+            <a class="pub__link" href="{{ link.url }}">{{ link.label }}</a>
+            {%- endfor %}
+          </div>
+          {%- if item.bibtex %}
+          <pre class="pub__bibtex-body" id="{{ bib_id }}"><code>{{ item.bibtex | strip | escape }}</code></pre>
+          {%- endif %}
+        </div>
+      </article>
+      {%- endfor %}
+    </div>
+  </section>
+  {%- endfor %}
+</div>
