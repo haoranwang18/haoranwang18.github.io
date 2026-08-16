@@ -13,8 +13,6 @@ author_profile: true
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# Others
-
 In my free time, I enjoy human-powered outdoor adventures such as backcountry skiing, hiking, and biking. I’m also passionate about photography and videography, which I use to capture and document these experiences. I primarily track my adventures on [Strava](https://www.strava.com/athletes/24770040).
 
 <img src="images/pictures/bird.jpeg" alt="A bird photographed on a backcountry adventure" width="30%">

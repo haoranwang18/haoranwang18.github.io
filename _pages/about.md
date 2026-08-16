@@ -31,7 +31,7 @@ My research focuses on building **trustworthy foundation models**, with an empha
 
 <p align="center"><img src="images/research-overview.png" alt="Research overview: Trustworthy Foundation Models" width="60%"></p>
 
-- **Inference-Time Control**: [CIKM 2024](https://dl.acm.org/doi/pdf/10.1145/3627673.3679821), [KDD2026](), [COLM 2026](https://arxiv.org/pdf/2604.00209)
+- **Inference-Time Control**: [CIKM 2024](https://dl.acm.org/doi/pdf/10.1145/3627673.3679821), [KDD2026](https://dl.acm.org/doi/epdf/10.1145/3770855.3817665), [COLM 2026](https://arxiv.org/pdf/2604.00209)
 - **Trustworthiness Evaluation**: [ICML 2024](https://openreview.net/pdf?id=bWUU0LwwMp), [ICLR2026](https://openreview.net/pdf?id=Fcf5fLmaeG)
 - **AI for Social & Scientific Impact**: [WWW 2023](https://dl.acm.org/doi/pdf/10.1145/3543507.3583868), [EMNLP 2023](https://aclanthology.org/2023.findings-emnlp.416.pdf)
 
