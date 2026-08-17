@@ -9,6 +9,6 @@ main:
   - title: "Service"
     url: "/service.html"
   - title: "CV"
-    url: "https://drive.google.com/file/d/17gvKhEhgukOm31yEskbj0Z6deY_0dIud/view?usp=sharing"
+    url: "/files/CV.pdf"
   - title: "Misc"
     url: "/misc.html"
