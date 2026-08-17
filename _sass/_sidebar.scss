@@ -94,6 +94,10 @@
   img {
     max-width: 175px;
     min-width: 75px;
+    // square box + cover, so the avatar is a circle rather than an oval
+    // however the source photo is cropped
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
     border-radius: 50%;
 
     @include breakpoint($large) {
