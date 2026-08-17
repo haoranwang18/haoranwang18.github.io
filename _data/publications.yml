@@ -424,7 +424,7 @@ sections:
             year    = {2026}
           }
 
-      - id: P3
+      - id: P4
         title: "Fact-Checking with Large Language Models via Probabilistic Certainty and Consistency"
         authors: "Haoran Wang, Maryam Khalid, Qiong Wu, Jian Gao, Cheng Cao"
         venue: "arXiv preprint, 2026"
@@ -438,7 +438,7 @@ sections:
             year={2026}
           }
 
-      - id: P4
+      - id: P3
         title: "Towards Effective Model Editing for LLM Personalization"
         authors: "Baixiang Huang, Limeng Cui, Jiapeng Liu, Haoran Wang, Jiawei Xu, Zhuiyue Tan, Yutong Chen, Chen Luo, Yi Liu, Kai Shu"
         venue: "arXiv preprint, 2025"
