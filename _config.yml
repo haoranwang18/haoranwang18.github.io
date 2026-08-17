@@ -28,7 +28,7 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 # Site Author
 author:
   name: "Haoran Wang"
-  avatar: "images/profile.png"
+  avatar: "images/profile.jpg"
   bio: "Ph.D. candidate at Emory University"
   location: # the profile block hides this line when it is blank
   employer:
