@@ -116,18 +116,27 @@ html[data-theme="dark"] {
 
   .masthead {
     background-color: $dark-surface;
-    border-bottom-color: $dark-border;
+
+    &__inner-wrap {
+      border-bottom-color: $dark-link;
+    }
   }
 
   .greedy-nav {
     background: transparent;
 
     a {
-      color: $dark-text;
+      color: $dark-link;
 
       &:hover {
-        color: #fff;
+        color: $dark-link-hover;
       }
+    }
+
+    /* black would vanish on the dark surface */
+    .masthead__menu-item--lg a,
+    .masthead__menu-item--lg a:hover {
+      color: #fff;
     }
 
     .visible-links a:before {
@@ -144,8 +153,8 @@ html[data-theme="dark"] {
       box-shadow: 0 0 10px rgba(#000, 0.5);
 
       a:hover {
-        color: #fff;
-        background: rgba(#fff, 0.08);
+        color: $dark-link-hover;
+        background: rgba($dark-link, 0.12);
       }
 
       li {
