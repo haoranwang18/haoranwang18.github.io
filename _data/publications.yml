@@ -26,7 +26,7 @@ sections:
   - id: journal
     title: "Journal and Book Chapters"
     items:
-      - id: J3
+      - id: J1
         title: "Beyond Tokens: A Survey on Decoding Methods for Large Language Models and Large Vision-Language Models"
         authors: "Haoran Wang, Xiongxiao Xu, Philip S. Yu, Kai Shu"
         venue: "Proceedings of ACM SIGKDD Explorations Newsletter, Volume 28, Issue 1"
@@ -53,7 +53,7 @@ sections:
           numpages = {20}
           }
 
-      - id: J2
+      - id: B2
         title: "Automated Fact-Checking"
         authors: "Haoran Wang, Baixiang Huang, Kai Shu"
         venue: "Chapter in Oxford Handbook of Misinformation and Disinformation, Oxford University Press"
@@ -65,7 +65,7 @@ sections:
             publisher = {Oxford University Press}
           }
 
-      - id: J1
+      - id: B1
         title: "Factuality of Large Language Models: An Adversarial Perspective"
         authors: "Baixiang Huang, Haoran Wang, Kai Shu"
         venue: "Chapter in Online Trust and Safety: Tools to Combat Online Harms, Misinformation, and Malicious Content, Taylor and Francis CRC Press"

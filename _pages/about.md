@@ -40,31 +40,31 @@ My research focuses on building **trustworthy foundation models**, with an empha
 
 <div class="news-scroll" role="region" aria-label="News" tabindex="0" markdown="1">
 
-- _2026.07_: &nbsp;CI-Steering has been accepted by <a href="https://arxiv.org/abs/2604.00209">COLM 2026</a>. See you in San Francisco!
-- _2026.06_: &nbsp;GCP Credits has been awarded. Thanks Google!
-- _2026.05_: &nbsp;One paper accepted by <a href="https://arxiv.org/abs/2508.03098">KDD 2026</a>!
-- _2026.05_: &nbsp;Honored to receive Excellence in Research Assistance Award from the department!
-- _2026.04_: &nbsp;Invited to serve as Area Chair for the NeurIPS 2026 Position Track
-- _2026.04_: &nbsp;Successfully Passed Dissertation Prospectus!
-- _2026.02_: &nbsp;Our survey on decoding methods in LLMs is accepted at <a href="https://dl.acm.org/doi/pdf/10.1145/3820356.3820357">SIGKDD Explorations</a>!
-- _2026.01_: &nbsp;TrustGen accepted by ICLR 2026. Congratulations to <a href="https://howiehwong.github.io/">Yue</a>!
-- _2026.01_: &nbsp;One paper accepted by WWW 2026. Congratulations to <a href="https://xiongxiaoxu.github.io/">Xiongxiao</a>!
-- _2025.11_: &nbsp;Two papers accepted by AAAI 2026. Congratulations to <a href="https://baixianghuang.github.io/">Baixiang</a> and <a href="https://yueqingliang1.github.io/">Yueqing</a>!
-- _2025.10_: &nbsp;One paper accepted by IJCNLP-AACL 2025.
-- _2025.08_: &nbsp;Completed my internship as an Applied Scientist at Amazon AGI!
-- _2025.07_: &nbsp;Invited to serve as Program Committee member for AAAI 2026.
-- _2025.02_: &nbsp;Excited to join Amazon AGI as an Applied Scientist Intern for Summer 2025 in Bellevue, WA.
-- _2025.01_: &nbsp;Invited to serve as Area Chair for the NeurIPS Position Track.
-- _2025.01_: &nbsp;Research Access Program has been awarded. Thanks OpenAI!
-- _2025.01_: &nbsp;Fin-Fact has been accepted by <a href="https://arxiv.org/abs/2309.08793">WWW 2025</a>. Congratulations <a href="https://amanrangapur.com/">Aman</a>!
-- _2024.12_: &nbsp;Invited as PC for ICML 2025 Position Track.
-- _2024.11_: &nbsp;MMCV has been accepted by <a href="https://arxiv.org/abs/2411.09547">COLING 2025</a>.
-- _2024.08_: &nbsp;Our Fin-Fact dataset has been used for shared task for <a href="https://coling2025fmd.thefin.ai/">FinNLP@COLING2025</a>
-- _2024.07_: &nbsp;TA2 has been accepted by <a href="https://arxiv.org/abs/2311.09433">CIKM 2024</a>.
-- _2024.05_: &nbsp;TrustLLM has been accepted by <a href="https://arxiv.org/pdf/2401.05561">ICML 2024</a>. Congratulations <a href="https://howiehwong.github.io/">Yue</a>!
-- _2024.02_: &nbsp;Successfully Passed Ph.D. Qualifying Exam!
-- _2023.10_: &nbsp;FOLK has been accepted by <a href="https://arxiv.org/abs/2310.05253">EMNLP 2023</a>.
-- _2023.02_: &nbsp;MARL has been accepted by <a href="https://arxiv.org/abs/2302.07363">WWW 2023</a>.
+- [2026/07] CI-Steering has been accepted by <a href="https://arxiv.org/abs/2604.00209">COLM 2026</a>. See you in San Francisco!
+- [2026/06] GCP Credits has been awarded. Thanks Google!
+- [2026/05] One paper accepted by <a href="https://arxiv.org/abs/2508.03098">KDD 2026</a>!
+- [2026/05] Honored to receive Excellence in Research Assistance Award from the department!
+- [2026/04] Invited to serve as Area Chair for the NeurIPS 2026 Position Track
+- [2026/04] Successfully Passed Dissertation Prospectus!
+- [2026/02] Our survey on decoding methods in LLMs is accepted at <a href="https://dl.acm.org/doi/pdf/10.1145/3820356.3820357">SIGKDD Explorations</a>!
+- [2026/01] TrustGen accepted by ICLR 2026. Congratulations to <a href="https://howiehwong.github.io/">Yue</a>!
+- [2026/01] One paper accepted by WWW 2026. Congratulations to <a href="https://xiongxiaoxu.github.io/">Xiongxiao</a>!
+- [2025/11] Two papers accepted by AAAI 2026. Congratulations to <a href="https://baixianghuang.github.io/">Baixiang</a> and <a href="https://yueqingliang1.github.io/">Yueqing</a>!
+- [2025/10] One paper accepted by IJCNLP-AACL 2025.
+- [2025/08] Completed my internship as an Applied Scientist at Amazon AGI!
+- [2025/07] Invited to serve as Program Committee member for AAAI 2026.
+- [2025/02] Excited to join Amazon AGI as an Applied Scientist Intern for Summer 2025 in Bellevue, WA.
+- [2025/01] Invited to serve as Area Chair for the NeurIPS Position Track.
+- [2025/01] Research Access Program has been awarded. Thanks OpenAI!
+- [2025/01] Fin-Fact has been accepted by <a href="https://arxiv.org/abs/2309.08793">WWW 2025</a>. Congratulations <a href="https://amanrangapur.com/">Aman</a>!
+- [2024/12] Invited as PC for ICML 2025 Position Track.
+- [2024/11] MMCV has been accepted by <a href="https://arxiv.org/abs/2411.09547">COLING 2025</a>.
+- [2024/08] Our Fin-Fact dataset has been used for shared task for <a href="https://coling2025fmd.thefin.ai/">FinNLP@COLING2025</a>
+- [2024/07] TA2 has been accepted by <a href="https://arxiv.org/abs/2311.09433">CIKM 2024</a>.
+- [2024/05] TrustLLM has been accepted by <a href="https://arxiv.org/pdf/2401.05561">ICML 2024</a>. Congratulations <a href="https://howiehwong.github.io/">Yue</a>!
+- [2024/02] Successfully Passed Ph.D. Qualifying Exam!
+- [2023/10] FOLK has been accepted by <a href="https://arxiv.org/abs/2310.05253">EMNLP 2023</a>.
+- [2023/02] MARL has been accepted by <a href="https://arxiv.org/abs/2302.07363">WWW 2023</a>.
 
 </div>
 
