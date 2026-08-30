@@ -23,6 +23,7 @@ author_profile: true
 - The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025, Position Track
 
 # Program Committee
+- The Fifteenth International Conference on Learning Representations (ICLR), 2027
 - The 2nd Workshop on LLM Agents for Social Simulation Workshop at CIKM, 2026
 - The 18th Asian Conference on Machine Learning (ACML), 2026
 - The 41st Annual AAAI Conference on Artificial Intelligence (AAAI), 2026
