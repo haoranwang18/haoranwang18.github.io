@@ -74,7 +74,7 @@ My research focuses on building **trustworthy foundation models**, with an empha
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2026</div><img src='images/colm26.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Do llms know what is private internally? probing and steering contextual privacy norms in large language model representations](https://arxiv.org/abs/2604.00209)
+[Do LLMs Know What Is Private Internally? Probing and Steering Contextual Privacy Norms in Large Language Model Representations](https://arxiv.org/abs/2604.00209)
 
 **Haoran Wang**, Li Xiong, Kai Shu
 
@@ -88,7 +88,7 @@ _Proceedings of the Third Conference on Language Modeling_
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/kdd26.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Privacy-aware decoding: Mitigating privacy leakage of large language models in retrieval-augmented generation](https://dl.acm.org/doi/10.1145/3770855.3817665)
+[Privacy-Aware Decoding: Mitigating Privacy Leakage of Large Language Models in Retrieval-Augmented Generation](https://dl.acm.org/doi/10.1145/3770855.3817665)
 
 **Haoran Wang**, Xiongxiao Xu, Baixiang Huang, Kai Shu
 
