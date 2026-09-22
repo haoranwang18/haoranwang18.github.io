@@ -399,6 +399,35 @@ html[data-theme="dark"] {
     color: $dark-text-muted;
   }
 
+  .demo-card {
+    background-color: $dark-surface;
+    border-color: $dark-border;
+
+    &:hover,
+    &:focus-within {
+      border-color: $dark-link;
+      box-shadow: 0 2px 12px rgba(#000, 0.35);
+    }
+  }
+
+  .demo-card__thumb {
+    box-shadow: 0 1px 4px rgba(#000, 0.6);
+  }
+
+  .demo-card__kicker,
+  .demo-card__cta {
+    color: $dark-link;
+  }
+
+  /* the title inherits body text in both themes; only the hover needs a rule */
+  .demo-card:hover .demo-card__title a {
+    color: $dark-link;
+  }
+
+  .demo-card__blurb {
+    color: $dark-text-muted;
+  }
+
   /* the widget's white sphere highlight washes the globe out on a dark page */
   .mmvst_ref_top {
     opacity: 0.3;
