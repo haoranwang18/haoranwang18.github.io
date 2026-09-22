@@ -38,10 +38,8 @@ My research focuses on building **trustworthy foundation models**, with an empha
 <div class="demo-card">
   <img class="demo-card__thumb" src="images/steering-demo.png" alt="Screenshot of the demo: a steering-strength slider above the model’s response and its next-token probability bars" width="220" height="108">
   <div class="demo-card__body">
-    <span class="demo-card__kicker">Interactive explainer</span>
     <p class="demo-card__title"><a href="https://steering-demo.github.io/">Representation Steering Demo</a></p>
-    <p class="demo-card__blurb">Drag a slider to add a steering vector to a model’s internal representation and watch the next-token probabilities and the response shift, with every number measured on a small open-weights model.</p>
-    <span class="demo-card__cta" aria-hidden="true">Open the demo &rarr;</span>
+    <span class="demo-card__cta" aria-hidden="true">Open &rarr;</span>
   </div>
 </div>
 
@@ -50,7 +48,6 @@ My research focuses on building **trustworthy foundation models**, with an empha
 
 <div class="news-scroll" role="region" aria-label="News" tabindex="0" markdown="1">
 
-- [2026/09] Released the <a href="https://steering-demo.github.io/">Representation Steering Demo</a>, an interactive explainer of steering a model's internal representations.
 - [2026/09] Invited as PC for WWW 2027.
 - [2026/07] CI-Steering has been accepted by <a href="https://arxiv.org/abs/2604.00209">COLM 2026</a>. See you in San Francisco!
 - [2026/06] GCP Credits has been awarded. Thanks Google!

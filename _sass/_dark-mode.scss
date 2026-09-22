@@ -375,16 +375,22 @@ html[data-theme="dark"] {
   }
 
   .news-scroll {
-    background-color: $dark-surface;
-    border-color: $dark-border;
-    scrollbar-color: #4b5462 transparent;
+    background: linear-gradient(180deg, mix($dark-link, $dark-surface, 9%) 0%, mix($dark-link, $dark-surface, 14%) 100%);
+    border-color: rgba($dark-link, 0.35);
+    border-left-color: $dark-link;
+    box-shadow: 0 2px 10px rgba(#000, 0.35);
+    scrollbar-color: rgba($dark-link, 0.55) transparent;
 
     &:focus-visible {
       outline-color: $dark-link;
     }
 
+    li::marker {
+      color: $dark-link;
+    }
+
     &::-webkit-scrollbar-thumb {
-      background-color: #4b5462;
+      background-color: rgba($dark-link, 0.55);
     }
   }
 
@@ -414,7 +420,6 @@ html[data-theme="dark"] {
     box-shadow: 0 1px 4px rgba(#000, 0.6);
   }
 
-  .demo-card__kicker,
   .demo-card__cta {
     color: $dark-link;
   }
@@ -422,10 +427,6 @@ html[data-theme="dark"] {
   /* the title inherits body text in both themes; only the hover needs a rule */
   .demo-card:hover .demo-card__title a {
     color: $dark-link;
-  }
-
-  .demo-card__blurb {
-    color: $dark-text-muted;
   }
 
   /* the widget's white sphere highlight washes the globe out on a dark page */
