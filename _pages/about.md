@@ -35,12 +35,21 @@ My research focuses on building **trustworthy foundation models**, with an empha
 - **Trustworthiness Evaluation**: [ICML 2024](https://openreview.net/pdf?id=bWUU0LwwMp), [ICLR2026](https://openreview.net/pdf?id=Fcf5fLmaeG)
 - **AI for Social & Scientific Impact**: [WWW 2023](https://dl.acm.org/doi/pdf/10.1145/3543507.3583868), [EMNLP 2023](https://aclanthology.org/2023.findings-emnlp.416.pdf)
 
+<div class="demo-cards">
 <div class="demo-card">
   <img class="demo-card__thumb" src="images/steering-demo.png" alt="Screenshot of the demo: a steering-strength slider above the model’s response and its next-token probability bars" width="220" height="108">
   <div class="demo-card__body">
     <p class="demo-card__title"><a href="https://steering-demo.github.io/">Representation Steering Demo</a></p>
     <span class="demo-card__cta" aria-hidden="true">Open &rarr;</span>
   </div>
+</div>
+<div class="demo-card">
+  <img class="demo-card__thumb" src="images/decoding-demo.png" alt="Screenshot of the demo: diagrams of contrastive, guided and parallel decoding above a model picker" width="220" height="112">
+  <div class="demo-card__body">
+    <p class="demo-card__title"><a href="https://huggingface.co/spaces/wang2226/beyond-tokens-decoding">Beyond Tokens: Decoding Playground</a></p>
+    <span class="demo-card__cta" aria-hidden="true">Open &rarr;</span>
+  </div>
+</div>
 </div>
 
 # News
@@ -205,7 +214,7 @@ _Proceedings of the ACM Web Conference 2023_
 ---
 
 <div class="page-coda">
-  <p class="page-coda__updated">Last updated on Sep 21, 2026.</p>
+  <p class="page-coda__updated">Last updated on Sep 22, 2026.</p>
   <div class="visitor-globe">
     <script type="text/javascript" id="mmvst_globe" src="https://mapmyvisitors.com/globe.js?d=SDWOZvjcEGQvmbkHt5vCf__HQwaniKPTjud79Y2vHsE&amp;w=240&amp;t=tt&amp;cl=ffffff&amp;cmo=3acc3a&amp;cmn=ff5353"></script>
     <script>
