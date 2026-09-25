@@ -82,6 +82,23 @@ sections:
   - id: conference
     title: "Conference Papers"
     items:
+      - id: C14
+        title: "JARVIS-Bench: Benchmarking Personal Intelligence Agents on Long-Horizon Real-User Daily Traces"
+        authors: "Weizhi Zhang, and many others including Haoran Wang"
+        tag:   "NeurIPS 2026"
+        venue: "Proceedings of The Fortieth Annual Conference on Neural Information Processing Systems Evaluations and Datasets Track"
+        abs: "https://openreview.net/pdf?id=yGQt9wAGkS"
+        pdf: "https://openreview.net/pdf?id=yGQt9wAGkS"
+        bibtex: |
+          @inproceedings{
+            anonymous2026jarvisbench,
+            title={{JARVIS}-Bench: Benchmarking Personal Intelligence Agents on Long-Horizon Real-User Daily Traces},
+            author={Anonymous},
+            booktitle={The Fortieth Annual Conference on Neural Information Processing Systems Evaluations and Datasets Track},
+            year={2026},
+            url={https://openreview.net/forum?id=yGQt9wAGkS}
+          }
+
       - id: C13
         title: "Do LLMs Know What Is Private Internally? Probing and Steering Contextual Privacy Norms in Large Language Model Representations"
         authors: "Haoran Wang, Li Xiong, Kai Shu"
@@ -91,11 +108,13 @@ sections:
         pdf: "https://arxiv.org/pdf/2604.00209"
         code: "https://github.com/wang2226/CI-Steering"
         bibtex: |
-          @article{wang2026llms,
-            title={Do llms know what is private internally? probing and steering contextual privacy norms in large language model representations},
-            author={Wang, Haoran and Xiong, Li and Shu, Kai},
-            journal={arXiv preprint arXiv:2604.00209},
-            year={2026}
+          @inproceedings{
+            wang2026do,
+            title={Do {LLM}s Know What Is Private Internally? Probing and Steering Contextual Privacy Norms in Large Language Model Representations},
+            author={Haoran Wang and Li Xiong and Kai Shu},
+            booktitle={Third Conference on Language Modeling},
+            year={2026},
+            url={https://openreview.net/forum?id=0zPSTKETGc}
           }
 
       - id: C12
@@ -108,21 +127,21 @@ sections:
         code: "https://github.com/wang2226/PAD"
         bibtex: |
           @inproceedings{10.1145/3770855.3817665,
-          author = {Wang, Haoran and Xu, Xiongxiao and Huang, Baixiang and Shu, Kai},
-          title = {Privacy-Aware Decoding: Mitigating Privacy Leakage of Large Language Models in Retrieval-Augmented Generation},
-          year = {2026},
-          isbn = {9798400722592},
-          publisher = {Association for Computing Machinery},
-          address = {New York, NY, USA},
-          url = {https://doi.org/10.1145/3770855.3817665},
-          doi = {10.1145/3770855.3817665},
-          abstract = {Retrieval-Augmented Generation (RAG) enhances the factual accuracy of large language models (LLMs) by conditioning outputs on external knowledge sources. However, when retrieval involves private or sensitive data, RAG systems are susceptible to extraction attacks that can leak confidential information through generated responses. We propose Privacy-Aware Decoding (PAD), a lightweight, inference-time defense that adaptively injects calibrated Gaussian noise into token logits during generation. PAD integrates logit clipping, confidence-based screening to selectively protect high-risk tokens, a risk-adaptive calibration scale that allocates noise where it is most needed, and context-aware noise calibration to balance privacy with generation quality. A renyi Differential Privacy (RDP) accountant tracks cumulative privacy loss, providing explicit per-response (?, ?) privacy accounting over the protected tokens under the realized noise schedule. Unlike prior approaches requiring retraining or corpus-level filtering, PAD is model-agnostic and operates entirely at decoding time with minimal computational overhead. Experiments on three real-world datasets demonstrate that PAD substantially reduces private information leakage while preserving response utility, outperforming existing retrieval- and post-processing-based defenses. Our work takes an important step toward mitigating privacy risks in RAG via decoding strategies, paving the way for universal and scalable privacy solutions in sensitive domains. Our code is available: https://github.com/wang2226/PAD},
-          booktitle = {Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2},
-          pages = {4870–4881},
-          numpages = {12},
-          keywords = {privacy, retrieval-augmented generation, decoding method},
-          location = {Republic of Korea},
-          series = {KDD '26}
+            author = {Wang, Haoran and Xu, Xiongxiao and Huang, Baixiang and Shu, Kai},
+            title = {Privacy-Aware Decoding: Mitigating Privacy Leakage of Large Language Models in Retrieval-Augmented Generation},
+            year = {2026},
+            isbn = {9798400722592},
+            publisher = {Association for Computing Machinery},
+            address = {New York, NY, USA},
+            url = {https://doi.org/10.1145/3770855.3817665},
+            doi = {10.1145/3770855.3817665},
+            abstract = {Retrieval-Augmented Generation (RAG) enhances the factual accuracy of large language models (LLMs) by conditioning outputs on external knowledge sources. However, when retrieval involves private or sensitive data, RAG systems are susceptible to extraction attacks that can leak confidential information through generated responses. We propose Privacy-Aware Decoding (PAD), a lightweight, inference-time defense that adaptively injects calibrated Gaussian noise into token logits during generation. PAD integrates logit clipping, confidence-based screening to selectively protect high-risk tokens, a risk-adaptive calibration scale that allocates noise where it is most needed, and context-aware noise calibration to balance privacy with generation quality. A renyi Differential Privacy (RDP) accountant tracks cumulative privacy loss, providing explicit per-response (?, ?) privacy accounting over the protected tokens under the realized noise schedule. Unlike prior approaches requiring retraining or corpus-level filtering, PAD is model-agnostic and operates entirely at decoding time with minimal computational overhead. Experiments on three real-world datasets demonstrate that PAD substantially reduces private information leakage while preserving response utility, outperforming existing retrieval- and post-processing-based defenses. Our work takes an important step toward mitigating privacy risks in RAG via decoding strategies, paving the way for universal and scalable privacy solutions in sensitive domains. Our code is available: https://github.com/wang2226/PAD},
+            booktitle = {Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2},
+            pages = {4870–4881},
+            numpages = {12},
+            keywords = {privacy, retrieval-augmented generation, decoding method},
+            location = {Republic of Korea},
+            series = {KDD '26}
           }
 
       - id: C11
