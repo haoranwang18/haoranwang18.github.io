@@ -21,7 +21,19 @@ In my free time, I enjoy human-powered outdoor adventures such as backcountry sk
 
 # Trip Highlights
 
-<div class='paper-box'><div class='paper-box-image' style="max-width:220px;"><img src='https://brucehrwang.com/blogs/images/sahale/me2.jpeg' alt="Cascade Pass to Sahale Camp" style="width:200px;height:140px;object-fit:cover;"></div>
+<div class='paper-box'><div class='paper-box-image' style="max-width:220px;"><img src='https://brucehrwang.com/blogs/images/web/yellowasterbutte/shuksan-baker.jpeg' alt="Yellow Aster Butte" style="width:200px;height:140px;object-fit:cover;"></div>
+<div class='paper-box-text' markdown="1">
+
+[Yellow Aster Butte](https://brucehrwang.com/blogs/yellowasterbutte.html)
+
+_Mt. Baker, Washington · October 2026_
+
+Hiked a 7.5-mile round trip with 2,550 ft of gain through red huckleberry meadows to the top of Yellow Aster Butte, with Mt. Baker and Mt. Shuksan filling the skyline.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image' style="max-width:220px;"><img src='https://brucehrwang.com/blogs/images/web/sahale/me-2.jpeg' alt="Cascade Pass to Sahale Camp" style="width:200px;height:140px;object-fit:cover;"></div>
 <div class='paper-box-text' markdown="1">
 
 [Cascade Pass to Sahale Camp](https://brucehrwang.com/blogs/sahale.html)
@@ -33,7 +45,7 @@ Hiked a strenuous 12-mile round trip with 4,000 ft of gain, from Cascade Pass th
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image' style="max-width:220px;"><img src='https://brucehrwang.com/blogs/images/muir/camp_muir.jpeg' alt="Hike to Camp Muir" style="width:200px;height:140px;object-fit:cover;"></div>
+<div class='paper-box'><div class='paper-box-image' style="max-width:220px;"><img src='https://brucehrwang.com/blogs/images/web/muir/camp-muir.jpeg' alt="Hike to Camp Muir" style="width:200px;height:140px;object-fit:cover;"></div>
 <div class='paper-box-text' markdown="1">
 
 [Hike to Camp Muir](https://brucehrwang.com/blogs/muir.html)
@@ -45,7 +57,7 @@ Hiked to Camp Muir, a 10,188 ft base camp on Mount Rainier, gaining 4,777 ft thr
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image' style="max-width:220px;"><img src='https://brucehrwang.com/blogs/images/sunrise/mnt.jpeg' alt="Bike Sunrise Road" style="width:200px;height:140px;object-fit:cover;"></div>
+<div class='paper-box'><div class='paper-box-image' style="max-width:220px;"><img src='https://brucehrwang.com/blogs/images/web/sunrise/rainier.jpeg' alt="Bike Sunrise Road" style="width:200px;height:140px;object-fit:cover;"></div>
 <div class='paper-box-text' markdown="1">
 
 [Bike Sunrise Road](https://brucehrwang.com/blogs/sunrise.html)
@@ -57,7 +69,7 @@ Biked Sunrise Road in its brief car-free window before it reopened to seasonal t
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image' style="max-width:220px;"><img src='https://brucehrwang.com/blogs/images/glacier/view_9.jpeg' alt="Bike Going-to-the-Sun Road" style="width:200px;height:140px;object-fit:cover;"></div>
+<div class='paper-box'><div class='paper-box-image' style="max-width:220px;"><img src='https://brucehrwang.com/blogs/images/web/glacier/view-9.jpeg' alt="Bike Going-to-the-Sun Road" style="width:200px;height:140px;object-fit:cover;"></div>
 <div class='paper-box-text' markdown="1">
 
 [Bike Going-to-the-Sun Road](https://brucehrwang.com/blogs/glacier.html)
@@ -69,7 +81,7 @@ Biked the iconic Going-to-the-Sun Road during its car-free seasonal closure.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image' style="max-width:220px;"><img src='https://brucehrwang.com/blogs/images/wheeler/cover.jpeg' alt="Summit Wheeler Peak" style="width:200px;height:140px;object-fit:cover;"></div>
+<div class='paper-box'><div class='paper-box-image' style="max-width:220px;"><img src='https://brucehrwang.com/blogs/images/web/wheeler/cover.jpeg' alt="Summit Wheeler Peak" style="width:200px;height:140px;object-fit:cover;"></div>
 <div class='paper-box-text' markdown="1">
 
 [Summit Wheeler Peak](https://brucehrwang.com/blogs/wheeler.html)
