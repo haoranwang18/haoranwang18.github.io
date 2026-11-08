@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Haoran Wang is a final-year Ph.D. candidate at Emory University advised by Dr. [Kai Shu](https://www.cs.emory.edu/~kshu5/). He received his M.S. degree in computer science from University of Oregon in 2021 (advised by Dr. [Thien Nguyen](https://ix.cs.uoregon.edu/~thien/)), and his B.S. degree in computer science from Purdue University in 2019 (working with Dr. [Yung-Hsiang Lu](https://yhlu.net/)). Previously, he worked as an applied scientist intern at Amazon AGI.
+Haoran Wang is a final-year Ph.D. candidate at Emory University advised by Dr. [Kai Shu](https://www.cs.emory.edu/~kshu5/). He received his M.S. degree in computer science from University of Oregon in 2021 (advised by Dr. [Thien Nguyen](https://ix.cs.uoregon.edu/~thien/)), and his B.S. degree in computer science from Purdue University in 2019 (working with Dr. [Yung-Hsiang Lu](https://yhlu.net/)). He is a recipient of the **2026 IEEE BigData Rising Star Award** and the **2026 Emory Excellence in Research Award**. Previously, he worked as an applied scientist intern at Amazon AGI.
 
 <div class="job-market">
 📢 <strong>On the 2026–2027 Job Market.</strong>
@@ -57,13 +57,16 @@ My research focuses on building **trustworthy foundation models**, with an empha
 
 <div class="news-scroll" role="region" aria-label="News" tabindex="0" markdown="1">
 
+- [2026/11] Honored to receive the 🏆 **2026 IEEE BigData Rising Star** designation!
+- [2026/11] Invited as PC for IJCAI 2027.
+- [2026/10] Invited as PC for ICLR 2027.
 - [2026/09] One paper accepted by NeurIPS 2026!
 - [2026/09] Check out our interactive demos on <a href="https://huggingface.co/spaces/wang2226/steering-showcase">representation steering</a> and <a href="https://huggingface.co/spaces/wang2226/beyond-tokens-decoding">decoding methods</a>!
 - [2026/09] Invited as PC for WWW 2027.
 - [2026/07] CI-Steering has been accepted by <a href="https://arxiv.org/abs/2604.00209">COLM 2026</a>. See you in San Francisco!
 - [2026/06] GCP Credits has been awarded. Thanks Google!
 - [2026/05] One paper accepted by <a href="https://arxiv.org/abs/2508.03098">KDD 2026</a>!
-- [2026/05] Honored to receive Excellence in Research Assistance Award from the department!
+- [2026/05] Honored to receive the 🏆 **2026 Excellence in Research Award** from the department!
 - [2026/04] Invited to serve as Area Chair for the NeurIPS 2026 Position Track
 - [2026/04] Successfully Passed Dissertation Prospectus!
 - [2026/02] Our survey on decoding methods in LLMs is accepted at <a href="https://dl.acm.org/doi/pdf/10.1145/3820356.3820357">SIGKDD Explorations</a>!
