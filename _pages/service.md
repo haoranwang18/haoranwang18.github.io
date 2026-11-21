@@ -49,6 +49,7 @@ author_profile: true
 
 # Journal Reviewer
 
+- Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026
 - Neural Networks (NEUNET), 2025
 - Big Data Research (BDR), 2025
 
